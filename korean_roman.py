@@ -49,6 +49,8 @@ class HangeulRomaja:
     def convert(text, conversion_type=0, options=0):
         if text == '':
             return ''
+        
+        print ('Original Text = ', text)
 
         if conversion_type == HangeulRomaja.TYPE_NAME:
             if len(text) > 2:
@@ -133,6 +135,8 @@ class HangeulRomaja:
         elif options & HangeulRomaja.CAPITALIZE_FIRST:
             result = result.capitalize()
 
+        print ('Result Text = ', result)
+
         return result  # 변환된 결과를 반환합니다.
         
     @staticmethod
@@ -161,27 +165,33 @@ class HangeulRomaja:
 
     @staticmethod
     def transform(part, next_part, part_type):
-        key = HangeulRomaja.ordmap3[part] + HangeulRomaja.ordmap1[next_part]
+        try:
+            key = HangeulRomaja.ordmap3[part] + HangeulRomaja.ordmap1[next_part]
 
-        if key in HangeulRomaja.transforms_always:
-            result_key = HangeulRomaja.transforms_always[key].replace('  ', '   ')
-            result = [
-                int(HangeulRomaja.ordmap3.index(result_key[:3])),
-                int(HangeulRomaja.ordmap1.index(result_key[3:6]))
-            ]
-        elif part_type != HangeulRomaja.TYPE_ADDRESS and key in HangeulRomaja.transforms_non_address:
-            result_key = HangeulRomaja.transforms_non_address[key].replace('  ', '   ')
-            result = [
-                int(HangeulRomaja.ordmap3.index(result_key[:3])),
-                int(HangeulRomaja.ordmap1.index(result_key[3:6]))
-            ]
-        else:
-            result = [part, next_part]
+            if key in HangeulRomaja.transforms_always:
+                result_key = HangeulRomaja.transforms_always[key].replace('  ', '   ')
+                result = [
+                    int(HangeulRomaja.ordmap3.index(result_key[:3])),
+                    int(HangeulRomaja.ordmap1.index(result_key[3:6]))
+                ]
+            elif part_type != HangeulRomaja.TYPE_ADDRESS and key in HangeulRomaja.transforms_non_address:
+                result_key = HangeulRomaja.transforms_non_address[key].replace('  ', '   ')
+                result = [
+                    int(HangeulRomaja.ordmap3.index(result_key[:3])),
+                    int(HangeulRomaja.ordmap1.index(result_key[3:6]))
+                ]
+            else:
+                result = [part, next_part]
 
-        if result[0] == 8 and result[1] == 5:
-            result[1] = 19
+            if result[0] == 8 and result[1] == 5:
+                result[1] = 19
 
-        return result
+            return result
+        except ValueError:
+            print(f"Error processing transform: '{key}' not found in ordmap3 or ordmap1")
+            print(f"Original part: {HangeulRomaja.ordmap3[part]}, Next part: {HangeulRomaja.ordmap1[next_part]}")
+            print(f"Result key: {result_key}")
+            return [part, next_part]  # 기본적으로 원래 값을 반환하여 처리를 계속하도록 함
 
     numbers_pronunciation = {
         'digits': ["영", "일", "이", "삼", "사", "오", "육", "칠", "팔", "구"],
@@ -450,9 +460,3 @@ class HangeulRomaja:
         'ㅍ',
         'ㅎ',
     ]
-    
-
-# Example usage
-romaja_converter = HangeulRomaja()
-sample_conversion = romaja_converter.convert("종로3가", conversion_type=HangeulRomaja.TYPE_NAME)
-print(sample_conversion)
