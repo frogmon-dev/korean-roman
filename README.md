@@ -40,7 +40,7 @@ Copyright (c) 2015, Kijin Sung <kijin@kijinsung.com>
 All rights reserved.
 
 This software is based on the original PHP code by Kijin Sung, and has been 
-translated to Python by [Your Name].
+translated to Python by Frogmon Corp.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
