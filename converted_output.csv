@@ -1,1420 +1,3638 @@
-﻿STTN_ID,STTN_NM,STTN_NM
-293011063,금천2리마을회관,geumcheon2rimaeulhoegwan
-293011072,황용교,hwangyonggyo
-293011073,황용교,hwangyonggyo
-293012036,행산리,haengsanri
-293012037,행산리(미건산업입구),haengsanri(migeonsaneobipgu)
-293012041,등곡3리(충광농원),deunggok3ri(chunggwangnongwon)
-293011043,감성리,gamseongri
-293012042,등곡3리(충광농원),deunggok3ri(chunggwangnongwon)
-293012046,등곡리,deunggokri
-293012048,문곡3리,mungok3ri
-293012050,매포역(노호2리),maepoyeok(noho2ri)
-293012051,문곡2리,mungok2ri
-293012052,문곡2리,mungok2ri
-293012053,노호1리,noho1ri
-293012054,노호1리,noho1ri
-293012055,등곡2리,deunggok2ri
-293012056,등곡2리,deunggok2ri
-293013002,운당2리,undang2ri
-293013007,운당1리,undang1ri
-293013008,KCC앞,KCCap
-293013012,소정면우체국,sojeongmyeonucheguk
-293013013,소정리역,sojeongriyeok
-293013015,소정면사무소,sojeongmyeonsamuso
-293013016,소정면사무소,sojeongmyeonsamuso
-293013017,소정리입구,sojeongriipgu
-293013018,소정리,sojeongri
-293013020,대곡4리,daegok4ri
-293013021,소정육교(맹골),sojeongyukgyo(maenggol)
-293013022,소정육교(맹골),sojeongyukgyo(maenggol)
-293013023,소정육교,sojeongyukgyo
-293013027,고등1리마을회관,godeung1rimaeulhoegwan
-293014001,수산리,susanri
-293014003,수산리(방아다리),susanri(bangadari)
-293014005,눌왕2리,nurwang2ri
-293014006,눌왕2리마을회관,nurwang2rimaeulhoegwan
-293014008,눌왕2리(푸른농원),nurwang2ri(pureunnongwon)
-293014009,눌왕2리(푸른농원),nurwang2ri(pureunnongwon)
-293011015,영곡2리,yeonggok2ri
-293001082,세종고등학교,sejonggodeunghakgyo
-293001067,새주막거리,saejumakgeori
-293001079,번암아파트,beonamapateu
-293001092,죽림리,jukrimri
-293001090,조치원전통시장,jochiwonjeontongsijang
-293012045,등곡리,deunggokri
-293001066,번암삼거리,beonamsamgeori
-293001072,조치원역뒤편,jochiwonyeokdwipyeon
-293001075,조치원역뒤편,jochiwonyeokdwipyeon
-293001076,죽림리,jukrimri
-293001078,번암아파트,beonamapateu
-293001080,세종고등학교,sejonggodeunghakgyo
-293019011,달전1리,daljeon1ri
-186004209,둔곡3교,dungok3gyo
-186004148,월드컵경기장역,woldeukeopgyeonggijangyeok
-186004227,반석마을입구,banseokmaeuripgu
-186004228,반석마을입구,banseokmaeuripgu
-186004229,반석역,banseogyeok
-186004230,반석역,banseogyeok
-186004288,온천교,oncheongyo
-186004302,유성자이아파트,yuseongjaiapateu
-286055014,금흥교(정보고),geumheunggyo(jeongbogo)
-186004811,지족초등학교,jijokchodeunghakgyo
-186004147,월드컵경기장역,woldeukeopgyeonggijangyeok
-186004307,구즉동주민센터입구,gujeukdongjuminsenteoipgu
-186004308,구즉동주민센터입구,gujeukdongjuminsenteoipgu
-293014018,연기산업단지,yeongisaneopdanji
-293014019,연기산업단지,yeongisaneopdanji
-293014022,연기면사무소,yeongimyeonsamuso
-293014023,연기면사무소,yeongimyeonsamuso
-293014024,한별동,hanbyeoldong
-293014025,한별동,hanbyeoldong
-293014026,한별동,hanbyeoldong
-293014027,한별동,hanbyeoldong
-293014028,연기리,yeongiri
-293014030,연기리,yeongiri
-293056001,도담동(도램마을),dodamdong(doraemmaeul)
-293055001,세종고속시외버스터미널(지상),sejonggosoksioebeoseuteomineol(jisang)
-293055002,세종고속시외버스터미널(지상),sejonggosoksioebeoseuteomineol(jisang)
-293014032,실광주유소,silgwangjuyuso
-293014034,세종호수공원,sejonghosugongwon
-293014036,방공학교,banggonghakgyo
-293014037,보통2리,botong2ri
-293014038,보통2리,botong2ri
-293054001,다정동(대성고등학교),dajeongdong(daeseonggodeunghakgyo)
-293054003,다정동,dajeongdong
-293056002,도담동,dodamdong
-293056005,성금교차로(도램마을9단지),seonggeumgyocharo(doraemmaeul9danji)
-293058002,금남초등학교,geumnamchodeunghakgyo
-293058001,금남초등학교,geumnamchodeunghakgyo
-293058003,신촌리,sinchonri
-293058006,호탄리,hotanri
-293060001,장재리,jangjaeri
-293060002,장재리,jangjaeri
-293060003,한국개발연구원(KDI),hangukgaebaryeonguwon(KDI)
-293060004,한국개발연구원(KDI),hangukgaebaryeonguwon(KDI)
-293057001,한국조세재정연구원,hangukjosejaejeongyeonguwon
-293057005,장재리(길재고개),jangjaeri(giljaegogae)
-293056007,"도램마을14,15단지","doraemmaeul14,15danji"
-293056008,양지중학교,yangjijunghakgyo
-293061002,아름동커뮤니티센터,areumdongkeomyunitisenteo
-293061004,범지기마을4단지,beomjigimaeul4danji
-186004431,안산1통,ansan1tong
-186004432,안산1통,ansan1tong
-186004433,안산산성,ansansanseong
-186004455,외삼삼거리,oesamsamgeori
-186004534,유성고속버스터미널,yuseonggosokbeoseuteomineol
-186004543,죽동네거리,jukdongnegeori
-186004544,죽동네거리,jukdongnegeori
-186004620,노은도서관,noeundoseogwan
-186004622,노은역,noeunyeok
-186004630,송림마을아파트,songrimmaeurapateu
-186004638,지족역,jijogyeok
-186004639,지족역,jijogyeok
-186004641,지족초등학교,jijokchodeunghakgyo
-186004701,KT유성지사,KTyuseongjisa
-186004704,외삼1통,oesam1tong
-186004706,안산교,ansangyo
-186004397,신동,sindong
-293057004,장재리(태련암입구),jangjaeri(taeryeonamipgu)
-293061006,아름초등학교,areumchodeunghakgyo
-293062004,다정동,dajeongdong
-293062007,정부세종청사남측,jeongbusejongcheongsanamcheuk
-293062009,과기정통부(중기부),gwagijeongtongbu(junggibu)
-293062010,과기정통부(중기부),gwagijeongtongbu(junggibu)
-293062014,정부세종청사북측,jeongbusejongcheongsabukcheuk
-274002060,오송역,osongyeok
-274020008,매봉리,maebongri
-274020010,현도면행정복지센터.선동리,hyeondomyeonhaengjeongbokjisenteo.seondongri
-274020012,"시목리, 현도중학교","simokri, hyeondojunghakgyo"
-187001379,신탄진동행정복지센터,sintanjindonghaengjeongbokjisenteo
-186004320,협진운수,hyeopjinunsu
-270014002,중동사거리,jungdongsageori
-186004394,신동2통,sindong2tong
-186004393,신동2통,sindong2tong
-270014003,중동사거리,jungdongsageori
-274002001,중봉리,jungbongri
-274002082,상봉2리(가마소),sangbong2ri(gamaso)
-274002084,상봉초등학교,sangbongchodeunghakgyo
-274002085,상봉초등학교,sangbongchodeunghakgyo
-274002086,서평리,seopyeongri
-274002087,서평리,seopyeongri
-274002088,서평1리,seopyeong1ri
-274020006,매봉(매봉리 방면),maebong(maebongri bangmyeon)
-274020015,시목리,simokri
-274020017,양지리,yangjiri
-274020044,시목1리,simok1ri
-285013003,병천3리,byeongcheon3ri
-274020018,양지2리,yangji2ri
-274020003,달계리,dalgyeri
-186004392,신동1통,sindong1tong
-293016129,연서초등학교,yeonseochodeunghakgyo
-293017067,송문리(원송정),songmunri(wonsongjeong)
-293013014,소정리역,sojeongriyeok
-293013019,대곡1리,daegok1ri
-293001081,신동아아파트,sindongaapateu
-293001085,세종중학교,sejongjunghakgyo
-293001088,조치원전통시장,jochiwonjeontongsijang
-293001091,죽림리,jukrimri
-293001094,조치원버스터미널,jochiwonbeoseuteomineol
-293011001,봉안리(다름고개),bonganri(dareumgogae)
-293011002,도남리,donamri
-293011003,도남리,donamri
-293011006,금강수목원(산림박물관),geumgangsumogwon(sanrimbakmulgwan)
-293011007,원봉1리,wonbong1ri
-293011008,원봉1리,wonbong1ri
-293011010,원봉2리,wonbong2ri
-293011018,성덕1리,seongdeok1ri
-293011011,원봉2리마을회관,wonbong2rimaeulhoegwan
-293001021,신안리마을회관,sinanrimaeulhoegwan
-293001032,중앙요양병원,jungangyoyangbyeongwon
-293001036,신봉초등학교,sinbongchodeunghakgyo
-293001020,세종시민체육관,sejongsimincheyukgwan
-293011017,영곡리,yeonggokri
-293011020,국곡리32사단,gukgokri32sadan
-293011022,국곡리,gukgokri
-293001001,봉산리(국제기계),bongsanri(gukjegigye)
-293001002,봉산리(국제기계),bongsanri(gukjegigye)
-293001003,봉산리(윗말),bongsanri(witmal)
-293001004,봉산리(윗말),bongsanri(witmal)
-293001005,봉산리(중뜸),bongsanri(jungtteum)
-293001008,방축골(갑부농원),bangchukgol(gapbunongwon)
-293001009,봉산1리,bongsan1ri
-293001010,봉산1리,bongsan1ri
-293001011,봉산1리마을회관,bongsan1rimaeulhoegwan
-293001012,봉산1리마을회관,bongsan1rimaeulhoegwan
-293001013,봉산리,bongsanri
-293001015,한마음효요양병원,hanmaeumhyoyoyangbyeongwon
-293001016,한마음효요양병원,hanmaeumhyoyoyangbyeongwon
-293001017,서창리,seochangri
-293001018,서창리,seochangri
-293001022,신안리마을회관,sinanrimaeulhoegwan
-293001023,세종여자고등학교,sejongyeojagodeunghakgyo
-293001024,세종여자고등학교,sejongyeojagodeunghakgyo
-293013003,운당2리,undang2ri
-293001026,조형아파트,johyeongapateu
-293001027,조형아파트,johyeongapateu
-293001028,구렁말,gureongmal
-293001031,신안2리입구,sinan2riipgu
-293001033,중앙요양병원,jungangyoyangbyeongwon
-293001037,신흥주공아파트,sinheungjugongapateu
-293001043,홍익대학교,hongikdaehakgyo
-293001050,신안1리입구,sinan1riipgu
-293001055,고려대학교,goryeodaehakgyo
-293001052,자이아파트,jaiapateu
-293064017,조치원역,jochiwonyeok
-293015065,명학2리(황룡사),myeonghak2ri(hwangryongsa)
-293015067,명학2리(황룡사),myeonghak2ri(hwangryongsa)
-293015066,청정아파트,cheongjeongapateu
-293015070,청정아파트,cheongjeongapateu
-293015069,명학3리,myeonghak3ri
-293015062,명학리,myeonghakri
-293015055,명학1리,myeonghak1ri
-293015060,응암리(가마골),eungamri(gamagol)
-293001046,자이아파트정문,jaiapateujeongmun
-293001047,신안1리,sinan1ri
-293001048,홍익대학교,hongikdaehakgyo
-293001051,세종여자고등학교입구,sejongyeojagodeunghakgyoipgu
-293001053,자이아파트,jaiapateu
-293011025,용담1리(옹기마을),yongdam1ri(onggimaeul)
-293011027,금남면사무소,geumnammyeonsamuso
-293011028,금남면사무소,geumnammyeonsamuso
-293011031,두만리,dumanri
-293011032,두만리,dumanri
-293011033,발산리,balsanri
-293011034,발산리,balsanri
-293016001,청라리,cheongrari
-293016002,청라2리,cheongra2ri
-293016003,청라2리,cheongra2ri
-293016004,쌍류보건진료소,ssangryubogeonjinryoso
-293016005,쌍류보건진료소,ssangryubogeonjinryoso
-293016010,쌍류리,ssangryuri
-293016012,기룡리,giryongri
-293016013,와촌3리(은암),wachon3ri(eunam)
-293016016,용암삼거리,yongamsamgeori
-293016018,고복저수지,gobokjeosuji
-293016019,고복저수지,gobokjeosuji
-293016020,금박골,geumbakgol
-293016021,용암리입구,yongamriipgu
-293016022,기룡정미소,giryongjeongmiso
-293016024,기룡리정미소,giryongrijeongmiso
-293016026,와촌3리,wachon3ri
-293016027,신대2리(송적골),sindae2ri(songjeokgol)
-293016029,기룡리복지회관,giryongribokjihoegwan
-293016031,대륙테크놀로지,daeryuktekeunolloji
-293016032,대륙테크놀로지,daeryuktekeunolloji
-293016033,평전,pyeongjeon
-293016034,평전,pyeongjeon
-293016037,영동부화장,yeongdongbuhwajang
-293016038,영동부화장,yeongdongbuhwajang
-293016039,고복2리,gobok2ri
-293016040,고복2리,gobok2ri
-293016042,기룡리(효교동),giryongri(hyogyodong)
-293016043,와촌보건진료소,wachonbogeonjinryoso
-293016044,와촌보건진료소,wachonbogeonjinryoso
-293016046,고복리조각공원,gobokrijogakgongwon
-293016047,신대2리마을회관,sindae2rimaeulhoegwan
-293016048,신대2리마을회관,sindae2rimaeulhoegwan
-293016049,고복저수지입구,gobokjeosujiipgu
-293016053,고복리,gobokri
-293016056,신대1리,sindae1ri
-293016057,신대1리마을회관,sindae1rimaeulhoegwan
-293016058,신대1리,sindae1ri
-293016061,세종기숙학원,sejonggisukhagwon
-293017052,용암2리입구,yongam2riipgu
-293017054,봉안리(부일가든),bonganri(builgadeun)
-293017055,금암삼거리,geumamsamgeori
-293017057,산학리,sanhakri
-293017058,산학리,sanhakri
-293017059,봉안리,bonganri
-293017061,동원주식회사,dongwonjusikhoesa
-293017062,영평사입구,yeongpyeongsaipgu
-293017063,영평사입구,yeongpyeongsaipgu
-293018001,베어트리파크,beeoteuripakeu
-293018002,베어트리파크,beeoteuripakeu
-293018003,흥진레미콘,heungjinremikon
-293018004,송성1리입구,songseong1riipgu
-293018005,송성1리입구,songseong1riipgu
-293018006,흥진레미콘,heungjinremikon
-293018007,송성2리입구,songseong2riipgu
-293018013,미곡리,migokri
-293018014,미곡리,migokri
-293018015,개미고개,gaemigogae
-293018016,개미고개,gaemigogae
-293018019,청람리입구,cheongramriipgu
-293018020,송정리,songjeongri
-293018022,청람리,cheongramri
-293018024,청람1리마을회관,cheongram1rimaeulhoegwan
-293018025,송정2리(구리골),songjeong2ri(gurigol)
-293018027,송정리(행골),songjeongri(haenggol)
-293018030,송정1리(상소골),songjeong1ri(sangsogol)
-293018031,아람달동림권역체험관,aramdaldongrimgwonyeokcheheomgwan
-293018033,송정1리,songjeong1ri
-293018034,송정1리,songjeong1ri
-293018036,송정1리(권고조경),songjeong1ri(gwongojogyeong)
-293018038,청송산업단지입구,cheongsongsaneopdanjiipgu
-293018039,석곡리,seokgokri
-293018040,송곡2리(능골),songgok2ri(neunggol)
-293018041,석곡리,seokgokri
-293018044,보덕2리마을회관,bodeok2rimaeulhoegwan
-293018045,청송리,cheongsongri
-293018046,석곡리입구,seokgokriipgu
-293018048,송곡2리,songgok2ri
-293018050,봉대리(평말),bongdaeri(pyeongmal)
-293018051,봉대리(평말),bongdaeri(pyeongmal)
-293018052,전동 복컴·면사무소·초등학교,jeondong bokkeom·myeonsamuso·chodeunghakgyo
-293018053,전동 복컴·면사무소·초등학교,jeondong bokkeom·myeonsamuso·chodeunghakgyo
-293018054,봉대리,bongdaeri
-293018055,봉대리,bongdaeri
-293018056,전동역,jeondongyeok
-293018057,송곡1리,songgok1ri
-293018058,송곡1리,songgok1ri
-293018060,전동삼거리,jeondongsamgeori
-293018061,전동삼거리,jeondongsamgeori
-293018062,전동삼거리,jeondongsamgeori
-293018064,송곡1리(예비군훈련장),songgok1ri(yebigunhunryeonjang)
-293018065,송곡보건진료소,songgokbogeonjinryoso
-293018067,노장농공단지,nojangnonggongdanji
-293018069,조치원낚시터,jochiwonnaksiteo
-293018070,조치원낚시터,jochiwonnaksiteo
-293018071,심중2리입구,simjung2riipgu
-293018074,세종시공원묘원,sejongsigongwonmyowon
-293018075,노장3리,nojang3ri
-293018076,노장2리,nojang2ri
-293018077,노장2리,nojang2ri
-293018079,보덕1리,bodeok1ri
-293018080,보덕1리,bodeok1ri
-293018081,심중1리,simjung1ri
-293018084,심중2리입구,simjung2riipgu
-293018085,심중2리,simjung2ri
-293018086,심중2리,simjung2ri
-293019001,KCC앞,KCCap
-293019003,유천리(어천),yucheonri(eocheon)
-293019004,유천리(어천),yucheonri(eocheon)
-293016087,전당골,jeondanggol
-293064236,대곡리,daegokri
-293064026,종촌종합복지센터,jongchonjonghapbokjisenteo
-293064027,"종촌초등학교(가재마을1,2단지)","jongchonchodeunghakgyo(gajaemaeul1,2danji)"
-293064028,고운중학교,gounjunghakgyo
-293064029,고운중학교,gounjunghakgyo
-293064030,"종촌초등학교(가재마을1,2단지)","jongchonchodeunghakgyo(gajaemaeul1,2danji)"
-293064106,가락마을14단지,garakmaeul14danji
-293064107,가락마을14단지,garakmaeul14danji
-293064110,"도램마을8,10단지","doraemmaeul8,10danji"
-293064113,"가락마을17,18단지","garakmaeul17,18danji"
-293064114,"가락마을17,18단지","garakmaeul17,18danji"
-293064115,두루고등학교,durugodeunghakgyo
-293064116,두루고등학교,durugodeunghakgyo
-293064117,"가락마을10,13단지","garakmaeul10,13danji"
-293064119,"가락마을9,11단지","garakmaeul9,11danji"
-293064120,"가락마을9,11단지","garakmaeul9,11danji"
-293064122,으뜸초등학교,eutteumchodeunghakgyo
-293064123,고운동커뮤니티센터남측,goundongkeomyunitisenteonamcheuk
-293064124,고운동커뮤니티센터남측,goundongkeomyunitisenteonamcheuk
-293064125,가재마을7단지,gajaemaeul7danji
-293064197,신동,sindong
-293064243,"법원.검찰청,경찰청","beobwon.geomchalcheong,gyeongchalcheong"
-293064204,"고운뜰공원,대법원등기정보센터","gountteulgongwon,daebeobwondeunggijeongbosenteo"
-293064205,"가락마을7,8단지","garakmaeul7,8danji"
-293064245,국책연구단지남측,gukchaegyeongudanjinamcheuk
-293064246,국책연구단지남측,gukchaegyeongudanjinamcheuk
-293064213,글벗중학교(새샘마을9단지),geulbeotjunghakgyo(saesaemmaeul9danji)
-293064206,보람동.대평동,boramdong.daepyeongdong
-293064208,보람동(호려울마을),boramdong(horyeoulmaeul)
-293064211,"시청,시의회,교육청,세무서","sicheong,siuihoe,gyoyukcheong,semuseo"
-293064167,"호려울마을8,9단지","horyeoulmaeul8,9danji"
-293064168,"새샘마을1,2단지","saesaemmaeul1,2danji"
-293064169,"새샘마을1,2단지","saesaemmaeul1,2danji"
-293064217,소담동(새샘마을),sodamdong(saesaemmaeul)
-293064214,소담동 새샘마을,sodamdong saesaemmaeul
-293064216,소담동 새샘마을,sodamdong saesaemmaeul
-293064212,글벗중학교(새샘마을9단지),geulbeotjunghakgyo(saesaemmaeul9danji)
-293064170,방공학교,banggonghakgyo
-293064088,부용농공단지,buyongnonggongdanji
-293064087,부용농공단지,buyongnonggongdanji
-293064085,성덕교차로,seongdeokgyocharo
-293064086,성덕교차로,seongdeokgyocharo
-293064165,"세종우체국(남부서,보람초)","sejongucheguk(nambuseo,boramcho)"
-186004074,대광로제비앙아파트,daegwangrojebiangapateu
-186004052,롯데마트대덕점,rotdemateudaedeokjeom
-293064172,노송1리,nosong1ri
-293064173,장군면복지회관,janggunmyeonbokjihoegwan
-293064174,장군면복지회관,janggunmyeonbokjihoegwan
-293064176,평기리,pyeonggiri
-293064181,도남삼거리,donamsamgeori
-293064182,도남삼거리,donamsamgeori
-186004611,용산고등학교,yongsangodeunghakgyo
-186004313,송강마을아파트,songgangmaeurapateu
-186004322,휴먼시아아파트,hyumeonsiaapateu
-293018017,청람리(동막골),cheongramri(dongmakgol)
-293018021,청람리,cheongramri
-293018026,송정2리(구리골),songjeong2ri(gurigol)
-293018032,아람달동림권역체험관,aramdaldongrimgwonyeokcheheomgwan
-293018037,청송산업단지입구,cheongsongsaneopdanjiipgu
-293018043,청송리,cheongsongri
-293018078,노장3리,nojang3ri
-293018083,심중2리입구,simjung2riipgu
-293019006,유천리,yucheonri
-293019049,덕고개,deokgogae
-293019054,한국콜마,hangukkolma
-293019058,전의중학교,jeonuijunghakgyo
-293016086,국촌2리마을회관,gukchon2rimaeulhoegwan
-293016097,국촌1리,gukchon1ri
-293016102,대원아파트,daewonapateu
-293016110,대원아파트후문,daewonapateuhumun
-293016114,농업기술센터,nongeopgisulsenteo
-293016119,봉암2리마을회관,bongam2rimaeulhoegwan
-293017016,평기리(아랫말),pyeonggiri(araetmal)
-293017022,용현리,yonghyeonri
-293017026,평촌입구,pyeongchonipgu
-293017031,용암1리마을회관,yongam1rimaeulhoegwan
-293017036,영상마을아파트,yeongsangmaeurapateu
-293017042,금암리(솔정자),geumamri(soljeongja)
-186004129,금고1통,geumgo1tong
-293060005,장재1리,jangjae1ri
-293011057,남곡리마을회관,namgokrimaeulhoegwan
-293011062,황용2리,hwangyong2ri
-293011071,황용리,hwangyongri
-293011066,새나루마을1단지,saenarumaeul1danji
-293012005,금호2리공단입구,geumho2rigongdanipgu
-293012029,금호리,geumhori
-293012025,부강9리,bugang9ri
-293015063,명학리,myeonghakri
-293019069,성호아파트,seonghoapateu
-293062008,정부세종청사남측,jeongbusejongcheongsanamcheuk
-293062013,정부세종청사북측,jeongbusejongcheongsabukcheuk
-293001049,신안1리입구,sinan1riipgu
-293011080,황용리삼성복지회관,hwangyongrisamseongbokjihoegwan
-293011104,박산리,baksanri
-293011108,박산고개,baksangogae
-293012015,저산2리,jeosan2ri
-293015040,노송1리(노리미),nosong1ri(norimi)
-293015044,응암농공단지,eungamnonggongdanji
-186004434,안산산성,ansansanseong
-186004533,유성고속버스터미널,yuseonggosokbeoseuteomineol
-186004621,노은도서관,noeundoseogwan
-186004640,노은역,noeunyeok
-186004319,협진운수,hyeopjinunsu
-186004131,금고2통,geumgo2tong
-293062024,"양지중학교(한뜰마을1,2단지)","yangjijunghakgyo(hantteulmaeul1,2danji)"
-293064003,첫마을4단지,cheotmaeul4danji
-293015068,명학3리,myeonghak3ri
-293064007,한솔중학교(첫마을7단지),hansoljunghakgyo(cheotmaeul7danji)
-293064005,첫마을6단지,cheotmaeul6danji
-293064002,첫마을5단지,cheotmaeul5danji
-293064010,첫마을3단지,cheotmaeul3danji
-293064004,첫마을4단지,cheotmaeul4danji
-293016025,효방동,hyobangdong
-293016041,기룡리(효교동),giryongri(hyogyodong)
-293016045,고복리조각공원,gobokrijogakgongwon
-293062015,성금교차로(세종포스트빌딩),seonggeumgyocharo(sejongposeuteubilding)
-293062017,문화체육관광부,munhwacheyukgwangwangbu
-293062019,정부세종청사 중앙동,jeongbusejongcheongsa jungangdong
-293062020,정부세종청사 중앙동,jeongbusejongcheongsa jungangdong
-293062021,공정거래위원회,gongjeonggeoraewiwonhoe
-293062025,국무조정실(한뜰마을3단지),gukmujojeongsil(hantteulmaeul3danji)
-293063001,가재마을5단지.가온마을6단지,gajaemaeul5danji.gaonmaeul6danji
-293064009,첫마을1단지,cheotmaeul1danji
-186004119,충남대학교,chungnamdaehakgyo
-186004063,서한이다음2단지,seohanidaeum2danji
-186004065,구룡2통,guryong2tong
-186004066,구룡2통,guryong2tong
-186004062,구룡,guryong
-186004133,금고동,geumgodong
-186004136,대동금탄동입구,daedonggeumtandongipgu
-186004128,금고1통,geumgo1tong
-186004135,금고동매립장,geumgodongmaeripjang
-293051006,가람동(이마트앞),garamdong(imateuap)
-293019084,동교리,donggyori
-293019089,하노곡,hanogok
-293053004,새롬동.나성동,saeromdong.naseongdong
-293018018,청람리입구,cheongramriipgu
-186004610,용산고등학교,yongsangodeunghakgyo
-293064021,대평리원형교차로,daepyeongriwonhyeonggyocharo
-186004266,대덕고등학교,daedeokgodeunghakgyo
-293064227,리봄화장품,ribomhwajangpum
-293064228,리봄화장품,ribomhwajangpum
-293064230,명학산업단지입구,myeonghaksaneopdanjiipgu
-293019007,금사리,geumsari
-293019009,달전1리,daljeon1ri
-293019019,세종미래산업단지,sejongmiraesaneopdanji
-293019020,양곡리,yanggokri
-293019021,양곡리,yanggokri
-293019022,유천2리,yucheon2ri
-293019023,유천2리,yucheon2ri
-293019024,달전리(태호농장),daljeonri(taehonongjang)
-293019025,달전리(태호농장),daljeonri(taehonongjang)
-293019026,민석아파트입구,minseogapateuipgu
-293019027,민석아파트입구,minseogapateuipgu
-293019028,신방1리(신암골),sinbang1ri(sinamgol)
-293019030,비암사입구,biamsaipgu
-293019031,비암사입구,biamsaipgu
-293019032,대전카톨릭대입구,daejeonkatollikdaeipgu
-293019034,서정2리마을회관,seojeong2rimaeulhoegwan
-293019035,서정2리마을회관,seojeong2rimaeulhoegwan
-293019036,영당리(영성들),yeongdangri(yeongseongdeul)
-293019039,영당리(영성들),yeongdangri(yeongseongdeul)
-293019040,다방1리마을회관,dabang1rimaeulhoegwan
-293019041,서정2리,seojeong2ri
-293019042,서정2리,seojeong2ri
-293019043,부거실(아랫마을),bugeosil(araetmaeul)
-293019045,신흥리,sinheungri
-293019046,신흥리,sinheungri
-293019047,덕고개,deokgogae
-293019048,서정1리마을회관,seojeong1rimaeulhoegwan
-293019051,전의산연수원,jeonuisanyeonsuwon
-293019052,전의산연수원,jeonuisanyeonsuwon
-293019053,한국콜마,hangukkolma
-293019056,원성2리,wonseong2ri
-293019057,원성2리,wonseong2ri
-293019060,부거실(윗마을),bugeosil(witmaeul)
-293019064,원성리(죽근마을),wonseongri(jukgeunmaeul)
-293019065,전의역,jeonuiyeok
-293019066,전의역,jeonuiyeok
-293019070,성호아파트,seonghoapateu
-293019071,갈정교,galjeonggyo
-293019072,갈정교,galjeonggyo
-293019073,대추리,daechuri
-293016062,은용리,eunyongri
-293016063,번암터,beonamteo
-293016065,연서감리교회,yeonseogamrigyohoe
-293016066,연서감리교회,yeonseogamrigyohoe
-293016067,연서중학교,yeonseojunghakgyo
-293016068,연서중학교,yeonseojunghakgyo
-293016070,고복1리마을회관,gobok1rimaeulhoegwan
-293016071,국촌2리,gukchon2ri
-293016072,국촌2리,gukchon2ri
-293016073,와촌1리(대실),wachon1ri(daesil)
-293016074,와촌1리(대실),wachon1ri(daesil)
-293016075,서면,seomyeon
-293016076,서면,seomyeon
-293011094,달전리,daljeonri
-293011106,부용2리,buyong2ri
-293011107,박산고개,baksangogae
-293012007,산수리입구,sansuriipgu
-293012011,부강역,bugangyeok
-293012009,부강리,bugangri
-293012008,부강리,bugangri
-293019062,관정1리,gwanjeong1ri
-293016079,성제2리,seongje2ri
-293016081,서세종농협,seosejongnonghyeop
-293016082,서세종농협,seosejongnonghyeop
-293016083,성제삼거리,seongjesamgeori
-293016084,성제삼거리,seongjesamgeori
-293016085,국촌2리마을회관,gukchon2rimaeulhoegwan
-293011081,영대1리마을회관,yeongdae1rimaeulhoegwan
-293011082,황용사,hwangyongsa
-293011084,초정약수터,chojeongyaksuteo
-293011085,영대리,yeongdaeri
-293011086,영대리,yeongdaeri
-293011089,달전리(한울농장),daljeonri(hanulnongjang)
-293011090,대박리(광덕사),daebakri(gwangdeoksa)
-293011092,대박리(광덕사),daebakri(gwangdeoksa)
-293011093,부용1리,buyong1ri
-293011095,달전리,daljeonri
-293011098,대박리,daebakri
-293011099,대박리,daebakri
-293011100,망골,manggol
-293011102,박산리(작약골),baksanri(jagyakgol)
-293011103,박산리,baksanri
-293011105,부용2리,buyong2ri
-293012002,금호2리노인회관,geumho2rinoinhoegwan
-293012004,갈산2리,galsan2ri
-293012006,금호2리공단입구,geumho2rigongdanipgu
-293012028,부강9리,bugang9ri
-293012021,부강초등학교,bugangchodeunghakgyo
-293012023,부강3리,bugang3ri
-293012014,부강역,bugangyeok
-293011088,달전리(한울농장),daljeonri(hanulnongjang)
-293012022,갈산리,galsanri
-293012027,한화사원아파트,hanhwasawonapateu
-293015018,예양1리,yeyang1ri
-293015019,예양1리,yeyang1ri
-293015020,양세오충각,yangseochunggak
-293015022,송용리,songyongri
-293015023,예양리,yeyangri
-293015031,내판2리,naepan2ri
-293015026,송용리,songyongri
-293015028,내판역,naepanyeok
-293015030,내판역,naepanyeok
-293015032,내판2리,naepan2ri
-293015033,노송2리,nosong2ri
-293015035,연동중학교,yeondongjunghakgyo
-293015036,연동중학교,yeondongjunghakgyo
-293015037,노송1리(노리미),nosong1ri(norimi)
-293015038,교과서박물관,gyogwaseobakmulgwan
-293015039,교과서박물관,gyogwaseobakmulgwan
-293015043,응암농공단지,eungamnonggongdanji
-293016088,성제1리마을회관,seongje1rimaeulhoegwan
-293016089,성제1리마을회관,seongje1rimaeulhoegwan
-293016090,쌍전리(우리요양원),ssangjeonri(uriyoyangwon)
-293016092,부동리마을회관,budongrimaeulhoegwan
-293016093,부동리마을회관,budongrimaeulhoegwan
-293016094,연서면사무소,yeonseomyeonsamuso
-293016098,월하1리마을회관,wolha1rimaeulhoegwan
-293016099,월하1리마을회관,wolha1rimaeulhoegwan
-293016100,방축골,bangchukgol
-293016101,대원아파트,daewonapateu
-293016103,국촌1리(함박산),gukchon1ri(hambaksan)
-293016104,국촌1리(함박산),gukchon1ri(hambaksan)
-293016105,쌍전리마을회관,ssangjeonrimaeulhoegwan
-293016111,세종장례식장,sejongjangryesikjang
-293016112,봉암리,bongamri
-293016113,봉암리,bongamri
-293016115,월하2리,wolha2ri
-293016116,세종교통,sejonggyotong
-293016117,세종교통,sejonggyotong
-293016118,도원초등학교,dowonchodeunghakgyo
-293016120,세종장례식장입구,sejongjangryesikjangipgu
-293016121,세종장례식장입구,sejongjangryesikjangipgu
-293016122,세종장례식장입구,sejongjangryesikjangipgu
-293016123,세종장례식장입구,sejongjangryesikjangipgu
-293016124,월하리(항공학교),wolhari(hanggonghakgyo)
-293016125,월하리(항공학교),wolhari(hanggonghakgyo)
-293016127,월하리,wolhari
-293017005,송학2리(하나로마트),songhak2ri(hanaromateu)
-293017007,은용리,eunyongri
-293017010,송문리입구,songmunriipgu
-293017012,하봉교차로,habonggyocharo
-293017013,송문리입구,songmunriipgu
-293017014,평기리마을회관,pyeonggirimaeulhoegwan
-293017018,장기중학교,janggijunghakgyo
-293017020,장기중학교,janggijunghakgyo
-293017021,용현리,yonghyeonri
-293017023,장군면사무소,janggunmyeonsamuso
-293017024,장군면사무소,janggunmyeonsamuso
-293017025,평촌입구,pyeongchonipgu
-293017028,대교1리(밤실입구),daegyo1ri(bamsiripgu)
-293017029,장기초등학교,janggichodeunghakgyo
-293017032,금암리노인정,geumamrinoinjeong
-293017033,용암1리마을회관,yongam1rimaeulhoegwan
-293017034,금암리(웅대원룸),geumamri(ungdaewonrum)
-293017035,영상마을아파트,yeongsangmaeurapateu
-293017037,금암리(정보마을영조아파트),geumamri(jeongbomaeuryeongjoapateu)
-293017038,금암리(정보마을영조아파트),geumamri(jeongbomaeuryeongjoapateu)
-293017039,대교리,daegyori
-293017040,금암리(그린원룸),geumamri(geurinwonrum)
-293017041,금암리(어반스테이),geumamri(eobanseutei)
-293017045,한국영상대학교,hangugyeongsangdaehakgyo
-293017049,봉안리(부일가든),bonganri(builgadeun)
-293017050,용암2리입구,yongam2riipgu
-293017051,은용1리,eunyong1ri
-293014010,수왕초등학교,suwangchodeunghakgyo
-293014011,수왕초등학교,suwangchodeunghakgyo
-293014012,눌왕1리(도덕농장),nurwang1ri(dodeoknongjang)
-293014013,눌왕1리(도덕농장),nurwang1ri(dodeoknongjang)
-293014014,해밀동,haemildong
-293011036,용담리,yongdamri
-293011068,새나루마을8단지,saenarumaeul8danji
-293011069,새나루마을9단지,saenarumaeul9danji
-293011070,새나루마을9단지,saenarumaeul9danji
-293011061,황용2리,hwangyong2ri
-293011067,새나루마을8단지,saenarumaeul8danji
-293011076,산학연클러스터,sanhagyeonkeulleoseuteo
-293011077,집현동,jiphyeondong
-293012038,부강면생활체육관,bugangmyeonsaenghwalcheyukgwan
-293011079,집현동,jiphyeondong
-293012039,문곡1리,mungok1ri
-293012040,문곡1리,mungok1ri
-293017017,평기리(아랫말),pyeonggiri(araetmal)
-293011038,도암리입구,doamriipgu
-293011039,감성초등학교,gamseongchodeunghakgyo
-293011040,두만리(산동마을),dumanri(sandongmaeul)
-293011041,감성초등학교,gamseongchodeunghakgyo
-293011047,송림사입구,songrimsaipgu
-293011048,축산리마을회관,chuksanrimaeulhoegwan
-293011049,축산리마을회관,chuksanrimaeulhoegwan
-293011050,축산리,chuksanri
-293011051,축산리,chuksanri
-293011055,금천1리,geumcheon1ri
-293011059,금천1리마을회관,geumcheon1rimaeulhoegwan
-293011060,금천1리마을회관,geumcheon1rimaeulhoegwan
-286053001,산성동/시내버스정류장,sanseongdong/sinaebeoseujeongryujang
-285016025,해정2리,haejeong2ri
-293064013,은하수공원,eunhasugongwon
-293011109,황용리(황용1교),hwangyongri(hwangyong1gyo)
-293056035,"가재마을7,12단지","gajaemaeul7,12danji"
-293056011,"도램마을16,19단지","doraemmaeul16,19danji"
-293019095,사관정,sagwanjeong
-293017070,용현리(효도마을),yonghyeonri(hyodomaeul)
-293017068,송문리(원송정),songmunri(wonsongjeong)
-293017066,송문리,songmunri
-293017065,송문리,songmunri
-293014058,누리동,nuridong
-293012057,산수리,sansuri
-293001097,죽림리,jukrimri
-286066004,시목동(터미널 방면),simokdong(teomineol bangmyeon)
-286066006,신관사거리,singwansageori
-286066010,종합버스터미널(신관초방면),jonghapbeoseuteomineol(singwanchobangmyeon)
-286070001,옥룡동 회전교차로(터미널),okryongdong hoejeongyocharo(teomineol)
-286070002,옥룡동 교차로(산성시장 방면),okryongdong gyocharo(sanseongsijang bangmyeon)
-286070003,옥룡동 주민센터(시목동방면),okryongdong juminsenteo(simokdongbangmyeon)
-286070005,옥룡동 회전교차로(산성시장),okryongdong hoejeongyocharo(sanseongsijang)
-187001378,신탄진동행정복지센터,sintanjindonghaengjeongbokjisenteo
-293053011,한솔동,hansoldong
-293019087,달계리,dalgyeri
-293019077,재동아파트,jaedongapateu
-293019078,사관정,sagwanjeong
-293019081,중대부,jungdaebu
-293019082,중대부,jungdaebu
-293019085,동교리,donggyori
-293019086,신정2리,sinjeong2ri
-293019088,종성골,jongseonggol
-293019090,하노곡,hanogok
-293019091,노곡리종점,nogokrijongjeom
-293051003,열병합발전소,yeolbyeonghapbaljeonso
-293051004,열병합발전소,yeolbyeonghapbaljeonso
-293052001,은하수공원,eunhasugongwon
-293052002,은하수공원,eunhasugongwon
-293053003,"새롬동,나성동(청소년센터)","saeromdong,naseongdong(cheongsonyeonsenteo)"
-293053005,"새롬동,나성동(청소년센터)","saeromdong,naseongdong(cheongsonyeonsenteo)"
-293053006,새롬동.나성동,saeromdong.naseongdong
-293053007,첫마을1단지,cheotmaeul1danji
-293001068,새주막거리,saejumakgeori
-293062006,정부세종청사남측,jeongbusejongcheongsanamcheuk
-186004207,둔곡동,dungokdong
-293064006,첫마을6단지,cheotmaeul6danji
-274002040,중봉리,jungbongri
-274002089,동평3리,dongpyeong3ri
-274020007,매봉(양지리 방면),maebong(yangjiri bangmyeon)
-274020014,시목1리,simok1ri
-274020045,시목리,simokri
-293017027,대교1리(밤실입구),daegyo1ri(bamsiripgu)
-293017047,용암2리마을회관,yongam2rimaeulhoegwan
-293011046,송림사입구,songrimsaipgu
-293011078,황용리삼성복지회관,hwangyongrisamseongbokjihoegwan
-293012047,문곡3리,mungok3ri
-293013011,소정면우체국,sojeongmyeonucheguk
-293014004,눌왕2리,nurwang2ri
-293011005,금강수목원(산림박물관),geumgangsumogwon(sanrimbakmulgwan)
-293001014,봉산리,bongsanri
-293001030,신안2리입구,sinan2riipgu
-293011026,용담1리(옹기마을),yongdam1ri(onggimaeul)
-293016014,와촌3리(은암),wachon3ri(eunam)
-293016036,조치원노인전문병원,jochiwonnoinjeonmunbyeongwon
-293016052,와촌리(기와말),wachonri(giwamal)
-293016055,신대1리마을회관,sindae1rimaeulhoegwan
-293017056,금암삼거리,geumamsamgeori
-293018008,송성2리입구,songseong2riipgu
-293018029,송정1리(상소골),songjeong1ri(sangsogol)
-293018035,송정1리(권고조경),songjeong1ri(gwongojogyeong)
-293018049,송곡2리,songgok2ri
-293018063,송곡1리(예비군훈련장),songgok1ri(yebigunhunryeonjang)
-293018073,세종시공원묘원,sejongsigongwonmyowon
-293064108,도램마을20단지,doraemmaeul20danji
-293064121,으뜸초등학교,eutteumchodeunghakgyo
-293064203,"고운뜰공원,대법원등기정보센터","gountteulgongwon,daebeobwondeunggijeongbosenteo"
-293064233,"가락마을20,21단지","garakmaeul20,21danji"
-293064234,"가락마을20,21단지","garakmaeul20,21danji"
-293064171,예양2리,yeyang2ri
-293064175,평기리,pyeonggiri
-293016054,고복리,gobokri
-293018012,송성3리(솔티),songseong3ri(solti)
-293019074,신방2리마을회관,sinbang2rimaeulhoegwan
-293016091,쌍전리(우리요양원),ssangjeonri(uriyoyangwon)
-293012010,저산리,jeosanri
-293062018,문화체육관광부,munhwacheyukgwangwangbu
-293014016,해밀동,haemildong
-293014033,실광주유소,silgwangjuyuso
-293056003,도담동,dodamdong
-293062002,어진중학교(가재마을9단지),eojinjunghakgyo(gajaemaeul9danji)
-293062012,정부세종청사북측,jeongbusejongcheongsabukcheuk
-293013009,소정리입구,sojeongriipgu
-293011009,원봉1리마을회관,wonbong1rimaeulhoegwan
-293012058,행산리입구,haengsanriipgu
-293053001,다정동(대성고등학교),dajeongdong(daeseonggodeunghakgyo)
-293064075,달전리,daljeonri
-293064141,고운동커뮤니티센터북측,goundongkeomyunitisenteobukcheuk
-293064148,범지기마을1단지,beomjigimaeul1danji
-293064102,범지기마을10단지북측,beomjigimaeul10danjibukcheuk
-293019075,신방2리마을회관,sinbang2rimaeulhoegwan
-293019050,서정1리마을회관,seojeong1rimaeulhoegwan
-293064393,보건복지부 고용노동부,bogeonbokjibu goyongnodongbu
-293064100,"범지기3,9단지(청소년센터)","beomjigi3,9danji(cheongsonyeonsenteo)"
-293064354,가락마을6단지,garakmaeul6danji
-293064035,효성세종병원,hyoseongsejongbyeongwon
-293064251,대평동,daepyeongdong
-293064493,다솜동,dasomdong
-293064446,세종충남대학교병원,sejongchungnamdaehakgyobyeongwon
-293014017,해밀동,haemildong
-293064064,국립세종도서관,gukripsejongdoseogwan
-293064096,"두루초,중학교","durucho,junghakgyo"
-293064154,가톨릭꽃동네대학교,gatollikkotdongnedaehakgyo
-293064033,신흥사거리,sinheungsageori
-293064186,신대1리마을회관,sindae1rimaeulhoegwan
-293064187,쌍전리(창현),ssangjeonri(changhyeon)
-293064200,생천경로당,saengcheongyeongrodang
-293064058,도램마을1단지,doraemmaeul1danji
-293064070,가락마을8단지,garakmaeul8danji
-293010007,봉안리,bonganri
-293064281,송용1리마을회관,songyong1rimaeulhoegwan
-293064314,새롬고등학교(새뜸마을7단지),saeromgodeunghakgyo(saetteummaeul7danji)
-293064334,용암2리입구,yongam2riipgu
-293064371,새뜸마을10단지,saetteummaeul10danji
-293064341,(주)레이크엘이디앞,(ju)reikeueridiap
-293064326,청라리,cheongrari
-293064352,가락마을6단지,garakmaeul6danji
-293064415,연동면 복합커뮤니티센터,yeondongmyeon bokhapkeomyunitisenteo
-293900010,세종소방서,sejongsobangseo
-293064475,가락마을8단지.가재마을4단지,garakmaeul8danji.gajaemaeul4danji
-293064455,국립세종수목원,gukripsejongsumogwon
-186004384,한진오피스텔,hanjinopiseutel
-186004073,대광로제비앙아파트,daegwangrojebiangapateu
-186004300,유성온천역6번출구,yuseongoncheonyeok6beonchulgu
-186004454,외삼1통,oesam1tong
-186004702,KT유성지사,KTyuseongjisa
-285013001,모드니에아파트,modeunieapateu
-285016004,백자3리,baekja3ri
-285016016,수신면사무소,susinmyeonsamuso
-286055004,공주정보고(장군면 방면),gongjujeongbogo(janggunmyeon bangmyeon)
-274002083,상봉2리(가마소),sangbong2ri(gamaso)
-285016023,장산4리(상리),jangsan4ri(sangri)
-186004272,봉명동우체국,bongmyeongdongucheguk
-286066012,주공1차아파트(터미널방면),jugong1chaapateu(teomineolbangmyeon)
-186004287,온천교,oncheongyo
-274000055,서평교,seopyeonggyo
-286071105,흥화하브아파트,heunghwahabeuapateu
-286053002,"산성시장(옥룡동,공주고방면)","sanseongsijang(okryongdong,gongjugobangmyeon)"
-286071108,신관동행정복지센터(신관초방면),singwandonghaengjeongbokjisenteo(singwanchobangmyeon)
-286065008,송선2통(장군면 방면),songseon2tong(janggunmyeon bangmyeon)
-293064375,"가온마을2,3단지","gaonmaeul2,3danji"
-186004061,구룡,guryong
-186004407,구즉초등학교,gujeukchodeunghakgyo
-186004391,신동1통,sindong1tong
-293015025,예양리,yeyangri
-293018009,송성1리,songseong1ri
-293064407,동산산업,dongsansaneop
-186004053,롯데마트대덕점,rotdemateudaedeokjeom
-185003229,둔산경찰서,dunsangyeongchalseo
-185003236,둔산2동주민센터,dunsan2dongjuminsenteo
-185003249,시청환승지,sicheonghwanseungji
-286066009,종합버스터미널(옥룡동방면),jonghapbeoseuteomineol(okryongdongbangmyeon)
-186004453,국방과학연구소입구,gukbanggwahagyeongusoipgu
-186004301,유성온천역7번출구,yuseongoncheonyeok7beonchulgu
-285016027,해정리,haejeongri
-286055003,공주교도소,gongjugyodoso
-286055009,신관초사거리(신관주공방면),singwanchosageori(singwanjugongbangmyeon)
-286056001,동현리(장군면 방면),donghyeonri(janggunmyeon bangmyeon)
-186004210,둔곡3교,dungok3gyo
-186004208,둔곡동,dungokdong
-186004132,금고동,geumgodong
-293056010,"도램마을16,19단지","doraemmaeul16,19danji"
-293064019,조치원전통시장북측,jochiwonjeontongsijangbukcheuk
-293011030,용포리,yongpori
-293064078,국책연구단지북측,gukchaegyeongudanjibukcheuk
-293019094,대추리,daechuri
-293017071,용현리(효도마을),yonghyeonri(hyodomaeul)
-293017064,봉안리,bonganri
-286065004,송선1통(장군면 방면),songseon1tong(janggunmyeon bangmyeon)
-186004064,서한이다음2단지,seohanidaeum2danji
-286066005,신관사거리,singwansageori
-286065012,장기산업단지(장군면방면),janggisaneopdanji(janggunmyeonbangmyeon)
-186004373,송강마을아파트,songgangmaeurapateu
-293064076,달전리,daljeonri
-293064139,"가재마을5,8단지","gajaemaeul5,8danji"
-293064142,대법원등기정보센터,daebeobwondeunggijeongbosenteo
-293064143,다정동(장기로),dajeongdong(janggiro)
-293064238,"새뜸마을7,10단지","saetteummaeul7,10danji"
-293064240,새롬동커뮤니티센터,saeromdongkeomyunitisenteo
-293064242,"새뜸마을5,8단지","saetteummaeul5,8danji"
-293064241,"새뜸마을5,8단지","saetteummaeul5,8danji"
-293064149,범지기마을1단지,beomjigimaeul1danji
-293064151,가재마을11단지,gajaemaeul11danji
-293064237,"가온마을4,7단지","gaonmaeul4,7danji"
-293064239,새롬동커뮤니티센터,saeromdongkeomyunitisenteo
-293055058,세종고속시외버스터미널,sejonggosoksioebeoseuteomineol
-293016015,용암삼거리,yongamsamgeori
-293015056,명학1리,myeonghak1ri
-293013006,운당1리,undang1ri
-293019008,금사리,geumsari
-293055069,도램마을20단지,doraemmaeul20danji
-293001070,욱일아파트,ugirapateu
-293017053,은용1리,eunyong1ri
-293019083,신정1리,sinjeong1ri
-293017046,금암리(사기정골),geumamri(sagijeonggol)
-293001007,방축골(갑부농원),bangchukgol(gapbunongwon)
-293018066,송곡보건진료소,songgokbogeonjinryoso
-293016011,쌍류리,ssangryuri
-293016080,성제2리,seongje2ri
-285016013,송내리,songnaeri
-186004299,유성온천역5번출구,yuseongoncheonyeok5beonchulgu
-293012019,아시아제지기숙사,asiajejigisuksa
-293064055,아름초등학교,areumchodeunghakgyo
-293064056,범지기마을10단지,beomjigimaeul10danji
-293012012,금호3리,geumho3ri
-293017043,대교리,daegyori
-293001040,신봉초등학교,sinbongchodeunghakgyo
-293018047,석곡리입구,seokgokriipgu
-293013025,고등2리,godeung2ri
-293016023,용암리입구,yongamriipgu
-293064023,정부세종청사스포츠센터,jeongbusejongcheongsaseupocheusenteo
-293064140,고운동커뮤니티센터북측,goundongkeomyunitisenteobukcheuk
-293064098,가락마을22단지,garakmaeul22danji
-293064090,고운고등학교,goungodeunghakgyo
-293064091,가락초등학교,garakchodeunghakgyo
-293064092,가락초등학교,garakchodeunghakgyo
-293064093,두루중학교,durujunghakgyo
-293064094,두루중학교,durujunghakgyo
-293064099,"범지기3,9단지(청소년센터)","beomjigi3,9danji(cheongsonyeonsenteo)"
-293064101,범지기마을10단지북측,beomjigimaeul10danjibukcheuk
-293064089,고운고등학교,goungodeunghakgyo
-293064153,복지회관,bokjihoegwan
-186004042,테크노밸리6단지,tekeunobaelli6danji
-186004263,대덕고등학교,daedeokgodeunghakgyo
-293064401,반곡동(수루배마을),bangokdong(surubaemaeul)
-293064394,보건복지부 고용노동부,bogeonbokjibu goyongnodongbu
-293064316,금박골,geumbakgol
-293064333,쌍전리,ssangjeonri
-293064395,고등2리,godeung2ri
-293064404,깊은내길,gipeunnaegil
-187000270,신탄진역,sintanjinyeok
-293064406,운당교차로,undanggyocharo
-293064408,깊은내길,gipeunnaegil
-293064034,신흥사거리,sinheungsageori
-293064036,용암리,yongamri
-293064037,용암리,yongamri
-293064038,쌍류리입구,ssangryuriipgu
-293064039,쌍류리입구,ssangryuriipgu
-293064040,봉암3리,bongam3ri
-293064041,봉암3리,bongam3ri
-293064043,눌왕리(새터말),nurwangri(saeteomal)
-293064183,방축골,bangchukgol
-293064184,신대2리(의넘어),sindae2ri(uineomeo)
-293064185,신대2리(의넘어),sindae2ri(uineomeo)
-293064188,삼일아파트,samirapateu
-293064189,성제삼거리,seongjesamgeori
-293064191,상교동입구,sanggyodongipgu
-293064192,상교동입구,sanggyodongipgu
-293064193,세종장례식장,sejongjangryesikjang
-293064405,동산산업,dongsansaneop
-293053008,한솔동(첫마을),hansoldong(cheotmaeul)
-293053010,한솔동(첫마을),hansoldong(cheotmaeul)
-293064196,보통1리마을회관,botong1rimaeulhoegwan
-293064199,행산1리,haengsan1ri
-293064059,범지기마을4단지,beomjigimaeul4danji
-293064060,가락마을8단지,garakmaeul8danji
-293064062,문화체육관광부,munhwacheyukgwangwangbu
-293064063,국립세종도서관정문,gukripsejongdoseogwanjeongmun
-293064065,문화체육관광부(남측),munhwacheyukgwangwangbu(namcheuk)
-293064044,쌍전리,ssangjeonri
-293064068,가재마을7단지,gajaemaeul7danji
-293064071,가재마을12단지,gajaemaeul12danji
-293064072,도램마을1단지,doraemmaeul1danji
-293064073,"도램마을14,15단지","doraemmaeul14,15danji"
-293064249,봉암리,bongamri
-286070006,산성동종점,sanseongdongjongjeom
-293064260,조치원버스터미널,jochiwonbeoseuteomineol
-293064254,"법원.검찰청,경찰청","beobwon.geomchalcheong,gyeongchalcheong"
-293064258,반곡동(수루배마을),bangokdong(surubaemaeul)
-293064257,반곡동(수루배마을),bangokdong(surubaemaeul)
-293064275,황용리,hwangyongri
-293064255,국책연구단지,gukchaegyeongudanji
-293010008,봉안리,bonganri
-293010011,금암리(웅대원룸),geumamri(ungdaewonrum)
-293010012,금암리(어반스테이),geumamri(eobanseutei)
-293010013,금암리(그린원룸),geumamri(geurinwonrum)
-293010014,금암리(솔정자),geumamri(soljeongja)
-293064267,감성리,gamseongri
-293064271,박산리(작약골),baksanri(jagyakgol)
-293064261,국책연구단지,gukchaegyeongudanji
-293010015,금암리(사기정골),geumamri(sagijeonggol)
-293064268,과학기술정보통신부,gwahakgisuljeongbotongsinbu
-293064269,과학기술정보통신부,gwahakgisuljeongbotongsinbu
-293064270,장기초등학교,janggichodeunghakgyo
-293064282,송용1리마을회관,songyong1rimaeulhoegwan
-285016028,장산4리,jangsan4ri
-285016029,속샘말삼거리,soksaemmalsamgeori
-293064253,"법원.검찰청,경찰청","beobwon.geomchalcheong,gyeongchalcheong"
-293064298,부강산업단지입구,bugangsaneopdanjiipgu
-293064301,부강산업단지,bugangsaneopdanji
-293064289,응암리(영모재),eungamri(yeongmojae)
-293064290,응암리(우리종묘),eungamri(urijongmyo)
-293064286,응암리(영모재),eungamri(yeongmojae)
-293064287,응암리(가마골),eungamri(gamagol)
-293064284,송용리,songyongri
-293064304,갈산1리,galsan1ri
-293064315,새롬고등학교(새뜸마을7단지),saeromgodeunghakgyo(saetteummaeul7danji)
-293064317,다방1리마을회관,dabang1rimaeulhoegwan
-293064318,쌍류초등학교,ssangryuchodeunghakgyo
-293064319,쌍류초등학교,ssangryuchodeunghakgyo
-293064320,신흥리(사사),sinheungri(sasa)
-293064321,쌍류리(월정마을),ssangryuri(woljeongmaeul)
-293064322,쌍류리(월정마을),ssangryuri(woljeongmaeul)
-293064323,용암리(금단마을),yongamri(geumdanmaeul)
-293064324,고복저수지,gobokjeosuji
-293064325,고복저수지,gobokjeosuji
-293064327,용암2리,yongam2ri
-293064328,용암2리,yongam2ri
-293064329,세종첨단산업단지,sejongcheomdansaneopdanji
-293064330,대교에이스,daegyoeiseu
-293064356,국민건강보험공단,gukmingeongangboheomgongdan
-271010111,서평1리,seopyeong1ri
-293064331,행정리,haengjeongri
-293064264,다정동커뮤니티센터,dajeongdongkeomyunitisenteo
-293064370,"가온마을4,7단지","gaonmaeul4,7danji"
-293064383,수루배마을1단지,surubaemaeul1danji
-293064380,"반곡초,중학교","bangokcho,junghakgyo"
-293064363,소담고등학교(새샘마을1단지),sodamgodeunghakgyo(saesaemmaeul1danji)
-293064362,소담고등학교(새샘마을5단지),sodamgodeunghakgyo(saesaemmaeul5danji)
-293064364,새샘마을6단지,saesaemmaeul6danji
-293064365,새샘마을6단지,saesaemmaeul6danji
-293064382,수루배마을1단지,surubaemaeul1danji
-293064378,"수루배마을8,9단지","surubaemaeul8,9danji"
-293064379,"수루배마을8,9단지","surubaemaeul8,9danji"
-293064310,"새뜸마을1,2단지","saetteummaeul1,2danji"
-293064263,다정동커뮤니티센터,dajeongdongkeomyunitisenteo
-293064307,"가온마을6,9단지","gaonmaeul6,9danji"
-293064355,국민건강보험공단,gukmingeongangboheomgongdan
-293064367,다정중학교(가온마을4단지),dajeongjunghakgyo(gaonmaeul4danji)
-293064368,새뜸마을14단지,saetteummaeul14danji
-293064369,새뜸마을14단지,saetteummaeul14danji
-293064372,다정고등학교(가온마을1단지),dajeonggodeunghakgyo(gaonmaeul1danji)
-293064373,다정고등학교(가온마을1단지),dajeonggodeunghakgyo(gaonmaeul1danji)
-293064376,한결초등학교,hangyeolchodeunghakgyo
-293064377,한결초등학교,hangyeolchodeunghakgyo
-293064384,문화체육관광부,munhwacheyukgwangwangbu
-293064387,소정리,sojeongri
-293064388,"새뜸마을1,2단지","saetteummaeul1,2danji"
-293064308,"새뜸마을5,6단지","saetteummaeul5,6danji"
-293064309,"새뜸마을5,6단지","saetteummaeul5,6danji"
-293064311,"새뜸마을1,2단지","saetteummaeul1,2danji"
-293064312,"가득초등학교(새뜸마을3,4단지)","gadeukchodeunghakgyo(saetteummaeul3,4danji)"
-293064313,"가득초등학교(새뜸마을3,4단지)","gadeukchodeunghakgyo(saetteummaeul3,4danji)"
-293064338,신정1리,sinjeong1ri
-293064339,신정2리,sinjeong2ri
-293064340,종성골,jongseonggol
-293064342,전의산업단지,jeonuisaneopdanji
-293064385,산학리(주니어전문스쿨),sanhakri(junieojeonmunseukul)
-293064386,산학리(주니어전문스쿨),sanhakri(junieojeonmunseukul)
-293064389,"새뜸마을1,2단지","saetteummaeul1,2danji"
-293064374,"가온마을2,3단지","gaonmaeul2,3danji"
-293064252,대평동,daepyeongdong
-293064392,"한뜰마을1,2단지","hantteulmaeul1,2danji"
-293064360,새뜸마을4단지(가온마을1단지),saetteummaeul4danji(gaonmaeul1danji)
-293064390,"새뜸마을3,4단지","saetteummaeul3,4danji"
-293064391,"새뜸마을3,4단지","saetteummaeul3,4danji"
-293064221,세종고속시외버스터미널(지하),sejonggosoksioebeoseuteomineol(jiha)
-293064272,장재1리,jangjae1ri
-293064162,금천2리마을회관,geumcheon2rimaeulhoegwan
-293064273,연기2리마을회관,yeongi2rimaeulhoegwan
-293064274,번암리,beonamri
-293064336,송정리,songjeongri
-293064348,세종예술고등학교,sejongyesulgodeunghakgyo
-293064349,나릿재마을,naritjaemaeul
-293064350,나릿재마을,naritjaemaeul
-274000059,서평교,seopyeonggyo
-293064421,수루배마을6단지,surubaemaeul6danji
-293064419,집현동,jiphyeondong
-293064422,수루배마을6단지,surubaemaeul6danji
-293064418,집현동,jiphyeondong
-293064417,산학연클러스터,sanhagyeonkeulleoseuteo
-293064416,산학연클러스터,sanhagyeonkeulleoseuteo
-293064431,수루배마을4단지,surubaemaeul4danji
-293064432,수루배마을4단지,surubaemaeul4danji
-293064411,쌍류리(수디산),ssangryuri(sudisan)
-293064445,세종충남대학교병원,sejongchungnamdaehakgyobyeongwon
-293064435,한국산업인력공단(세종지사),hanguksaneobinryeokgongdan(sejongjisa)
-293064436,한국산업인력공단(세종지사),hanguksaneobinryeokgongdan(sejongjisa)
-293064430,"새뜸마을7,10단지","saetteummaeul7,10danji"
-293064412,고운동(만남로),goundong(mannamro)
-293064413,고운동(만남로),goundong(mannamro)
-293064424,세종누리학교,sejongnurihakgyo
-293064425,세종누리학교,sejongnurihakgyo
-293064427,주택성능연구개발센터,jutaekseongneungyeongugaebalsenteo
-293064428,장기중학교후문,janggijunghakgyohumun
-293064429,장기중학교후문,janggijunghakgyohumun
-293064523,"나릿재마을 4,6단지","naritjaemaeul 4,6danji"
-293900005,세종예술의전당,sejongyesuruijeondang
-293064420,누리동,nuridong
-293064478,산학연클러스터,sanhagyeonkeulleoseuteo
-293064477,산학연클러스터,sanhagyeonkeulleoseuteo
-293064459,해밀마을1단지,haemilmaeul1danji
-293064458,해밀마을1단지,haemilmaeul1danji
-293064460,원수산MTB공원,wonsusanMTBgongwon
-286071104,흥화하브아파트,heunghwahabeuapateu
-293064526,"새나루마을9,10단지","saenarumaeul9,10danji"
-293900015,새나루마을10단지,saenarumaeul10danji
-293064505,조치원 농협,jochiwon nonghyeop
-293064507,신흥푸르지오,sinheungpureujio
-293900004,번암안동네,beonamandongne
-293900019,한국개발연구원(KDI),hangukgaebaryeonguwon(KDI)
-293900021,등곡리(쌍용양회),deunggokri(ssangyongyanghoe)
-293000255,응암3리,eungam3ri
-293064506,신흥푸르지오,sinheungpureujio
-293064504,조치원 농협,jochiwon nonghyeop
-293064503,신흥3리,sinheung3ri
-293064498,다솜동,dasomdong
-293064499,다솜동,dasomdong
-293064500,누리동,nuridong
-293064501,누리동,nuridong
-293064443,대전공원묘원,daejeongongwonmyowon
-293900006,세종예술의전당,sejongyesuruijeondang
-293900007,양지고등학교,yangjigodeunghakgyo
-293900008,양지고등학교,yangjigodeunghakgyo
-293900022,문곡리(호계마을),mungokri(hogyemaeul)
-293900023,문곡리(호계마을),mungokri(hogyemaeul)
-293064490,수산리교차로,susanrigyocharo
-293000256,평기교,pyeonggigyo
-293000257,평기교,pyeonggigyo
-293064470,응암3리마을입구,eungam3rimaeuripgu
-293064525,"새나루마을9,10단지","saenarumaeul9,10danji"
-293900014,세종연구단지,sejongyeongudanji
-293064511,반곡고등학교,bangokgodeunghakgyo
-293900020,등곡리(쌍용양회),deunggokri(ssangyongyanghoe)
-293064492,다솜동,dasomdong
-293064448,세종충남대학교병원(후문),sejongchungnamdaehakgyobyeongwon(humun)
-293900011,전통문화체험관,jeontongmunhwacheheomgwan
-293064472,가락마을8단지.가재마을4단지,garakmaeul8danji.gajaemaeul4danji
-293064476,아름제2중(가락마을20단지),areumje2jung(garakmaeul20danji)
-293064508,월하리(패션아울렛),wolhari(paesyeonaullet)
-293900016,새나루마을10단지,saenarumaeul10danji
-293064516,"새샘마을7,8단지","saesaemmaeul7,8danji"
-293064519,"새나루마을4,9단지","saenarumaeul4,9danji"
-293064521,"새나루마을2,8단지","saenarumaeul2,8danji"
-293064513,한국농어촌공사,hanguknongeochongongsa
-293900013,세종연구단지,sejongyeongudanji
-293900017,새나루마을1단지(후문),saenarumaeul1danji(humun)
-293900018,새나루마을1단지(후문),saenarumaeul1danji(humun)
-293064462,부강2리,bugang2ri
-293064465,부강2리,bugang2ri
-293064463,부강초등학교,bugangchodeunghakgyo
-293064147,세종시보건소(대동초),sejongsibogeonso(daedongcho)
-293064515,"새샘마을7,8단지","saesaemmaeul7,8danji"
-293064474,종촌초등학교(가재마을3단지),jongchonchodeunghakgyo(gajaemaeul3danji)
-293064456,국립세종수목원(연구동),gukripsejongsumogwon(yeongudong)
-293064485,해밀고등학교,haemilgodeunghakgyo
-293064486,"나성중학교,나성초등학교","naseongjunghakgyo,naseongchodeunghakgyo"
-293064487,"나성중학교,나성초등학교","naseongjunghakgyo,naseongchodeunghakgyo"
-293900009,세종소방서,sejongsobangseo
-293064453,세종호수공원,sejonghosugongwon
-293064454,세종중앙공원,sejongjunganggongwon
-293064464,복지회관,bokjihoegwan
-293064488,"나릿재마을1,2단지","naritjaemaeul1,2danji"
-293064497,전의산업단지교차로,jeonuisaneopdanjigyocharo
-293064517,동면농협예양지소,dongmyeonnonghyeobyeyangjiso
-293064518,동면농협예양지소,dongmyeonnonghyeobyeyangjiso
-293064524,"나릿재마을4,6단지","naritjaemaeul4,6danji"
-293900012,전통문화체험관,jeontongmunhwacheheomgwan
-293064489,"나릿재마을1,2단지","naritjaemaeul1,2danji"
-293064484,해밀고등학교,haemilgodeunghakgyo
-293019013,달전2리입구,daljeon2riipgu
-293019029,신방1리(신암골),sinbang1ri(sinamgol)
-293019059,전의중학교,jeonuijunghakgyo
-293019061,관정1리,gwanjeong1ri
-293016078,고복1리,gobok1ri
-293011087,초정약수터,chojeongyaksuteo
-293011096,달전리마을회관,daljeonrimaeulhoegwan
-293012026,한화사원아파트,hanhwasawonapateu
-293015021,양세오충각,yangseochunggak
-293016109,대원아파트후문,daewonapateuhumun
-293017004,송학2리(하나로마트),songhak2ri(hanaromateu)
-293017015,하봉교차로,habonggyocharo
-293011035,용담리(32사 방면),yongdamri(32sa bangmyeon)
-293017030,금암리노인정,geumamrinoinjeong
-293001041,세종여자고등학교입구,sejongyeojagodeunghakgyoipgu
-293012033,부강삼거리,bugangsamgeori
-293011042,감성리(32사 방면),gamseongri(32sa bangmyeon)
-293011056,금천1리,geumcheon1ri
-293013026,고등1리마을회관,godeung1rimaeulhoegwan
-293001058,고려대학교,goryeodaehakgyo
-293011016,영곡2리,yeonggok2ri
-293011023,국곡리,gukgokri
-293015075,응암3리입구,eungam3riipgu
-293016028,신대2리(송적골),sindae2ri(songjeokgol)
-293016051,와촌리(기와말),wachonri(giwamal)
-293017060,동원주식회사,dongwonjusikhoesa
-293018023,청람1리마을회관,cheongram1rimaeulhoegwan
-293018028,송정리(행골),songjeongri(haenggol)
-293018042,송곡2리(능골),songgok2ri(neunggol)
-293018068,노장농공단지,nojangnonggongdanji
-293018072,심중2리입구,simjung2riipgu
-293018087,심중리시민스포츠센터,simjungrisiminseupocheusenteo
-293064025,"가재마을9, 10단지","gajaemaeul9, 10danji"
-293064031,종촌종합복지센터,jongchonjonghapbokjisenteo
-293064118,"가락마을10,13단지","garakmaeul10,13danji"
-293064084,세무서 출장민원실,semuseo chuljangminwonsil
-186004130,금고2통,geumgo2tong
-293057003,장재리(태련암입구),jangjaeri(taeryeonamipgu)
-293011075,산학연클러스터,sanhagyeonkeulleoseuteo
-293016050,고복저수지입구,gobokjeosujiipgu
-293019010,다방2리마을회관,dabang2rimaeulhoegwan
-293019063,원성리(죽근마을),wonseongri(jukgeunmaeul)
-293001054,번암아파트후문,beonamapateuhumun
-293062026,국무조정실(한뜰마을3단지),gukmujojeongsil(hantteulmaeul3danji)
-293063002,가재마을5단지.가온마을6단지,gajaemaeul5danji.gaonmaeul6danji
-293019079,전의산업단지,jeonuisaneopdanji
-293011097,달전리마을회관,daljeonrimaeulhoegwan
-293014021,연기면사무소,yeongimyeonsamuso
-293014039,연기2리마을회관,yeongi2rimaeulhoegwan
-293014048,보통1리마을회관,botong1rimaeulhoegwan
-186004137,대동금탄동입구,daedonggeumtandongipgu
-186004044,테크노밸리6단지,tekeunobaelli6danji
-293058005,호탄리,hotanri
-293064080,"시청,시의회,교육청,세무서","sicheong,siuihoe,gyoyukcheong,semuseo"
-293051005,가람동(이마트앞),garamdong(imateuap)
-293061007,범지기마을10단지,beomjigimaeul10danji
-293011004,도남리마을회관,donamrimaeulhoegwan
-293001096,조치원버스터미널,jochiwonbeoseuteomineol
-186004141,노은농수산물시장,noeunnongsusanmulsijang
-293064138,"가재마을5,8단지","gajaemaeul5,8danji"
-186004618,반석네거리,banseoknegeori
-286065011,장기산업단지(신관동 방면),janggisaneopdanji(singwandong bangmyeon)
-285013004,병천3리,byeongcheon3ri
-285013008,유관순열사유적지,yugwansunyeolsayujeokji
-285016020,장산3리(송내),jangsan3ri(songnae)
-286055002,법원/공주교도소(신관초방면),beobwon/gongjugyodoso(singwanchobangmyeon)
-186004134,금고동매립장,geumgodongmaeripjang
-286066011,주공1차아파트(법원방면),jugong1chaapateu(beobwonbangmyeon)
-274002090,동평3리,dongpyeong3ri
-293064095,"두루초,중학교","durucho,junghakgyo"
-186004705,안산교,ansangyo
-187000280,신탄진역,sintanjinyeok
-293064285,응암1리마을회관,eungam1rimaeulhoegwan
-293064250,봉암리,bongamri
-293064276,노송2리,nosong2ri
-293064283,송용리,songyongri
-293064306,국립세종도서관정문,gukripsejongdoseogwanjeongmun
-293064359,새롬중학교(새뜸마을1단지),saeromjunghakgyo(saetteummaeul1danji)
-293064361,새뜸마을4단지(가온마을1단지),saetteummaeul4danji(gaonmaeul1danji)
-293064337,청람리(동막골),cheongramri(dongmakgol)
-293064332,행정리,haengjeongri
-293064520,"새나루마을4,9단지","saenarumaeul4,9danji"
-293064447,세종충남대학교병원(후문),sejongchungnamdaehakgyobyeongwon(humun)
-293064426,주택성능연구개발센터,jutaekseongneungyeongugaebalsenteo
-293900001,대전공원묘원,daejeongongwonmyowon
-293064510,청미마을회관,cheongmimaeulhoegwan
-293064473,"종촌초등학교(가락마을6, 7단지)","jongchonchodeunghakgyo(garakmaeul6, 7danji)"
-293064451,국립세종수목원(연구동),gukripsejongsumogwon(yeongudong)
-293064210,"시청,시의회,교육청,세무서","sicheong,siuihoe,gyoyukcheong,semuseo"
-293012017,부강면,bugangmyeon
-293019076,재동아파트,jaedongapateu
-293011037,도암리입구,doamriipgu
-293001064,세무서 출장민원실,semuseo chuljangminwonsil
-293001006,봉산리(중뜸),bongsanri(jungtteum)
-293016017,용암리(금단마을),yongamri(geumdanmaeul)
-293018059,전동삼거리,jeondongsamgeori
-293018082,심중1리,simjung1ri
-293064032,"가재마을9, 10단지","gajaemaeul9, 10danji"
-293019044,부거실(아랫마을),bugeosil(araetmaeul)
-293064156,은하수공원,eunhasugongwon
-293061005,"범지기마을6,11단지","beomjigimaeul6,11danji"
-293016030,기룡리복지회관,giryongribokjihoegwan
-293016069,고복1리마을회관,gobok1rimaeulhoegwan
-293014015,해밀동,haemildong
-293062011,정부세종청사북측,jeongbusejongcheongsabukcheuk
-293001039,신안2리(안터),sinan2ri(anteo)
-293019080,상대부(쌍태울),sangdaebu(ssangtaeul)
-293064074,세종기숙학원,sejonggisukhagwon
-293064051,세종충남대병원,sejongchungnamdaebyeongwon
-293064145,다빛초등학교(가온마을3단지),dabitchodeunghakgyo(gaonmaeul3danji)
-293019092,노곡리,nogokri
-293064097,가락마을22단지,garakmaeul22danji
-186004142,노은농수산물시장,noeunnongsusanmulsijang
-285013009,유관순열사유적지,yugwansunyeolsayujeokji
-270014001,산성시장,sanseongsijang
-293064231,대평동(해들마을),daepyeongdong(haedeulmaeul)
-293064512,반곡고등학교,bangokgodeunghakgyo
-293012044,세종미래고등학교,sejongmiraegodeunghakgyo
-293064466,"진웅엠피아,재진가로등","jinungempia,jaejingarodeung"
-293064229,명학산업단지입구,myeonghaksaneopdanjiipgu
-293012049,매포역(노호2리),maepoyeok(noho2ri)
-293064042,눌왕리(새터말),nurwangri(saeteomal)
-293064069,"종촌고(가재마을3,4단지)","jongchongo(gajaemaeul3,4danji)"
-293064279,노송1리,nosong1ri
-293064024,정부세종청사스포츠센터,jeongbusejongcheongsaseupocheusenteo
-293064366,다정중학교(가온마을4단지),dajeongjunghakgyo(gaonmaeul4danji)
-293064347,세종예술고등학교,sejongyesulgodeunghakgyo
-293064414,연동면 복합커뮤니티센터,yeondongmyeon bokhapkeomyunitisenteo
-293064461,원수산MTB공원,wonsusanMTBgongwon
-293064471,아름제2중(가락마을20단지),areumje2jung(garakmaeul20danji)
-293064452,"국립세종수목원,중앙공원","gukripsejongsumogwon,junganggongwon"
-293064083,번암아파트후문,beonamapateuhumun
-293064300,부강산업단지입구,bugangsaneopdanjiipgu
-293064178,다정동(장기로),dajeongdong(janggiro)
-293016035,조치원노인전문병원,jochiwonnoinjeonmunbyeongwon
-293056004,도담동(도램마을),dodamdong(doraemmaeul)
-293014002,수산리(방아다리),susanri(bangadari)
-293064144,다빛초등학교(가재마을1단지),dabitchodeunghakgyo(gajaemaeul1danji)
-293064158,"가락마을7,8단지","garakmaeul7,8danji"
-293064061,"종촌고(가재마을3,4단지)","jongchongo(gajaemaeul3,4danji)"
-293064491,수산리교차로,susanrigyocharo
-186004452,국방과학연구소입구,gukbanggwahagyeongusoipgu
-186005193,국방과학연구소,gukbanggwahagyeonguso
-293001042,세종시문화예술회관,sejongsimunhwayesulhoegwan
-293001019,세종시민체육관,sejongsimincheyukgwan
-293001045,세종시문화예술회관,sejongsimunhwayesulhoegwan
-293064353,대평동커뮤니티센터,daepyeongdongkeomyunitisenteo
-293064150,대법원등기정보센터,daebeobwondeunggijeongbosenteo
-293061003,아름동커뮤니티센터,areumdongkeomyunitisenteo
-293064054,"범지기마을8,12단지","beomjigimaeul8,12danji"
-293064052,세종충남대병원,sejongchungnamdaebyeongwon
-293064109,"도램마을8,10단지","doraemmaeul8,10danji"
-293062016,도램마을9단지,doraemmaeul9danji
-293062027,공정거래위원회,gongjeonggeoraewiwonhoe
-293064222,국립세종도서관,gukripsejongdoseogwan
-293062005,정부세종청사남측,jeongbusejongcheongsanamcheuk
-293062003,어진중학교(가재마을9단지),eojinjunghakgyo(gajaemaeul9danji)
-293064262,"가온마을6,9단지","gaonmaeul6,9danji"
-293064001,첫마을5단지,cheotmaeul5danji
-293064008,한솔중학교(첫마을7단지),hansoljunghakgyo(cheotmaeul7danji)
-293064011,첫마을3단지,cheotmaeul3danji
-293055059,세종고속시외버스터미널,sejonggosoksioebeoseuteomineol
-293011029,용포리,yongpori
-293064514,한국농어촌공사,hanguknongeochongongsa
-293064351,대평동커뮤니티센터,daepyeongdongkeomyunitisenteo
-293064207,보람동(해들마을),boramdong(haedeulmaeul)
-293064079,"시청,시의회,교육청,세무서","sicheong,siuihoe,gyoyukcheong,semuseo"
-293064164,"세종우체국(남부서,보람초)","sejongucheguk(nambuseo,boramcho)"
-293064215,소담동(새샘마을),sodamdong(saesaemmaeul)
-293057002,한국조세재정연구원,hangukjosejaejeongyeonguwon
-293064434,수루배마을3단지,surubaemaeul3danji
-293064381,"반곡초,중학교","bangokcho,junghakgyo"
-293011064,새나루마을1단지,saenarumaeul1danji
-293064259,조치원버스터미널,jochiwonbeoseuteomineol
-293064152,조치원전통시장북측,jochiwonjeontongsijangbukcheuk
-293001084,조치원역,jochiwonyeok
-293001087,세종우체국,sejongucheguk
-293001086,세종중학교,sejongjunghakgyo
-293064502,신흥3리,sinheung3ri
-293001038,신흥주공아파트,sinheungjugongapateu
-293001065,번암삼거리,beonamsamgeori
-293064220,세종고속시외버스터미널(지하),sejonggosoksioebeoseuteomineol(jiha)
-293064232,대평동(해들마을),daepyeongdong(haedeulmaeul)
-293064209,보람동.대평동,boramdong.daepyeongdong
-293058004,신촌리,sinchonri
-293058007,"장영실고등학교,호탄리(안터)","jangyeongsilgodeunghakgyo,hotanri(anteo)"
-293058008,"장영실고등학교,호탄리(안터)","jangyeongsilgodeunghakgyo,hotanri(anteo)"
-293064166,"호려울마을8,9단지","horyeoulmaeul8,9danji"
-293057006,장재리(길재고개),jangjaeri(giljaegogae)
-293064077,국책연구단지북측,gukchaegyeongudanjibukcheuk
-293064400,반곡동(수루배마을),bangokdong(surubaemaeul)
-293064433,수루배마을3단지,surubaemaeul3danji
-293064480,집현동,jiphyeondong
-293064479,집현동,jiphyeondong
-293011065,황용리(황용1교),hwangyongri(hwangyong1gyo)
-293064522,"새나루마을2,8단지","saenarumaeul2,8danji"
-293012013,금호3리,geumho3ri
-293012001,금호2리노인회관,geumho2rinoinhoegwan
-293012018,아시아제지기숙사,asiajejigisuksa
-293012032,부강삼거리,bugangsamgeori
-293064280,부강면생활체육관,bugangmyeonsaenghwalcheyukgwan
-293012043,세종미래고등학교,sejongmiraegodeunghakgyo
-293000254,응암3리,eungam3ri
-293015050,명학산업단지,myeonghaksaneopdanji
-293015049,명학산업단지,myeonghaksaneopdanji
-293064467,"진웅엠피아,재진가로등","jinungempia,jaejingarodeung"
-293064288,응암리(우리종묘),eungamri(urijongmyo)
-293015052,응암1리마을회관,eungam1rimaeulhoegwan
-293064225,삼성전기,samseongjeongi
-293064358,새롬중학교(새뜸마을1단지),saeromjunghakgyo(saetteummaeul1danji)
-293053009,한솔동,hansoldong
-293064146,세종시보건소(대동초),sejongsibogeonso(daedongcho)
-293064020,대평리원형교차로,daepyeongriwonhyeonggyocharo
-293064226,삼성전기,samseongjeongi
-293019005,유천리,yucheonri
-293019012,달전2리입구,daljeon2riipgu
-293019015,달전2리입구,daljeon2riipgu
-293019018,세종미래산업단지,sejongmiraesaneopdanji
-293019033,대전카톨릭대입구,daejeonkatollikdaeipgu
-293019055,신흥리(사사),sinheungri(sasa)
-293016064,연서초등학교,yeonseochodeunghakgyo
-293016077,고복1리,gobok1ri
-293011083,황용사,hwangyongsa
-293011091,부용1리,buyong1ri
-293011101,망골,manggol
-293015015,예양2리,yeyang2ri
-293015029,내판3리,naepan3ri
-293016095,연서면사무소,yeonseomyeonsamuso
-293016096,국촌1리,gukchon1ri
-293016126,월하리,wolhari
-293017011,평기리마을회관,pyeonggirimaeulhoegwan
-293013024,대곡리,daegokri
-285013002,모드니에아파트,modeunieapateu
-285013005,병천고등학교,byeongcheongodeunghakgyo
-285013006,병천시장,byeongcheonsijang
-285013007,병천시장,byeongcheonsijang
-285013010,병천고등학교,byeongcheongodeunghakgyo
-285016001,백자2리,baekja2ri
-285016002,백자2리,baekja2ri
-285016003,백자3리,baekja3ri
-285016005,백자4리,baekja4ri
-285016006,백자4리,baekja4ri
-285016007,상록리조트정문,sangrokrijoteujeongmun
-285016008,상록리조트후문,sangrokrijoteuhumun
-285016009,상록리조트후문,sangrokrijoteuhumun
-285016010,수신초등학교,susinchodeunghakgyo
-285016011,수신면사무소,susinmyeonsamuso
-285016012,속샘말삼거리,soksaemmalsamgeori
-285016015,송내리,songnaeri
-285016017,수신초등학교,susinchodeunghakgyo
-285016018,상록리조트정문,sangrokrijoteujeongmun
-285016019,장산3리(송내),jangsan3ri(songnae)
-285016021,장산4리,jangsan4ri
-285016022,장산4리(상리),jangsan4ri(sangri)
-285016024,해정리,haejeongri
-286070004,옥룡동 주민센터(산성시장),okryongdong juminsenteo(sanseongsijang)
-286065010,송선수영장(신관동방면),songseonsuyeongjang(singwandongbangmyeon)
-286056002,동현리(공주신관 방면),donghyeonri(gongjusingwan bangmyeon)
-293001029,구렁말,gureongmal
-293001093,효성세종병원,hyoseongsejongbyeongwon
-293014007,눌왕2리마을회관,nurwang2rimaeulhoegwan
-293001089,번암리,beonamri
-293064012,봉안리(다름고개),bonganri(dareumgogae)
-293011019,성덕2리,seongdeok2ri
-293001034,신안2리(안터),sinan2ri(anteo)
-286065001,송선2통(신관동 방면),songseon2tong(singwandong bangmyeon)
-286055001,금흥교(법원),geumheunggyo(beobwon)
-286055005,공주정보고(신관동 방면),gongjujeongbogo(singwandong bangmyeon)
-286055006,금흥동,geumheungdong
-286055008,신관초등학교,singwanchodeunghakgyo
-286055010,우남퍼스트빌(신관초방면),unampeoseuteubil(singwanchobangmyeon)
-286055011,우남퍼스트빌(정보고방면),unampeoseuteubil(jeongbogobangmyeon)
-286055012,주공2차아파트(터미널방면),jugong2chaapateu(teomineolbangmyeon)
-286055013,주공2차아파트(법원방면),jugong2chaapateu(beobwonbangmyeon)
-285016026,해정2리,haejeong2ri
-286065002,공주정명학교(신관동방면),gongjujeongmyeonghakgyo(singwandongbangmyeon)
-286065003,공주정명학교(장군면방면),gongjujeongmyeonghakgyo(janggunmyeonbangmyeon)
-286065005,송선1통(신관동 방면),songseon1tong(singwandong bangmyeon)
-286065006,송선수영장(장군면방면),songseonsuyeongjang(janggunmyeonbangmyeon)
-286066002,관골,gwangol
-286066003,시목동(옥룡동 방면),simokdong(okryongdong bangmyeon)
+﻿sttn_id,sttn_nm,stn_nm
+235000978,지게동입구,Inlet
+235000973,지게동입구,Inlet
+234001227,청소년수련관.태전지웰,Youth Training Center. Taejeonjiwell
+235000858,GS자이7단지,GS Zay 7 Complex
+234000985,목현동입구,Mokhyeon -dong entrance
+234000979,목현동입구,Mokhyeon -dong entrance
+236000320,추동1리마을회관,Chudong 1 -ri Village Hall
+235001239,서재말교차로,Society intersection
+234000625,초록마을입구,Green Village Entrance
+234000383,로하스한울의원앞,In front of Lohas Hanul
+234000382,로하스한울의원앞,In front of Lohas Hanul
+234000975,원당1리,Wondang 1 -ri
+234000589,안골앞,In front of the angol
+234000524,안골앞,In front of the angol
+234000520,상번천농장앞,In front of Sangbancheon Farm
+234000514,상번천농장앞,In front of Sangbancheon Farm
+234000513,상번천3리마을회관,Sangbancheon 3 -ri Village Hall
+234000464,소나무집앞,In front of the pine house
+234000634,상번천3리노인회관,Sangbancheon 3 Linoin Hall
+234000509,상번천3리마을회관,Sangbancheon 3 -ri Village Hall
+234000386,광주도시관리공사,Gwangju City Management Corporation
+234000387,소나무집앞,In front of the pine house
+236000105,한탄강지질공원센터,Hantan River Jijiji Park Center
+236000864,포천IC입구,Pocheon IC entrance
+236001098,자작리교회,Self -written church
+235001603,e편한세상19단지후문,e The back door of the 19th Complex
+235001602,더파크포레태영,The Park Foretaeyoung
+235001118,지에스제이드웰정문,GS Jade Well Main Gate
+235001120,금호제이드웰정문,Kumhoje Dadwell Main Gate
+235523680,운암리전원마을회관,Unam Region Village Hall
+236000032,소회산리마을회관,Sosangsan -ri Village Hall
+236000019,소회산리마을회관,Sosangsan -ri Village Hall
+235001755,독바위공원,Dokbawi Park
+235000655,옥정체육공원,Okjeong Sports Park
+235000053,회암사지박물관,Hoamamji Museum
+235000596,세광사,Segwangsa Temple
+235000850,대방노블랜드12단지.옥정중앙공 ,"Daebang Nobland Complex 12, Okjeong Central"
+235000849,옥정중앙공원,Okjeong Central Park
+235000766,해넘이건강마당,Seagly Carbendar
+235000760,옥정중앙공원,Okjeong Central Park
+235000759,스마트시티복합센터,Smart City Complex Center
+235000758,스마트시티복합센터,Smart City Complex Center
+235000746,해넘이건강마당,Seagly Carbendar
+235000683,세광사,Segwangsa Temple
+235001175,에스엘병원,SL Hospital
+235001174,에스엘병원,SL Hospital
+234001205,초월보건지소,Transcendence Health Center
+234000777,보현사입구,Bohyunsa entrance
+234000778,회덕동전원마을,Hoedeokdongwon Village
+234000779,서울장신대학교,Seoul Jangshin University
+234000775,제청교앞,In front of the proposed school
+234000771,제청교앞,In front of the proposed school
+234000768,우남아파트후문.포레힐스,UNam Apartment Back Gate. Forever Hills
+234000758,포레힐스,Fore Hills
+234000757,대쌍령2리마을회관,Dae -Son 2 -ri Village Hall
+234000734,대쌍령2리마을회관,Dae -Son 2 -ri Village Hall
+234000733,광주시차량등록사업소,Gwangju City Vehicle Registration Office
+234000732,광주시차량등록사업소,Gwangju City Vehicle Registration Office
+234000730,양벌리어린이놀이공원,Both Vol -ri Children's Amusement Park
+234000725,양벌리어린이놀이공원,Both Vol -ri Children's Amusement Park
+234000776,보현사입구,Bohyunsa entrance
+234000781,서울장신대학교,Seoul Jangshin University
+236000971,신배골,New ship
+236000972,용정교차로,Yongjeong Intersection
+236000973,청성오거리,Cheongseong Ohori Street
+236000974,궁말슈퍼.금현2리,Palace Super. Geumhyun 2 -ri
+236000975,정교리,Jeonggyo -ri
+236000976,밤나무슈퍼,Chestnut
+236000977,밤나무슈퍼,Chestnut
+236000978,섯다리.삼진기업,"Simdari, strikeout company"
+236000979,정교주유소.정교리,"Orthodox gas station, Jeonggyo -ri"
+236000980,가채2리.k마트앞,Ga Chae 2 -ri.K Mart in front of
+236000981,하심곡,Pagoda
+236000982,동고개,Co -operation
+236000988,좌의3리,3 -ri on the left
+236000989,삼양레미콘,Samyang Remicon
+236000990,정교2리,Orthodox 2 -ri
+236000991,정교리,Jeonggyo -ri
+236000992,포천슈퍼.이가팔리,Pocheon Super. Igapali
+236000993,정교리,Jeonggyo -ri
+236000995,정교리.용화슈퍼,Jeong Kyo -ri. Yonghwa Super
+236000996,포천일고등학교,Pocheon Il High School
+236000997,매치골,Match goal
+236001000,금주3리.만세교,"This week, 3 -ri."
+236001002,기산1리.샘말,Kisan 1 -ri. Sammal
+236001003,기산1리.샘말,Kisan 1 -ri. Sammal
+236001004,기산1리괸돌,Kisan 1
+236001005,기산1리괸돌,Kisan 1
+236001006,포천슈퍼,Pocheon Super
+236001007,이가팔2리,Iga Pal 2 -ri
+236001008,방아다리,Bang
+236001009,우체국앞,In front of the post office
+236001010,고모저수지입구,Aunt Reservoir Entrance
+236001011,태능섬유,Taeung fiber
+236001012,태능섬유,Taeung fiber
+236001013,죽엽산입구,Juk Folic acid entrance
+236001014,고모1리마을회관입구,Aunt 1 -ri Village Hall Entrance
+236001015,고모1리회관,Aunt 1 -ri Hall
+236001016,고모1리회관,Aunt 1 -ri Hall
+236001017,한성골,Hanseonggol
+236001018,정교주유소.정교리,"Orthodox gas station, Jeonggyo -ri"
+236001019,제이투앞,In front of J to
+236001020,훈이네슈퍼.정교리,Hunne Super. Jeong Kyo -ri
+236001021,궁말슈퍼.금현2리,Palace Super. Geumhyun 2 -ri
+236001022,ent입구,ENT entrance
+236001023,ent입구,ENT entrance
+236001024,효성섬유,Hyosung Fiber
+236001025,효성섬유,Hyosung Fiber
+236001026,싱글니트,Single
+236001027,싱글니트,Single
+236001028,너베기슈퍼,Nerd
+236001029,너베기슈퍼,Nerd
+236001030,금현1리마을회관,Geumhyun 1 -ri Village Hall
+236001031,금현1리마을회관,Geumhyun 1 -ri Village Hall
+236001032,너베기아랫마을,Nerd
+236001033,너베기입구,Nerd
+236001034,추곡슈퍼,Chugok Super
+236001035,추곡슈퍼,Chugok Super
+236001036,승림가구,Seunglim furniture
+236001037,승림가구,Seunglim furniture
+236001038,수마가든앞,Suma Garden in front
+236001039,수마가든앞,Suma Garden in front
+236001040,홍천상회.동교리,"Hongcheon Sanghoe, Donggyo -ri"
+236001042,모퉁이나무골,Corner
+236001043,세진화학앞,In front of Sejin Chemical
+236001044,축산단지,Livestock
+236001045,동교3통.나무골삼거리,"Donggyo 3, tree osteosam"
+236001046,정미소.동교1통회관,Jeongmi Society. Donggyo 1 Conference Hall
+236001047,평강농장앞,In front of Pyeonggang Farm
+236001048,그린힐정문.백강공원,"Green Hill Main Gate, Baekgang Park"
+236001049,천보반점,Thousand
+236001050,홍천상회.동교리,"Hongcheon Sanghoe, Donggyo -ri"
+236001051,좌의1리.메기안,1 -ri on the left
+236001052,좌의1리,Left 1 -ri
+236001053,새마을낚시터,Saemaul fishing ground
+236001054,새마을낚시터,Saemaul fishing ground
+236001055,고려통상,Goryeo Trade
+236001056,국일테크,Kukil Tech
+236001057,군내어린이집,Children's house
+236001058,군내어린이집,Children's house
+236001059,월드CNC산업,World CNC industry
+236001060,월드CNC산업,World CNC industry
+236001061,좌의2리마을회관앞,In front of the 2nd Ri Village Hall on the left
+236001062,좌의2리마을회관,Left 2 -ri Village Hall
+236001063,명산낚시터,Myeongsan Fishing Site
+236001064,명산리입구,Myeongsan -ri entrance
+236001065,좌의리,Left -hand
+236001066,명산삼거리,Myeongsan Intersection
+236001067,정교1교,Orthodox school
+236001073,추동2리,Chudong 2 -ri
+236001075,동고개,Co -operation
+236001077,산호아파트,Coral apartment
+236001078,선단동행정복지센터,Administrative Welfare Center
+236001079,선단동행정복지센터,Administrative Welfare Center
+236001081,축산단지,Livestock
+236001082,유교리,Confucianism
+236001083,유암초교,Amusement
+236001085,태봉초교,Taebong Elementary School
+236001086,태봉초교,Taebong Elementary School
+236001088,닭밭,Chicken field
+236001089,닭밭,Chicken field
+236001091,동고개,Co -operation
+236001095,혜성산업,Comet industry
+236001096,청성오거리,Cheongseong Ohori Street
+236001097,가산사거리,Gasan range
+236001100,신북온천,Shinbuk Hot Spring
+236001102,심곡3리,Simgok 3 -ri
+236001103,물어고개정상,Ask
+236001106,다보정사,Dajungsa Temple
+236001107,매치골,Match goal
+236001109,백자아파트,White porcelain
+236001112,포천일고등학교,Pocheon Il High School
+236001115,보건소,Health center
+236001116,극동아파트,Far East Apartment
+236001117,백자아파트입구,White porcelain
+236001118,포천시보건소,Pocheon Health Center
+236000560,길명2리,Gilmyeong 2 -ri
+236000561,유동2리.선진공업사,"Flow 2 -ri. Advanced Industrial Co., Ltd."
+236000562,유동2리,Flow 2 -ri
+236000582,무봉1리.길상사입구,Mubong 1 -ri. Gilsangsa entrance
+236000585,작은넋고개.진목4리,"Small soul, Jinmok 4 -ri"
+236000586,진목1리.나눔의집,Jinmok 1 -ri. Sharing House
+236000587,진목1리.오림포,Jinmok 1 -ri. Olimpo
+236000588,전말입구.진목2리,The entrance to the end of the end. Jinmok 2 -ri
+236000589,진목3리.죽엽산,Jinmok 3 -ri.
+236000590,내2리.고장촌,My 2 -ri.
+235001070,내촌과수원,Naechon orchard
+235001071,내촌과수원,Naechon orchard
+235001081,양주영업소,Yangju Sales Office
+235001082,양주영업소,Yangju Sales Office
+236000245,갈월1리.칠월리고개,Galwol 1 -ri.
+236000246,계류1리,Mooring 1 -ri
+236000247,하심곡.우신아파트,Hasimmo. Wooshin Apartment
+236000249,하심곡,Pagoda
+236000250,삼성중학교.외북초교,Samsung Middle School and North Korean Elementary School
+236000251,삼성중학교.외북초교,Samsung Middle School and North Korean Elementary School
+236000252,심곡1리,Simgok 1 -ri
+236000253,맹호부대앞,In front of the forbel troops
+236000254,상심곡.깊이울유원지,"Pearl, deep amusement park"
+236000255,포천의료원,Pocheon Medical Center
+236000259,하성북3리.골말,Haseongbuk 3 -ri. Goal
+236000260,하성북4리.자라울,Haseong North 4 -ri. Jarulul
+236000261,밤나무골,Chestnut
+236000262,상성북리마을회관,Sangseong Bukri Village Hall
+236000263,상성북2리,Sangseongbuk 2 -ri
+236000264,상성북2리,Sangseongbuk 2 -ri
+236000265,상성북1리.건너말길,Sangseong North 1 -ri.
+236000266,상성북1리.밤나무골,Sangseong North 1 -ri.
+236000267,하성북4리,Haseongbuk 4 -ri
+236000268,하성북3리,Haseongbuk 3 -ri
+236000270,포천소방서,Pocheon Fire Station
+236000271,삼석동,Samseok -dong
+236000272,삼석동,Samseok -dong
+236000273,하심곡.우신아파트,Hasimmo. Wooshin Apartment
+236000274,계류1리,Mooring 1 -ri
+236000275,갈월1리.칠월리고개,Galwol 1 -ri.
+236000276,갈월2리.새마을,Galwol 2 -ri. Saemaul
+236000277,심배,Heartburn
+236000278,삼정리허브아일랜드,Samjeong -ri Herb Island
+236000279,덕둔2리.새청삼거리,Deokdun 2 -ri. Saecheongsam Intersection
+236000280,덕둔2리목장,Deokdun 2 Li Market
+236000281,덕둔1리,Deokdun 1 -ri
+236000282,덕둔1리.신북온천,Deokdun 1 -ri. Shinbuk Hot Spring
+236000285,포천시의료원,Pocheon Medical Center
+236000286,상심곡.깊이울유원지,"Pearl, deep amusement park"
+236000287,심곡1리,Simgok 1 -ri
+236000710,상록할인마트,Evergreen Discount Mart
+236000711,선단2통마을회관앞,Front
+236000712,선단2통마을회관앞,Front
+236000713,선단초등학교,Full Elementary School
+236000714,선단초등학교,Full Elementary School
+236000718,마홀앤가구전시판매장,Mahol and furniture exhibition store
+236000719,영송리,Young Song -ri
+236000720,영송리.영송삼거리,"Yeongsong -ri, Yeongsong Intersection"
+236000722,매기울,Maggieul
+236000724,부인터사거리,Building Intersection
+236000725,허브아일랜드,Herb Island
+236000726,금동2리.지동,Geumdong 2 -ri.
+236000727,지동,Dynamism
+236000728,금동,Gold -dong
+236000729,금동1리,Geumdong 1 -ri
+236000730,설운2통.해룡입구,"Seolun 2, Haeryong entrance"
+236000731,설운2통.해룡입구,"Seolun 2, Haeryong entrance"
+236000732,선단5통마을회관앞,In front of the 5th Tong Village Hall
+236000733,선단5통마을회관앞,In front of the 5th Tong Village Hall
+236000734,삼보주택,Sambo house
+236000735,삼보주택,Sambo house
+236000740,열두개울입구,Twelve creek entrance
+236000741,열두개울휴게소,Twelve
+236000742,열두개울휴게소,Twelve
+236000743,휴양소앞,In front of the resort
+236000744,휴양소앞,In front of the resort
+236000746,덕둔2리,Dukdun 2 -ri
+236000747,덕둔2리,Dukdun 2 -ri
+236000748,다래골,Daraegol
+236000749,다래골,Daraegol
+236000750,따봉나루터앞,In front of Tabongnaro
+236000751,따봉나루터앞,In front of Tabongnaro
+236000753,문암삼거리,Munam Intersection
+236000755,성동2리.검문소,Seongdong 2 -ri.
+236000756,신장삼거리,Kidney intersection
+236000757,송우웨딩홀,Songwoo Wedding Hall
+236000758,KT송우고객센터,KT Songwoo Customer Center
+236000759,이가팔리대들보주유소,Igapali Daebosu Yu So
+236000760,진미슈퍼,Delicacy
+236000761,진미슈퍼,Delicacy
+236000762,모형자동차앞,In front of the model car
+236000763,모형자동차앞,In front of the model car
+236000764,마을회관입구,Village Hall entrance
+236000765,마을회관입구,Village Hall entrance
+236000766,저수지,reservoir
+236000767,비득재,Unequal
+236000768,비득재,Unequal
+236000771,추산초등학교,Estal Elementary School
+236000772,추산초등학교,Estal Elementary School
+236000775,늘거리,Gut
+236000776,늘거리,Gut
+236000777,궁말.금현2리,Palace. Geumhyun 2 -ri
+236000778,정교2리,Orthodox 2 -ri
+236000779,마트사거리,Mart
+236000780,이가팔2리.고모리입구,Iga Pal 2 -ri.
+236000781,갈월중학교,Galol Middle School
+236000782,갈월중학교,Galol Middle School
+236000783,금주2리회관,This week's 2 -ri hall
+236000784,도평리,Dopyeong -ri
+236000787,무봉2리회관,Mubong 2 -ri Hall
+236000788,화현면사무소,Hwahyeon -myeon office
+236000789,송우4리.신촌마을,Songwoo 4 -ri. Sinchon Village
+236000790,상운아파트,Sangwoon Apartment
+236000792,토성레미콘,Saturn Remicon
+236000793,토성레미콘,Saturn Remicon
+236000794,공단화물앞,In front of the industrial cargo
+236000795,공단화물앞,In front of the industrial cargo
+236000796,섬유2단지,Textile Complex 2
+236000806,갈월중학교입구,Galol Middle School entrance
+236000808,신봉초교,Shinbong Elementary School
+236000809,신봉초.솔모루성당,Shinbongcho.
+236000810,신평2리.요꼴사거리,Sinpyeong 2 -ri.
+236000815,도평삼거리,Dopyeong Intersection
+236000816,도평삼거리,Dopyeong Intersection
+236000817,도평리,Dopyeong -ri
+236000833,음현1리내촌중학교,Umhyun 1 -ri Naechon Middle School
+236000835,일동터미널,Ildong Terminal
+236000836,맥동,Pulse
+236000837,포천아이파크아파트,Pocheon I -Park Apartment
+236000838,자작동종점,Own -dong
+236000839,기지리,Base
+236000840,신포천아파트,Sinpocheon Apartment
+236000842,어룡2통종점,2 Tongjong branch
+236000843,동교3통삼거리,Donggyo 3 Tong Sam Street
+236000844,동교3통입구,Donggyo 3 passenger entry
+236000845,설운체육공원앞,In front of Seolun Cheon Yuk Park
+236000846,설운체육공원앞,In front of Seolun Cheon Yuk Park
+236000847,여단앞,In front of the brigade
+236000848,여단앞,In front of the brigade
+236000852,고일리,Goili
+236000854,중2리.늘거리,Middle 2 -ri.
+236000855,기산5리.길고지,Kisan 5 -ri.
+236000856,기산5리.길고지,Kisan 5 -ri.
+236000860,신평2리.요꼴사거리,Sinpyeong 2 -ri.
+236000862,한화콘도,Hanwha Condo
+236000868,광산골입구,Mine
+236000877,1교다리양어장,1 bridge
+236000878,한화콘도,Hanwha Condo
+236000881,초가팔리,Tochy
+236000882,무봉1리.길상사입구,Mubong 1 -ri. Gilsangsa entrance
+236000883,막골,Makgol
+236000884,섬유단지입구,Textile complex entrance
+236000885,막골,Makgol
+236000886,초가팔1리,Chocal 1 -ri
+236000889,안약사,Eyepoint
+236000890,해방촌,Liberation village
+236000891,광산골입구,Mine
+236000892,안약사,Eyepoint
+236000893,백운종점,Baekwoon
+236000894,백운동(백운계곡),White Movement (Baekwoon Valley)
+236000895,호남식당,Honam Restaurant
+236000896,백운동(백운계곡),White Movement (Baekwoon Valley)
+236000897,백운종점,Baekwoon
+236000898,내촌삼거리,Naechon Intersection
+236000899,맹촌,Mangchon
+236000900,큰넋고개,Big head
+236000901,삼양레미콘,Samyang Remicon
+236000902,마산1리.돌목개,Masan 1 -ri.
+236000903,기아자동차,Kia Motors
+236000904,거리장오거리,Distance
+236000905,거리장오거리,Distance
+236000906,자동차검사소,Car inspection center
+236000907,마산1리.돌목개,Masan 1 -ri.
+236000908,궁말입구.삼양레미콘,"The entrance of the palace, Samyang Remicon"
+236000909,큰넋고개,Big head
+236000910,맹촌,Mangchon
+236000911,내1리,My 1 -ri
+236000912,장승마을,Jangseung Village
+236000913,내촌휴계소,Naechon Rest Area
+236000914,내촌휴계소,Naechon Rest Area
+236000916,신팔2리,Shinpal 2 -ri
+236000917,대원사,Daewon Temple
+236000918,괸돌,Dolmen
+236000919,일동터미널,Ildong Terminal
+236000921,운악산휴게소,Unak Mountain Rest Area
+236000922,사정리.의무대앞,In front of the medical duty
+236000923,사정리.의무대앞,In front of the medical duty
+236000925,냉정2리회관앞,In front of the pavilion
+236000926,냉정1리,Cool 1 -ri
+236000927,냉정1리.봉우재,Cool 1 -ri. Bongwoojae
+236000928,인산텍스타일,Phosphorus
+236000929,냉정리포막입구,Cool turmeric
+236000930,냉정리회관앞,In front of the Cool Center
+236000931,냉정1리삼거리,Cold 1 Riseam Street
+236000932,냉정1리.신흥동,Cold 1 -ri. Shinheung -dong
+236000939,우정아파트,Friendship apartment
+236000941,영송리,Young Song -ri
+236000942,약수동,Yaksu -dong
+236000943,영송리,Young Song -ri
+236000944,무릎고개.약수터,"Knee head, spring water"
+236000945,청성오거리,Cheongseong Ohori Street
+236000948,좌의3리,3 -ri on the left
+236000949,청성오거리,Cheongseong Ohori Street
+236000950,대진자동차학원,Daejin Motor Academy
+236000951,퓨리나사료,Purina feed
+236000953,방축2리.거리장오거리,Bangchuk 2 -ri.
+236000956,화현초등학교,Hwahyun Elementary School
+236000957,화현1리,Hwahyun 1 -ri
+236000958,화현초등학교,Hwahyun Elementary School
+236000963,직두3리.논배,Jikdu 3 -ri.
+236000966,K마트,K -mart
+236000970,K마트,K -mart
+235000798,오리엔탈공장입구,Oriental plant entrance
+235000799,오리엔탈공장입구,Oriental plant entrance
+235000800,구)신산약방,Old) Shinsan Pharmacy
+235000801,구)신산약방,Old) Shinsan Pharmacy
+235000802,남문중.한국외식과학고등학교,Nammunjung and Korean Food Science High School
+235000803,남문중.한국외식과학고등학교,Nammunjung and Korean Food Science High School
+235000804,봉암저수지,Bongam Reservoir
+235000805,봉암저수지,Bongam Reservoir
+235000806,조소앙선생기념관입구,Josoang Memorial Hall
+235000807,조소앙선생기념관입구,Josoang Memorial Hall
+235000808,황방리,Hwang Bang -ri
+235000809,황방리,Hwang Bang -ri
+235524220,무궁화유지,Maintain
+235524230,무궁화유지,Maintain
+235524310,원학동입구,Wonhak -dong entrance
+235524320,드림하우스,Dreamhouse
+235524330,드림하우스,Dreamhouse
+235524340,별장펜션앞,In front of the cottage pension
+235524440,마전2리마을회관,Majeon 2 -ri Village Hall
+235524450,마전2리마을회관,Majeon 2 -ri Village Hall
+235524460,먹골마을.대장금가든,Mokgol Village. Daejanggeum Garden
+235524470,먹골마을.대장금가든,Mokgol Village. Daejanggeum Garden
+235524480,원학동입구,Wonhak -dong entrance
+235524490,삼하리,Samhari
+235524540,가야5차아파트,Gaya 5th apartment
+235524550,복지2리마을회관,Welfare 2 -ri Village Hall
+236000001,연곡4리,Yeonggok 4 -ri
+236000002,사직2리.조침리마을,Sajik 2 -ri.
+236000003,사직1리.뱀말,Sajik 1 -ri. Snake
+236000004,사직1리.새터,Sajik 1 -ri. Satter
+236000005,화대3리.왼부리,Hwadae 3 -ri. Left
+236000006,화대3리.숫터,Hwadae 3 -ri. Mount
+236000007,수입2리.중갈기,Import 2 -ri. Middle Magazine
+236000008,수입2리.곰냄이,Import 2 -ri. Bear smell
+236000009,수입3리.아랫갈기,Import 3 -ri. Lowering
+236000010,일동사이판,Ildong Saipan
+236000011,일동사이판,Ildong Saipan
+236000012,수입3리.아랫갈기,Import 3 -ri. Lowering
+236000013,수입2리.곰냄이,Import 2 -ri. Bear smell
+236000014,수입2리.중갈기,Import 2 -ri. Middle Magazine
+236000015,성동2리.검문소,Seongdong 2 -ri.
+236000016,성동4리.파주골,Seongdong 4 -ri.Pajugol
+236000017,수입4리.와룡교,Import 4 -ri. Waryong Bridge
+236000018,38교,38 school
+236000020,노곡2리.새동네아파트,Nogok 2 -ri.
+236000021,노곡2리.노곡사거리,Nogok 2 -ri.
+236000022,노곡초교,Nogok Elementary School
+236000023,노곡3리.신병교육대,Nogok 3 -ri. Recruitment College
+236000024,노곡5리.갈말,Nogok 5 -ri.
+236000025,노곡리,Nogok -ri
+236000026,노곡리,Nogok -ri
+236000027,노곡5리.갈말,Nogok 5 -ri.
+236000028,노곡3리.신병교육대,Nogok 3 -ri. Recruitment College
+236000029,노곡초교,Nogok Elementary School
+236000030,노곡2리.노곡사거리,Nogok 2 -ri.
+236000031,노곡2리.새동네아파트,Nogok 2 -ri.
+236000033,38교,38 school
+236000034,수입4리.와룡교,Import 4 -ri. Waryong Bridge
+236000035,성동4리.파주골,Seongdong 4 -ri.Pajugol
+236000036,성동5리,Seongdong 5 -ri
+236000041,대회산리,Competition
+236000042,대회산리,Competition
+236000043,대회산리,Competition
+236000044,중3리.심재,"Middle 3 -ri, Shimjae"
+234000906,방도1리마을회관,Bangdo 1 -ri Village Hall
+234000907,방도1리마을회관,Bangdo 1 -ri Village Hall
+236001121,잣띠,Pine
+236001122,잣띠입구,Pine
+236001123,임마누엘의집,Immanuel's house
+236001124,임마누엘의집,Immanuel's house
+236001125,당고개삼거리,Tango Gaegae Sam Street
+236001128,송천순복음교회,Songcheon Soon Gospel Church
+236001129,하나로마트,Hanaro Mart
+236001131,석향마을,Seokhyang Village
+236001132,송우초교,Songwoo Elementary School
+236001133,송천순복음교회,Songcheon Soon Gospel Church
+236001134,아랫새청길,Lower
+236001135,아랫새창길,Lowering window
+236001136,농협하나로마트,Nonghyup Hanaro Mart
+236001137,농협하나로마트,Nonghyup Hanaro Mart
+236001138,금동2리.지동,Geumdong 2 -ri.
+236001139,금동2리.지동,Geumdong 2 -ri.
+236001140,만세교교차로,Long Line Intersection
+236001143,산정호수상동주차장,Sanjeong Lake Sangdong Parking Lot
+236001144,우둠지,Udumji
+236001145,우둠지,Udumji
+236001146,몽베르컨트리클럽,Montber Country Club
+236001147,몽베르컨트리클럽,Montber Country Club
+236001148,산정리.메이필드,"Mountain, Mayfield"
+236001149,메이필드앞,In front of Mayfield
+236001150,운천5리.마을상회,Uncheon 5 -ri. Village
+236001151,운천5리.마을상회앞,Uncheon 5 -ri.
+236001155,마명2리.마을입구,Myeongmame 2 -ri. Village entrance
+236001156,참나무쟁이길,Oak
+236001157,마명1리.참나무쟁이,"Mae 1 -ri, oak trees"
+236001158,사정리휴양소입구,Economic Recreation Cow Entrance
+236001159,사정리.휴양소입구,"Ejaculation, resort entrance"
+236001160,초과리,Overtime
+236001161,초과리.마을입구,Excess. Village entrance
+236001162,관인문화체육센터,Kwanin Culture and Sports Center
+236001163,관인문화체육센터,Kwanin Culture and Sports Center
+236001164,관인파출소앞,In front of Kwanin police box
+236001165,농협경제사업부,Nonghyup Economy Division
+236001166,관인농협경제부,Ministry of Economy and Economy
+236001167,냉정2리.천주교앞,Cool 2 -ri. In front of Catholicism
+236001168,냉정2리,Cool 2 -ri
+236001169,고장촌.내촌교,Naechon Bridge
+236001172,포천아트밸리,Pocheon Art Valley
+236001173,동교3통삼거리,Donggyo 3 Tong Sam Street
+236001174,혜성산업,Comet industry
+236001175,동교1통마을회관,Donggyo 1 Tong Village Hall
+236001176,평강농장앞,In front of Pyeonggang Farm
+236001177,그린힐정문,Green Hill Main Gate
+236001178,삼정주유소,Samjung gas station
+236001179,삼정주유소,Samjung gas station
+236001180,천보반점,Thousand
+236001181,경기할인마트,Gyeonggi Discount Mart
+236001182,마명1리.참나무쟁이,"Mae 1 -ri, oak trees"
+236001183,참나무쟁이길,Oak
+236001184,마명2리.마을입구,Myeongmame 2 -ri. Village entrance
+236001186,오리랜드,Ori Land
+236001187,오리랜드,Ori Land
+236001188,욕쟁이할머니집,Swearing grandmother house
+236001189,욕쟁이할머니,Swearing grandmother
+236001190,고모저수지입구,Aunt Reservoir Entrance
+236001191,경기할인마트,Gyeonggi Discount Mart
+236001192,유교3리.송가네식당앞,Confucian 3 -ri.
+236001193,유교3리마을회관앞,Confucian 3 -ri Village Center
+236001194,유교1리.영신산업,Confucian 1 -ri. Youngshin Industry
+236001196,감암1리입구,Gamam 1 Lee
+236001197,가산교회,Gasan Church
+236001198,가산슈퍼,Gasan Super
+236001199,벌말,Punishment
+236001201,샛터,Row
+236001205,포천고후문,Pocheon Kohu Gate
+236001206,포천고후문,Pocheon Kohu Gate
+236001209,포미재아파트,Pomijae apartment
+236001210,선단3통회관,Found 3 Conference Hall
+236001211,바깥말,External
+236001213,산호.포미재아파트,Coral and Pomijae Apartment
+236001214,너베기입구,Nerd
+236001215,너베기입구,Nerd
+236001216,청소년교육문화센터,Youth Education and Culture Center
+236001218,통일대삼거리,Unification
+236001220,독곡마을입구,Dokgok Village entrance
+236001221,독곡마을,Dokgok Village
+236001222,독곡마을삼거리,Dokgok Village Intersection
+236001223,독곡마을삼거리,Dokgok Village Intersection
+236001227,새천년산업,Millennium industry
+236001228,추동1리마을회관,Chudong 1 -ri Village Hall
+236001229,평강랜드,Pyeonggang Land
+236001232,마명2리.서운동산,Mae 2 -ri.
+236001233,마명2리.서운동산,Mae 2 -ri.
+236001236,고장촌,Village
+236001240,유네스코세계지질공원.비둘기낭,UNESCO World Geopark.
+236001252,동서남북교회,East and West North Church
+236001253,동심어린이집,Concentric daycare center
+236001254,동심어린이집,Concentric daycare center
+236001255,삼진정공,Samjin
+236001256,장자마을회관,Jangja Village Hall
+236001257,장자마을삼거리,Jangja Village Intersection
+236001258,장자마을삼거리,Jangja Village Intersection
+236001259,어룡2통마을회관,2 village halls
+236001260,어룡1통,1
+236001261,신평2리,Sinpyeong 2 -ri
+236001262,신평2리,Sinpyeong 2 -ri
+236001263,신평단지협동조합,Shinpyeong Complex Cooperative
+236001264,신평단지협동조합,Shinpyeong Complex Cooperative
+236001265,신영섬유,Shinyoung Textile
+236001266,신영섬유,Shinyoung Textile
+236001267,한미,Korea -US
+236001268,한미,Korea -US
+236001269,양문공단입구,Both Gate Industrial Complex
+236001270,강산실업,Gangsan unemployment
+236001271,성신섬유,Holy Ghost
+236001272,양문산업단지협동조합,Cooperative of two gate industrial complexes
+236001275,무림1리마을회관,Moorim 1 -ri Village Hall
+236001276,포천농축산판매장,Pocheon Agricultural Sales Center
+236001277,포천농축산판매장,Pocheon Agricultural Sales Center
+236001282,송우3리,Songwoo 3 -ri
+236001283,송우3리,Songwoo 3 -ri
+236001284,하송우리,Hasonguri
+236001285,동교3통.나무골삼거리,"Donggyo 3, tree osteosam"
+236001286,샛터,Row
+236001289,신북온천,Shinbuk Hot Spring
+236001290,산정리.우물목,"Mountain, well"
+236001291,소흘읍사무소앞,In front of Soyul -eup Office
+236001292,소흘읍사무소앞,In front of Soyul -eup Office
+236001294,초가팔2리마을회관,Super Gapal 2 -ri Village Hall
+236001295,초가팔2리마을회관,Super Gapal 2 -ri Village Hall
+236001298,중1리.교동마을,"Middle 1, Gyo -dong Village"
+236001299,오가2리.보건진료소,Oga 2 -ri. Health Clinic
+236001300,운담초등학교앞,In front of Undam Elementary School
+236001301,운담초등학교앞,In front of Undam Elementary School
+236001302,사직2리.가족처럼요양원,Sajik 2 -ri. Like a family
+236001303,사직2리.가족처럼요양원,Sajik 2 -ri. Like a family
+236001309,한탄강지질공원센터,Hantan River Jijiji Park Center
+236001310,검암1리입구,Gumam 1 -leavage
+236001311,유암초교,Amusement
+236001312,유교1리.영신산업,Confucian 1 -ri. Youngshin Industry
+236001313,유교3리마을회관앞,Confucian 3 -ri Village Center
+236001314,유교리,Confucianism
+236001315,유교3리.송가네식당앞,Confucian 3 -ri.
+236001316,용정1리.새말,Yongjeong 1 -ri.
+236001321,가산면행정복지센터,Gasan Myeon Match Country Welfare Center
+236001322,가산면행정복지센터,Gasan Myeon Match Country Welfare Center
+236001325,무림2리,Moorim 2 -ri
+236001327,삼율리.장수동,Samyuri and Jangsu -dong
+236001333,노인천국,Senior citizen
+236001334,노인천국,Senior citizen
+236001335,푸르미아파트,Purmi Apartment
+236001336,화현6리.우시동,Hwahyun 6 -ri. Ushi -dong
+236001337,화현6리.우시동,Hwahyun 6 -ri. Ushi -dong
+236001339,매기울,Maggieul
+236001340,추동2리.중간말,Chudong 2 -ri.
+236001341,추동2리.중간말,Chudong 2 -ri.
+236001342,새천년산업,Millennium industry
+236001343,기지리마을회관,Gyejiri Village Hall
+236001344,기지리마을회관,Gyejiri Village Hall
+236001345,추곡슈퍼,Chugok Super
+236001348,신북대교,Shinbuk Bridge
+236001349,신북대교,Shinbuk Bridge
+236001350,안촌말입구,Ahnchon
+236001351,안촌말입구,Ahnchon
+236001352,설운1통,1 Seolun
+236001353,설운1통,1 Seolun
+236001355,깊이울경로당,Pathway to be deeply
+236001356,동교동,Donggyo -dong
+236001357,동교동,Donggyo -dong
+236001358,설운1통.마을내,"Seolun 1, in the village"
+236001359,설운2통.마을내,"Seolun 2, in the village"
+236001360,소홀농협경제사업소,Non -Nonghyup Economic Office
+236001361,소홀농협경제사업소,Non -Nonghyup Economic Office
+236001362,동교천4교,Donggyocheon 4 Bridge
+236001363,동교천4교,Donggyocheon 4 Bridge
+236001364,수영장입구,Pool entrance
+236001365,시우동미곡처리장,Siu -dong Migok Processing Plant
+236001367,감암2리,Gamam 2 -ri
+236001368,감암2리마을회관,Gamam 2 -ri Village Hall
+236001369,감암2리,Gamam 2 -ri
+236001370,송광섬유,Songgwang Tiber
+236001371,송광섬유,Songgwang Tiber
+236001372,마명리.예당촌,Myeongmyeongri. Yedang Village
+236001374,사랑가득요양병원,Nursing Hospital full of love
+236001375,사랑가득요양병원,Nursing Hospital full of love
+236001376,인그린식품,In green food
+236001377,인그린식품,In green food
+236001378,사당말쉼터,Sadang Shelter
+236001379,사당말쉼터,Sadang Shelter
+236001382,선단3통,3 fleet
+236001383,대진대.학사마을입구,Daejin University.
+236001384,선단동체육센터,Seondan -dong Sports Center
+236001385,선단동체육센터,Seondan -dong Sports Center
+236001386,대진대.학사마을입구,Daejin University.
+236001387,선단3통,3 fleet
+236001388,장암아이파크,Jangam I -Park
+236001389,장암아이파크,Jangam I -Park
+236500030,서파,West
+236500040,서파,West
+236519580,일동공영버스,Ildong public bus
+236519590,일동공영버스,Ildong public bus
+237000001,계신리입구,Gye Shin -ri entrance
+237000003,시괭이,Poetry
+237000005,계신리입구,Gye Shin -ri entrance
+237000006,양촌리종점,Yangchon Lijong Branch
+237000007,보통1리종점,Normally 1
+237000008,송촌3리,Songchon 3 -ri
+237000009,계전2리,Well 2 -ri
+237000010,송촌2리,Songchon 2 -ri
+237000011,소송골,Lawsuit
+237000012,천서리파성,Cheonseori
+237000013,천서리파성,Cheonseori
+237000014,소송골,Lawsuit
+237000015,송촌1리송촌초교,Songchon 1 Li Songchon Elementary School
+237000016,송촌3리,Songchon 3 -ri
+237000017,게림2리갯가마을,2 Li Ga -ga Village
+237000018,계림1리토물,Guilin 1 Lito Water
+237000019,곡수부대앞,In front of the grain troops
+237000020,곡수부대앞,In front of the grain troops
+237000021,계림1리토물,Guilin 1 Lito Water
+237000022,게림2리갯가마을,2 Li Ga -ga Village
+237000023,도롱리종점,Dorong Lijong
+237000024,초현2리아랫새재,Chohyeon 2 Lia Rat Bodhisattva
+237000025,초현1리위새재,Chohyeon 1 Liwi Saejae
+237000026,무촌리,Muchon -ri
+237000027,옥촌3리입구,Okchon 3 -ri inheart
+237000028,옥촌2리,Okchon 2 -ri
+237000029,윤촌리,Yunchon -ri
+237000030,옥천1리입구,Okcheon 1 -ri inheart
+237000031,옥천1리입구,Okcheon 1 -ri inheart
+237000032,윤촌리,Yunchon -ri
+237000033,옥촌2리,Okchon 2 -ri
+237000034,옥촌3리입구,Okchon 3 -ri inheart
+237000035,무촌리,Muchon -ri
+237000036,초현1리위새재,Chohyeon 1 Liwi Saejae
+237000037,초현2리아랫새재,Chohyeon 2 Lia Rat Bodhisattva
+237000038,사격장앞,In front of the shooting range
+237000039,장풍1리,Jangpung 1 -ri
+237000040,장풍차고지입구,Jangpung Horide Entrance
+237000041,장풍3리,Jangpung 3 -ri
+237000042,장풍3리,Jangpung 3 -ri
+237000043,장풍차고지입구,Jangpung Horide Entrance
+237000044,장풍1리,Jangpung 1 -ri
+237000045,사격장앞,In front of the shooting range
+237000049,상구1리,Sanggu 1 -ri
+237000050,상구2리,Sanggu 2 -ri
+237000051,하림2리,Harim 2 -ri
+237000052,하림1리,Harim 1 -ri
+237000053,성원앞,In front of the support
+237000054,하림3리,Harim 3 -ri
+237000055,하림3리,Harim 3 -ri
+237000056,성원앞,In front of the support
+237000057,하림1리,Harim 1 -ri
+237000058,하림2리,Harim 2 -ri
+237000059,상구2리,Sanggu 2 -ri
+237000064,서원1리,Seowon 1 -ri
+237000065,서원2리,Seowon 2 -ri
+237000066,서원2리,Seowon 2 -ri
+237000067,서원2리,Seowon 2 -ri
+237000068,서원2리,Seowon 2 -ri
+237000069,서원1리,Seowon 1 -ri
+237000070,돌암이,Dolam
+237000071,용산말,Yongsan horse
+237000074,덕산리,Deoksan -ri
+237000076,석우1리,Seokwoo 1 -ri
+237000077,석우2리,Seokwoo 2 -ri
+237000080,덕산리입구,Deoksan -ri entrance
+237000081,장암1리,Jangam 1 -ri
+237000083,대외빌라,External villa
+237000085,덕산리,Deoksan -ri
+237000086,외룡리,Alongri
+237000087,상교리,Sanggyo -ri
+237000088,내룡리,Naeryong -ri
+237000089,내룡리,Naeryong -ri
+237000090,석우2리,Seokwoo 2 -ri
+237000091,주암1리,Juam 1 -ri
+237000092,주암2리,Juam 2 -ri
+237000093,주암2리,Juam 2 -ri
+237000094,주암1리,Juam 1 -ri
+237000095,석우2리,Seokwoo 2 -ri
+237000096,내룡리,Naeryong -ri
+237000097,내룡리,Naeryong -ri
+237000098,상교리입구,Sanggyo -ri entrance
+237000099,외룡리,Alongri
+237000100,덕산리입구,Deoksan -ri entrance
+237000102,대외빌라,External villa
+237000103,당우리,Danguri
+237000104,여강중고등학교앞,In front of Yeo River Middle and High School
+235001045,우미린.우남퍼스트빌아파트,Umirin.
+235001046,우미린.우남퍼스트빌아파트,Umirin.
+235001047,고읍신도브레뉴,Sindo Branhe
+235001048,고읍신도브레뉴,Sindo Branhe
+235001051,한양수자인1단지아파트,Hanyang Suza 1 Complex Apartment
+235001052,한양수자인1단지아파트,Hanyang Suza 1 Complex Apartment
+235001053,봉양상회,Bongyang Sanghoe
+235001054,봉양상회,Bongyang Sanghoe
+235001055,봉양4통마을회관,Bongyang 4 Tong Village Hall
+235001061,양주교통본사,Yangju Transportation History
+235001063,주공8단지,Jugong 8 complex
+235001065,장현슈퍼,Janghyun Super
+235001066,장현슈퍼,Janghyun Super
+235001067,천보초등학교,Cheonbo Elementary School
+235001068,천보초등학교,Cheonbo Elementary School
+234000841,중대동,Juda -dong
+234000842,삼동입구,Samdong entrance
+234000843,삼동입구,Samdong entrance
+234000844,도평리입구,Dopyeong -ri entrance
+234000845,시민교회,Civic church
+234000846,시민교회,Civic church
+234000847,보건소,Health center
+234000848,탄벌동행정복지센터,Tanbul Accounting Welfare Center
+234000849,탄벌동행정복지센터,Tanbul Accounting Welfare Center
+234000850,WE마트,We mart
+234000851,진새골종점,Jinsaethoma
+234000852,양촌저수지,Yangchon Reservoir
+234000853,두진아파트,Doojin Apartment
+234000854,양촌길입구,Yangchon -gil entrance
+234000855,양촌길입구,Yangchon -gil entrance
+234000856,제일정형외과앞,In front of Cheiljeong Surgery
+234000858,남문터널,South Gate Tunnel
+234000859,남문터널,South Gate Tunnel
+234000861,학동3리하오개,Hak -dong 3 Lee Hao Dog
+234000863,우림아파트,Woorim apartment
+234000864,우림아파트,Woorim apartment
+234000865,봉골종점,Bonggol terminal
+234000866,개미촌.온누리교회,"Ant Village, Onnuri Church"
+234000867,개미촌.온누리교회,"Ant Village, Onnuri Church"
+234000872,부항1리회관앞,In front of the pavilion
+234000873,수왕사,Suwangsa Temple
+234000875,부항2리종점,Buhang 2 Lijong Branch
+234000876,수왕사,Suwangsa Temple
+234000877,동진판지앞,In front of Dongjin Panji
+234000878,봉현리입구,Bonghyeon -ri entrance
+234000879,시골집,cottage
+234000880,봉현리종점,Bonghyeon -ri
+234000881,속새벌,Sesame seeds
+234000882,속새벌,Sesame seeds
+234000884,영동리마을회관,Yeongdong -ri Village Hall
+234000885,구룡동앞,Guryong -dong
+234000886,영동리구룡동,Yeongdong Riguyong -dong
+234000887,상림리입구,Sangrim -ri entrance
+234000888,능안마을,Neungan Village
+234000889,시어골,Shimgol
+234000890,시골집,cottage
+234000891,우창물류,Woochang logistics
+234000893,유리공장앞,In front of the glass factory
+234000894,곤지암역.예계교,Konjiam Station.
+234000895,유사1리마을회관,Similar 1 Ri Village Hall
+234000896,유사1리마을회관,Similar 1 Ri Village Hall
+234000897,바깥성골,Outer bone
+234000898,바깥성골,Outer bone
+234000899,바깥성골종점,Outer
+234000900,광주성남하남산림조합,Gwangju Seongnam Hanam Forest Association
+234000902,초록마을입구,Green Village Entrance
+234000905,유정리마을안,Inside the village of Yoo Jeong -ri
+235000734,연곡회관.연곡보건진료소,"Yeonggok Hall, Yeongok Health Clinic"
+235000735,조양농원,Choyang Farm
+235000736,조양농원,Choyang Farm
+235000737,비암사거리,Non -rock range
+235000738,비암사거리,Non -rock range
+235000739,느티나무,Zelkova
+235000740,비암2리,Nonam 2 -ri
+235000741,우고리공단,Woogori Industrial Complex
+235000748,경신리,Gyeongsin -ri
+235000749,경신리,Gyeongsin -ri
+235000750,도화리,Dohwa -ri
+235000751,도화리,Dohwa -ri
+235000752,한양레미콘,Hanyang Remy Micon
+235000753,한양레미콘,Hanyang Remy Micon
+235000754,오뚜기맹호아파트,Ottogi Mengho Apartment
+235000755,오뚜기맹호아파트,Ottogi Mengho Apartment
+235000756,돌모루입구,Dolmoru entrance
+235000757,못말낚시터,I can't say fishing
+235000761,매곡리마을회관,Maegok -ri Village Hall
+235000762,매곡리마을회관,Maegok -ri Village Hall
+235000763,효촌1리마을입구,Hyochon 1 Lima Village Entrance
+235000776,기산리한우마을,Kisanri Hanwoo Village
+235000779,기산리석곡,Kisan -ri Seokgok
+235000780,안고령,Annie
+235000781,안고령,Annie
+235000783,봉암초등학교,Bongam Elementary School
+235000784,봉암초등학교,Bongam Elementary School
+235000785,헌병대앞,In front of the military police
+235000786,헌병대앞,In front of the military police
+235000788,봉암삼거리,Bongam Intersection
+235000789,봉암삼거리,Bongam Intersection
+235000790,용바위식당,Yongbawi Restaurant
+235000791,용바위식당,Yongbawi Restaurant
+235000792,한산2리마을회관,Hansan 2 -ri Village Hall
+235000793,한산2리마을회관,Hansan 2 -ri Village Hall
+235000794,원당저수지입구,Wondang Resin entrance
+235000795,원당저수지입구,Wondang Resin entrance
+235000796,남면소방서,Namyeon Fire Station
+235000797,남면소방서,Namyeon Fire Station
+234001097,태전힐스테이트5지구,Taejeon Hill State 5 District
+236001217,통일대삼거리,Unification
+236001224,기지2리.문학골,Base 2 -ri. Literature
+234001207,경안천습지생태공원,Gyeongan Cheon Wetland Ecological Park
+235000772,송학앞,In front of Songhak
+236000176,유한아파트입구,Entrance to Yuhan Apartment
+236001225,포천종합사회복지관,Pocheon Social Welfare Center
+236001226,포천종합사회복지관,Pocheon Social Welfare Center
+236001230,양문1리.영중면사무소,"Both Gate 1 -ri, Youngjung -myeon Office"
+236001242,하성북리,Haseongbuk -ri
+236001346,포천중학교입구,Pocheon Middle School entrance
+234000943,곤지암터미널,Konjiam Terminal
+236001347,포천중학교입구,Pocheon Middle School entrance
+235001197,삼숭교,Sam So -kyo
+235001161,앞말,Front
+236001141,내촌삼거리,Naechon Intersection
+234001033,엄미리.미라울,Ummi. Miraul
+234001023,장승배기,Jang Seung -gi
+235001218,플러스편의점,Plus convenience store
+236000689,광림세미나하우스,Gwanglim Seminar House
+235000582,급양대,Plague
+234001043,무갑삼거리,Neurgae Intersection
+234001062,태전힐스테이트5지구,Taejeon Hill State 5 District
+234001064,우림필유,Woorim pill oil
+234001065,우림필유,Woorim pill oil
+234000727,오포소방서,Opposo Fire Station
+235000074,옥정고등학교후문,Okjeong High School Back Gate
+235001186,은봉산전원마을입구,Eunbongsan Country Village Entrance
+235001187,은봉산전원마을입구,Eunbongsan Country Village Entrance
+235001207,삼숭교차로,Samseong Intersection
+235001210,지에스제이드웰21단지,GS Jade Well 21 Complex
+235001214,꿈나무도서관.백석고교,Dream Tree Library. Baekseok High School
+234510340,e-편한세상.광남중학교,E-comfortable world. Gwangnam Middle School
+234000953,코사마트앞,In front of Cosa Mart
+234000954,대양산업,Ocean
+234000955,대양산업,Ocean
+234000956,도사랑.희망교회,"Tosa -ri, Hope Church"
+234000957,도사랑.희망교회,"Tosa -ri, Hope Church"
+234000958,유연산업앞,In front of the flexible industry
+234000959,유연산업앞,In front of the flexible industry
+234000960,충현기도원입구,Chunghyeon prayer entrance
+234000961,충현기도원입구,Chunghyeon prayer entrance
+234000962,e편안세상아파트,e comfortable world apartment
+234000963,동광아파트.모아미래도입구,Donggwang Apartment.
+234000964,동광아파트.모아미래도입구,Donggwang Apartment.
+234000965,경안동공영주차장,Gyeongan -dong Public Parking Lot
+234000966,세광아파트후문,Segwang Apartment Back Gate
+234000967,공단입구,Industrial
+234000968,공단입구,Industrial
+235000810,황방리고개,Hwangbang Rogue Dog
+235000811,황방리고개,Hwangbang Rogue Dog
+235000812,의무대.봉암삼거리,Stage of Bongam Intersection
+235000813,의무대.봉암삼거리,Stage of Bongam Intersection
+235000814,덕정주공1단지,Deokjeong Jugong Complex 1
+235000827,안골입구,Angol entrance
+235000837,연곡2리방앗간,Yeonggok 2 Li Bangem
+235000838,상패초교,Sangpa Elementary School
+235000839,구암리회관,Guam -ri Hall
+235000841,퍼피과수원농원가든,Purpi orchard Farm
+235000847,푸르지오아파트,Prugio Apartment
+235000852,석우동.종점,Seokwoo -dong.
+235000856,금광아파트,Gold mine
+235000865,부대앞,In front of the unit
+235000867,약사사입구,Pharmacist
+235000868,회암동종점,Hoam -am
+235000870,옥정중앙공원.율정마을13단지,"Okjeong Central Park, Juljeong Village Complex 13"
+235000871,관사앞,In front of the articles
+235000872,세창아파트,Three -way apartment
+235000874,레이크우드골프장,Lakewood golf course
+235000875,레이크우드골프장,Lakewood golf course
+235000881,내촌교,Naechon Bridge
+235000882,내촌교,Naechon Bridge
+235000883,봉양리종점,Bongyang Lijong Branch
+235000884,봉양동종점,Bongyang -dong
+235000893,축산위생연구소,Livestock
+236000046,운산리충남식당,Unsan -ri Chungnam Restaurant
+236000047,봉은사입구,Bongeunsa entrance
+236000048,운산리,Unsan -ri
+236000049,오가3리.벧엘교회,Oga 3 -ri. Bethel Church
+236000050,오가3리.벧엘교회,Oga 3 -ri. Bethel Church
+236000051,운산리,Unsan -ri
+236000052,봉은사입구,Bongeunsa entrance
+236000053,운산리충남식당,Unsan -ri Chungnam Restaurant
+236000054,중2리.늘거리,Middle 2 -ri.
+236000059,성동2리.검문소,Seongdong 2 -ri.
+236000061,성동5리,Seongdong 5 -ri
+236000062,연곡4리,Yeonggok 4 -ri
+236000063,사직2리.조침리마을,Sajik 2 -ri.
+236000064,사직1리.뱀말,Sajik 1 -ri. Snake
+236000065,사직1리.새터,Sajik 1 -ri. Satter
+236000066,화대3리.왼부리,Hwadae 3 -ri. Left
+236000067,화대3리.숫터,Hwadae 3 -ri. Mount
+236000071,심뱅이골,Sim Banggol
+236000072,도평4리.풍차가든,Dopyeong 4 -ri.
+236000073,장암5리.한빛아파트,Jangam 5 -ri. Hanbit Apartment
+236000074,이동초교,Mobile elementary school
+236000075,연곡리심재,Yeonkok -ri Shim Jae
+236000076,이동,movement
+236000077,연곡1리.포병여단앞,Yeongok 1 -ri. In front of the artillery brigade
+236000078,원평마을.연곡2리,Wonpyeong Village.
+236000079,연곡3리.만가대,Yeonggok 3 -ri.
+236000080,노곡4리.군단앞,Nogok 4 -ri. In front of Legion
+236000081,장암2리.매바위,Jangam 2 -ri.Maebawi
+236000082,장암2리.매바위,Jangam 2 -ri.Maebawi
+236000083,노곡4리.군단앞,Nogok 4 -ri. In front of Legion
+236000084,청우식품.야미1리,Cheongwoo Food. Yami 1 -ri
+236000087,영북고.보화센타,"Yeongbuk High School, Treasure Center"
+236000091,자일3리,Xyl 3 -ri
+236000092,자일리,Xyli
+236000093,소회산리,Sogak San -ri
+236000094,소회산리,Sogak San -ri
+236000095,운천5리노인정앞,Uncheon 5 Reno Recognition
+236000098,1교다리양어장,1 bridge
+234000971,지월교,Jiwol Bridge
+234000972,지월교,Jiwol Bridge
+234000973,초월읍행정복지센터,Transcendence Welfare Center
+234000976,초월역.쌍동리,Transcendence Station. Ssangdong -ri
+234000977,곤지향어울림마당,Gonji flavoring yard
+234000978,부항리입구,Buhangri entrance
+234000980,봉현리입구,Bonghyeon -ri entrance
+234000981,공단입구앞,In front of the industrial complex
+234000982,부항1리마을회관,Buhang 1 -ri Village Hall
+234000983,부항1리,Buhang 1 -ri
+234000984,부항선안당,Cuisang Annex
+234000986,만선농협,Manseon Agricultural Cooperatives
+234000987,부항리입구,Buhangri entrance
+234000988,부항리입구,Buhangri entrance
+234000989,대우아파트.경안초교입구,Daewoo Apartment.
+234000990,광주시시립도서관,Gwangju City Library
+234000991,동보아파트,Dongbo Apartment
+234000992,탄벌중학교,Tanbul Middle School
+234000993,경안동공영주차장,Gyeongan -dong Public Parking Lot
+234000994,탄벌중학교,Tanbul Middle School
+234000995,동보아파트,Dongbo Apartment
+234000998,우림2차아파트,Woorim 2nd apartment
+234001001,우림아파트,Woorim apartment
+234001002,한신마을입구,Hanshin Village entrance
+234001003,(주)다원,"Dawon Co., Ltd."
+234001008,신대리입구,Sindae -ri entrance
+234001009,사슴농장입구,Deer farm
+234001010,대성빌라앞,Daesung Villa in front of
+234001011,아이솔어린이집앞,In front of Isol Children's House
+234001012,선장골,Castle bone
+234001018,대주아파트.종점,Daeju apartment.
+234001019,장심리입구,Jangsim -ri entrance
+234001021,서하리,Seohari
+234001024,용수1리전원마을입구,Yongsu 1 Revolution Village Entrance
+234001025,시청,town hall
+234001026,시청,town hall
+234001027,e편안세상아파트,e comfortable world apartment
+234001028,송정대주아파트,Songjeong Daeju Apartment
+234001029,안골.해태아파트,Angol and Haitai apartment
+234001030,대주아파트종점,Daeju apartment end point
+234001031,퇴촌사거리,Retreat
+234001032,현산마을,Hyunsan Village
+234001035,만선삼거리,Manseon Three -way
+234001036,귀여3리.요골,Cute 3 -ri.
+234001037,고산2리마트,Gosan 2 Rit
+234001038,봉골종점,Bonggol terminal
+235000894,농협하나로마트,Nonghyup Hanaro Mart
+235000895,농협하나로마트,Nonghyup Hanaro Mart
+235000896,우리상회,Our Sanghoe
+235000900,봉암터미널.봉암리,Bongam Terminal. Bongam -ri
+235000903,내촌사거리,Nachon Intersection
+235000904,내촌사거리,Nachon Intersection
+235000905,정토마을,Jeongto Village
+235000917,도둔이입구,Doduni entrance
+235000918,도둔이입구,Doduni entrance
+235000919,덕계동금강펜테리움,Deokgye Donggeumgang Penterium
+235000920,덕계동금강펜테리움,Deokgye Donggeumgang Penterium
+235000923,덕계역,Deokgye Station
+235000924,덕계역,Deokgye Station
+235000925,덕계역,Deokgye Station
+235000926,덕계역,Deokgye Station
+235000927,범양2차아파트,Beomyang 2nd apartment
+235000928,범양2차아파트,Beomyang 2nd apartment
+235000930,해유령,Sea oil
+235000931,푸르지오아파트,Prugio Apartment
+235000932,MLA어학원,MLA Language Academy
+235000933,강화식당,Ganghwa Restaurant
+235000934,강화식당,Ganghwa Restaurant
+235000935,귀율동회관,Returnal Hall
+235000939,구암리.뉴옵틱스,Guam -ri. New Optics
+235000940,구암리.뉴옵틱스,Guam -ri. New Optics
+235000944,한강섬유,Han River fiber
+235000945,한강섬유,Han River fiber
+235000946,정비대앞,In front of the maintenance
+235000947,정비대앞,In front of the maintenance
+235000950,한승아파트,Hanseung Apartment
+235000951,한승아파트,Hanseung Apartment
+235000952,금광아파트,Gold mine
+235000954,현대판유리,Modern plate glass
+235000955,현대판유리,Modern plate glass
+235000956,하패1리복지회관,Hapa 1 Ri -Bokji Hall
+235000957,용신섬유,Yongsin fiber
+235000958,송림가든,Songlim
+235000959,송림오리가든,Pine
+235000960,용신섬유,Yongsin fiber
+235000961,하패1리복지회관,Hapa 1 Ri -Bokji Hall
+235000962,무궁화유지,Maintain
+235000963,상패초교,Sangpa Elementary School
+235000964,28보수대.부영판지,28 conservatives.
+235000965,28보수대.부영판지,28 conservatives.
+235000969,고덕구장,Godeok Stadium
+235000970,MLA어학원,MLA Language Academy
+235000971,회암2통마을회관,Hoamam 2 Temple Village Hall
+235000972,한양휴게소,Hanyang Rest Area
+236000111,운천5리,Uncheon 5 -ri
+236000114,운천5리노인정앞,Uncheon 5 Reno Recognition
+236000116,자일2리,Xyl 2 -ri
+236000120,관인파출소앞,In front of Kwanin police box
+236000122,삼율리.은하동,Samyul -ri. Galaxy -dong
+236000123,삼율리장수동,Samyuri Jangsu -dong
+236000124,삼율리,Samyul -ri
+236000125,중1리,Middle 1 -ri
+236000127,중3리.상심동,Middle 3 -ri.
+236000128,중1리,Middle 1 -ri
+236000129,맥동,Pulse
+236000130,삼율리장수동,Samyuri Jangsu -dong
+236000131,삼율리.은하동,Samyul -ri. Galaxy -dong
+236000132,냉정1리.봉우재,Cool 1 -ri. Bongwoojae
+236000136,자일2리,Xyl 2 -ri
+236000138,자일리,Xyli
+236000139,자일3리,Xyl 3 -ri
+236000143,운천9리.꿈이있는마을,Uncheon 9 -ri.
+236000145,청우식품.야미1리,Cheongwoo Food. Yami 1 -ri
+236000148,심뱅이골,Sim Banggol
+236000149,도평4리.풍차가든,Dopyeong 4 -ri.
+236000150,장암5리.한빛아파트,Jangam 5 -ri. Hanbit Apartment
+236000151,이동,movement
+236000152,이동초교,Mobile elementary school
+236000153,연곡1리.포병여단앞,Yeongok 1 -ri. In front of the artillery brigade
+236000154,원평.연곡리심재,Wonpyeong. Yeongok -ri Shimjae
+236000155,원평마을,Wonpyeong Village
+236000156,연곡3리.만가대,Yeonggok 3 -ri.
+236000157,해룡마을,Haryong Village
+236000171,포천남여중,Pocheon Nam Girls' Middle School
+236000172,한신아파트,Hanshin Apartment
+236000173,포천시보건소,Pocheon Health Center
+236000175,포천초등학교.청소년문화의집,"Pocheon Elementary School, Youth Culture House"
+236000177,포천아이파크1차,Pocheon I -Park 1st
+236000178,포천아이파크2차,Pocheon I -Park 2nd
+236000180,포천초등학교.청소년문화의집,"Pocheon Elementary School, Youth Culture House"
+237000105,상골,Bone
+237000106,운암초교,Unam Elementary School
+237000107,중암1리,Jungam 1 -ri
+237000108,중암리,Jungam -ri
+237000109,중암2리,Jungam 2 -ri
+237000110,라파엘의집본관,Rafael's main building
+237000111,도전4리,Challenge 4 -ri
+237000112,도전4리,Challenge 4 -ri
+237000113,도전4리,Challenge 4 -ri
+237000114,다랑고개,Darang Head
+237000115,라파엘의집.분관앞,Rafael's house.
+237000116,도전3리,Challenge 3 -ri
+237000117,도전3리,Challenge 3 -ri
+237000118,파티마의집,Fatima's house
+237000119,도전2리,Challenge 2 -ri
+237000120,도전2리,Challenge 2 -ri
+237000121,도전1리,Challenge 1 -ri
+237000122,도전1리,Challenge 1 -ri
+237000123,도전2리,Challenge 2 -ri
+237000124,도전분교앞,In front of the challenge branch
+237000125,파티마의집,Fatima's house
+237000126,도전3리,Challenge 3 -ri
+237000127,도전3리,Challenge 3 -ri
+237000128,라파엘의집.분관앞,Rafael's house.
+237000129,다랑고개,Darang Head
+237000130,도전4리,Challenge 4 -ri
+237000131,도전4리,Challenge 4 -ri
+237000132,도전4리,Challenge 4 -ri
+237000133,라파엘의집본관,Rafael's main building
+237000134,중암2리,Jungam 2 -ri
+237000135,중암리,Jungam -ri
+237000136,중암2리,Jungam 2 -ri
+237000137,중암1리,Jungam 1 -ri
+237000138,중암1리,Jungam 1 -ri
+237000139,상골,Bone
+237000140,가정2리마을회관,Family 2 -ri Village Hall
+237000141,송림리,Songlim -ri
+237000142,가정2리입구,Family 2 -ri input
+237000143,개경자,Dogman
+237000145,긴골,Long
+237000146,개경자,Dogman
+237000147,지내리마을회관,Limni Village Hall
+237000148,지내리,Jigga
+237000149,신접1리,Shin 1 -ri
+237000151,지내리입구,Entrance
+237000152,신접1리,Shin 1 -ri
+237000153,신남리,Shinnam -ri
+237000154,신남리,Shinnam -ri
+237000155,천송3통마을회관,Cheonsong 3 Tong Village Hall
+237000156,천송동안터,During the ruins
+237000157,천송동안터,During the ruins
+237000158,천송3통마을회관,Cheonsong 3 Tong Village Hall
+237000159,사비나루,Sabina Naru
+237000160,천남2리,Cheonnam 2 -ri
+237000162,가산2리,Gasan 2 -ri
+237000163,가산마루,Gasan Maru
+237000164,후포리,Fupori
+237000165,후포리.대신고교,Hupori. Instead of high school
+237000166,장풍후포리,Jangpung Hopori
+236000550,기산5리.말미,Kisan 5 -ri.
+236000551,거사2리,Gusa 2 -ri
+236000552,일동초교.일동도서관,Ildong Elementary School. Ildong Library
+236000553,기산1리.배리,Kisan 1 -ri. Barry
+236000554,거사2리.마태사입구,Gusa 2 -ri. Matthew entrance
+236000556,유동2리.선진공업사,"Flow 2 -ri. Advanced Industrial Co., Ltd."
+236000557,길명2리,Gilmyeong 2 -ri
+236000558,기산5리.생이고개,Kisan 5 -ri. Saint -Gae
+236000559,기산5리.생이고개,Kisan 5 -ri. Saint -Gae
+234515920,목현동입구,Mokhyeon -dong entrance
+234515910,목현동입구,Mokhyeon -dong entrance
+234001231,중앙주차장,Central parking lot
+236001420,산림생산기술연구소,Forest Production Technology Research Institute
+236000439,윤중.신포천아파트,Yoonjung. Sinpocheon Apartment
+236000704,축석가든,Sour
+236001304,산림생산기술연구소,Forest Production Technology Research Institute
+234001132,두리봉마을,Duribong Village
+234000466,광주하남교육청,Gwangju Hanam Office of Education
+234000467,광주하남교육청,Gwangju Hanam Office of Education
+236001234,포천농협.하나로마트,Pocheon Nonghyup. Hanaro Mart
+236001235,포천농협.하나로마트,Pocheon Nonghyup. Hanaro Mart
+234000999,오포장례식장.주성엔지니어링,Opo Funeral Hall. Jusung Engineering
+236001405,아트교사거리,Art Teacher Street
+236001406,아트교사거리,Art Teacher Street
+235001208,삼숭교차로,Samseong Intersection
+234000924,전원마을입구,Country village entrance
+236001330,군내면하성북1리,"Haseongbuk 1 -ri, Haseongbuk -myeon"
+235000717,겨르매기마을회관,Ball Maggy Village Hall
+234000908,파발교상단교차로,The crossroads
+234000910,오포금호아파트,Opo Kumho Apartment
+234000914,광주2육교,Gwangju 2 Overpass
+234000915,대주할인마트,Daeju Discount Mart
+234000916,대주피오래아파트,Daeju Fee long apartment
+234000917,대주피오레아파트앞,Daeju Fiore Apartment
+234000918,신일아파트후문,Shinil apartment back door
+234000919,신일아파트후문,Shinil apartment back door
+234000920,도평구판장,Dopyeong -gu
+234000921,도평구판장,Dopyeong -gu
+234000922,등용문학원종점,Climbing Munhak Academy
+234000923,광주공원앞,In front of Gwangju Park
+234000925,오향리고개,Five
+234000926,귀여3리.요골,Cute 3 -ri.
+234000927,유정마을회관,Yoojeong Village Hall
+234000928,유정마을회관,Yoojeong Village Hall
+234000929,방도1리마을회관,Bangdo 1 -ri Village Hall
+234000930,영동리마을회관,Yeongdong -ri Village Hall
+234000933,태양신소재,Sun material
+234000934,석재공장앞,In front of the stone factory
+234000935,태양신소재,Sun material
+234000936,석재공장앞,In front of the stone factory
+234000937,하열미,Hayeolmi
+234000938,광주공원앞,In front of Gwangju Park
+234000940,상림리입구,Sangrim -ri entrance
+234000941,서울대연습림,Seoul National University practice forest
+234000942,방도2리입구,Bangdo 2 -ri input
+234000947,신일아파트입구,Shinil apartment entrance
+234000948,장승배기,Jang Seung -gi
+234000951,삼동종점,Samdong Terminal
+234000952,코사마트앞,In front of Cosa Mart
+234000693,왜수골,Dwarf
+234000694,왜수골,Dwarf
+234000695,배나무집앞,Pear
+234000696,배나무집앞,Pear
+234000697,검복리마을회관앞,In front of the Gumbokri Village Hall
+234000698,검복리.남벽수입구,Sword Bok -ri.
+234000699,경기도남한산성세계유산센터,"World Heritage Center in Hansanseong, Gyeonggi -do"
+234000700,큰골,Tig
+234000701,큰골,Tig
+234000702,망월사.장경사,Mangwolsa Temple.
+234000703,망월사.장경사,Mangwolsa Temple.
+234000704,남한산성마을회관,Namhansanseong Village Hall
+235000568,덕계역.현대윤중아파트,Deokgye Station. Hyundai Yunjung Apartment
+235000569,덕계역,Deokgye Station
+235000583,석우동마을회관,Seokwoo -dong Village Hall
+235000584,석우동마을회관,Seokwoo -dong Village Hall
+235000585,한승아파트,Hanseung Apartment
+235000586,천보빌라,Cheonbo Villa
+235000587,양주출입국외국인사무소.회천2동,"Yangju Immigration Foreign Office, Hoecheon 2 -dong"
+235000588,양주출입국외국인사무소.회천2동,"Yangju Immigration Foreign Office, Hoecheon 2 -dong"
+235000593,귀율동,Rhythm
+235000594,귀율동,Rhythm
+235000605,양주석유,Yangju oil
+235000606,연동,peristalsis
+235000607,연동,peristalsis
+235000608,청수정,Cheongsujeong
+235000609,청수정,Cheongsujeong
+235000617,고암2통마을회관,Goam 2 Temple Village Hall
+235000618,고암2통마을회관,Goam 2 Temple Village Hall
+235000619,고암동(종점),Goam -dong (end point)
+235000620,고암동(종점),Goam -dong (end point)
+235000621,회암리,Hoam -ri
+234001039,무수리입구,Mu -hyang entrance
+234001040,무수리입구,Mu -hyang entrance
+234001091,용수2교,2 bridges
+234001044,학동3리하오개,Hak -dong 3 Lee Hao Dog
+234001045,소을마을입구,Soeul Village Entrance
+234001046,등용문학원,Heritage Academy
+234001047,등용문학원종점,Climbing Munhak Academy
+234001051,추곡리마을입구,Chugok -ri village entrance
+234001053,금호리첸시아,Kumho Rician
+234001054,e편한세상,e comfortable world
+234001056,e편한세상,e comfortable world
+234001057,명문새가앞,The prestigious bird
+234001058,아트타운,Art Town
+234001066,학동3리마을회관,Hakdong 3 -ri Village Hall
+234001069,연곡리마을회관,Yeongok -ri Village Hall
+234001070,벽산블루밍,Byeoksan Blooming
+234001071,경남아너스빌,Gyeongnam Honorsville
+234001072,광주경찰서.경남.벽산아파트,"Gwangju Police Station, Gyeongnam, Byucksan Apartment"
+234001073,탄벌1리마을회관,Tanbul 1 -ri Village Hall
+234001074,탄벌1리마을회관,Tanbul 1 -ri Village Hall
+234001075,곤지암읍행정복지센터,Konjiam Eupjeong Welfare Center
+234001076,곤지암읍행정복지센터,Konjiam Eupjeong Welfare Center
+234001078,현동빌라,Hyeondong Villa
+234001079,수레실.능평1리마을회관,Sudil. Neungpyeong 1 -ri Village Hall
+234001080,현동빌라,Hyeondong Villa
+234001081,본갈비앞,In front of the main ribs
+234001082,송정펌프장앞,In front of Songjeong Pump
+234001083,경수마을고개,Gyeongsu Village Pass
+234001084,경수마을고개,Gyeongsu Village Pass
+234001085,선동초교앞,In front of the elementary school
+234001086,선동초교앞,In front of the elementary school
+234001087,소설악휴게소앞,In front of the novel evil rest area
+234001088,소설악휴게소,Novel
+234001089,용수2리삼거리,Riseom 2 Street
+234001090,용수2리삼거리,Riseom 2 Street
+234001092,용수2교,2 bridges
+234001093,장담마을,Guarantee
+234001094,장담마을,Guarantee
+234001095,쌍동교입구,Ssangdong Bridge entrance
+234001096,쌍동교입구,Ssangdong Bridge entrance
+234001102,신현리.대호빌리지,Shin Hyun -ri. Daeho Village
+234001103,도수리.소담골,Sodamgol
+234001104,도수리.소담골,Sodamgol
+235000974,사괴,Ridicule
+235000975,봉양1통마을회관,Bongyang 1 Tong Village Hall
+235000976,봉양1통마을회관,Bongyang 1 Tong Village Hall
+235000977,사괴,Ridicule
+235000979,한양휴게소,Hanyang Rest Area
+235000980,회암2마을회관,Hoam 2 Village Hall
+235000982,주공6단지,Jugong 6 complex
+235000983,회암사입구,Hoalam Inlet
+234001105,벽산블루밍,Byeoksan Blooming
+234001106,경남아너스빌,Gyeongnam Honorsville
+234001107,우림아파트앞,Woorim apartment
+234001108,봉골사거리,Bonggol Intersection
+234001109,봉골사거리,Bonggol Intersection
+234001110,오포초등학교앞,In front of Oppo Elementary School
+234001111,오포초등학교앞,In front of Oppo Elementary School
+234001112,추자1리공단앞,In front of Chuja 1 -ri Industrial Complex
+234001113,추자1리공단앞,In front of Chuja 1 -ri Industrial Complex
+234001114,추자가압장앞,In front of Chuja Pressure
+234001115,추자가압장앞,In front of Chuja Pressure
+234001116,이석리취수장,Lee Seok -ri
+234001117,이석리취수장,Lee Seok -ri
+234001118,영동주유소앞,In front of Yeongdong Gas Station
+234001119,영동주유소앞,In front of Yeongdong Gas Station
+234001121,수진농장앞,In front of Sujin Farm
+234001122,문형교차로,Moon -type intersection
+234001123,문형교차로,Moon -type intersection
+234001126,대석동마을앞,In front of Daeseok -dong Village
+234001127,대성빌라앞,Daesung Villa in front of
+234001128,사슴농장입구,Deer farm
+234001129,신대리입구,Sindae -ri entrance
+234001133,초월고등학교,Transcendence High School
+234001134,초월고등학교,Transcendence High School
+234001136,왕창2리.새마을교,Wangchang 2 -ri. Saemaul Bridge
+234001137,왕창2리종점,Wangchang 2 Lijong Branch
+234001138,직동공단,Jikdong Industrial Complex
+235000002,효촌1리마을입구,Hyochon 1 Lima Village Entrance
+235000003,남문중.한국외식과학고등학교,Nammunjung and Korean Food Science High School
+235000004,남면초등학교,Namyeon Elementary School
+235000005,남문중.한국외식과학고등학교,Nammunjung and Korean Food Science High School
+235000007,남면행정복지센터.남면농협,Nam -myeon Administrative Welfare Center.
+235000008,비룡성당앞,In front of Biryongseongdang
+235000009,상수사거리,Water range
+235000010,상수검문소,Constant checkpoint
+235000011,구세당약방,Salvation Room
+235000012,상수공단,Constant
+235000013,25사단,25th Division
+235000014,신암아파트,Shinam Apartment
+235000015,신암리,Sinam -ri
+235000016,신암삼거리,Sinam Intersection
+235000017,상수공단,Constant
+234000705,남한산성마을회관,Namhansanseong Village Hall
+234000706,검복리마운틴앞,In front
+234000707,검복리마운틴앞,In front
+234000708,광지원.남한산성면사무소,Light Support. Namhansanseong -myeon Office
+234000709,부대입구,Unit entrance
+234000710,매산1리,Maesan 1 -ri
+234000711,매산1리,Maesan 1 -ri
+234000712,롯데전관,Lotte Alliance
+234000713,롯데전관,Lotte Alliance
+234000714,푸른마을(다리앞),Blue Village (in front of the bridge)
+234000715,푸른마을(다리앞),Blue Village (in front of the bridge)
+234000716,애지슈퍼,Aji Super
+234000717,애지슈퍼,Aji Super
+234000718,공원묘지입구,Park Cemetery entrance
+234000719,공원묘지입구,Park Cemetery entrance
+234000720,춘향가든,Chunhyang Garden
+234000721,춘향가든,Chunhyang Garden
+234000722,약사암입구,Pharmacopathy entrance
+234000723,약사암입구,Pharmacopathy entrance
+234000724,광주공원앞,In front of Gwangju Park
+234000728,양촌현대아파트,Yangchon Hyundai Apartment
+234000729,양촌현대아파트,Yangchon Hyundai Apartment
+234000735,고산2리마트,Gosan 2 Rit
+234000736,신일아파트,Shinil Apartment
+234000737,쌍령초교.동성아파트.현대아파트,"Ssangryeong Elementary School, Dongsung Apartment, Hyundai Apartment"
+234000738,동성2차아파트,Dongsung 2nd apartment
+234000739,동성2차아파트,Dongsung 2nd apartment
+234000740,학동1리마을회관,Hakdong 1 -ri Village Hall
+234000741,학동농공단지,Hakdong Agricultural Complex
+234000742,학동농공단지,Hakdong Agricultural Complex
+234000743,학동1리,Hakdong 1 -ri
+234000744,학동1리,Hakdong 1 -ri
+234000745,학동1리학마을,Hakdong 1 -Lihak Village
+234000746,학동1리학마을,Hakdong 1 -Lihak Village
+234000747,에덴가구앞,In front of Eden furniture
+234000748,에덴가구앞,In front of Eden furniture
+234000749,이투스학원,Itus Academy
+235000562,한승아파트,Hanseung Apartment
+235000018,구세당약방,Salvation Room
+235000019,상수검문소,Constant checkpoint
+235000020,상수사거리,Water range
+235000021,부검마을,Autopsy village
+235000022,낙낙골,Nakgolgol
+235000023,화학대,Chemistry
+235000024,은현면행정복지센터입구,Eunhyeon -myeon Administrative Welfare Center Entrance
+235000025,운암1리마을회관,Unam 1 -ri Village Hall
+235000026,은남통합지소.은현주유소,Eunnam Integration Center.
+235000027,갓바위.상수2리마을회관,Gatbawi.
+235001122,남면산업단지입구,Entrance to Nam -myeon Industrial Complex
+235001123,남면산업단지입구,Entrance to Nam -myeon Industrial Complex
+235001124,남면산업단지.기업인협회,"Namyeon Industrial Complex, Businessmen Association"
+235001125,한국종합정밀강구,Korean comprehensive precision steel
+235001130,남면산업단지입구,Entrance to Nam -myeon Industrial Complex
+235001131,남면산업단지입구,Entrance to Nam -myeon Industrial Complex
+235001133,태영폴리켐,Taeyoung Polychem
+235001140,나래아파트,Narae apartment
+235001141,나래아파트,Narae apartment
+235001146,대륜발전소.리젠시빌란트6단지,"Dae -Ryun Power Plant, Regency Billand Complex 6"
+235001148,조은빌라,Joeun Villa
+235001149,조은빌라,Joeun Villa
+235001152,대륜발전소.리젠시빌란트6단지,"Dae -Ryun Power Plant, Regency Billand Complex 6"
+235001153,득성마을,Deukseong Village
+235001159,국민체육센터,National Sports Center
+235001160,국민체육센터,National Sports Center
+235001171,도둔초등학교,Dodun Elementary School
+236000314,화현파출소,Hwahyun police box
+236000315,화현2리,Hwahyun 2 -ri
+236000316,화현2리,Hwahyun 2 -ri
+236000317,심곡3리,Simgok 3 -ri
+236000319,고일2리,Koh 2 -ri
+236000321,산호아파트,Coral apartment
+236000330,경복대입구,Gyeongbok University
+236000332,지현교,Jihyeon Bridge
+236000333,지현2리.패키지마을,Jihyun 2 -ri. Package Village
+236000334,지현2리.지현초교앞,Jihyun 2 -ri. In front of Jihyun Elementary School
+236000335,지현2리.평촌,Jihyun 2 -ri. Pyeongchon
+236000336,지현4리,Jihyun 4 -ri
+236000337,지현1리,Jihyun 1 -ri
+236000338,현대표지앞,In front of Hyundai
+236000339,솔치,Solchi
+236000340,명덕2리,Myeongdeok 2 -ri
+236000341,혜옥농장앞,In front of Hyeok Farm
+236000342,아랫말,Lubrication
+236000343,선둔지,Lane
+236000344,뒷말,wheelhouse
+236000345,명덕1리,Myeongdeok 1 -ri
+236000346,벌말,Punishment
+236000347,명덕3리,Myeongdeok 3 -ri
+236000348,명덕3리,Myeongdeok 3 -ri
+236000349,벌말,Punishment
+236000350,명덕1리,Myeongdeok 1 -ri
+236000351,뒷말,wheelhouse
+236000352,선둔지,Lane
+236000353,아랫말,Lubrication
+236000354,명덕2리,Myeongdeok 2 -ri
+236000355,명덕2리,Myeongdeok 2 -ri
+236000356,솔치,Solchi
+236000357,현대표지앞,In front of Hyundai
+236000358,지현1리,Jihyun 1 -ri
+236000359,지현4리,Jihyun 4 -ri
+236000360,지현2리.평촌,Jihyun 2 -ri. Pyeongchon
+236000361,지현2리.지현초교앞,Jihyun 2 -ri. In front of Jihyun Elementary School
+236000362,지현2리.패키지마을,Jihyun 2 -ri. Package Village
+236000363,지현교,Jihyeon Bridge
+236000364,금주4리,4 -ri this week
+236000365,금주4리,4 -ri this week
+236000366,길명1리.사기점,Gilmyeong 1 -ri.
+235000028,갓바위.상수2리마을회관,Gatbawi.
+235000029,은남통합지소,Eunnam Integration Center
+235000031,상수2교차로,2 intersection
+235000032,운암1리마을회관,Unam 1 -ri Village Hall
+235000033,은현면행정복지센터입구,Eunhyeon -myeon Administrative Welfare Center Entrance
+235000034,화학대,Chemistry
+235000045,돌모루입구,Dolmoru entrance
+235000047,못말낚시터,I can't say fishing
+235000056,주공7단지.중흥s클래스,"Jugong Complex 7, Jungheung S Class"
+235000058,덕정주공7단지,Deokjeong Jugong 7 Complex
+235000075,세창아파트정문,Three -way apartment
+235000078,율정마을7.8단지,Yuljeong Village 7.8 Complex
+235000086,율정마을7.8단지,Yuljeong Village 7.8 Complex
+235000094,율정삼거리,Yuljeong Intersection
+235000095,김삿갓교,Kim Satgyo Bridge
+235000096,회암사지.회암사지박물관,"Hoamamji, Hoamamji Museum"
+235001178,백석농협경제사업소,Baekseok Nonghyup Economic Office
+235001179,백석농협경제사업소,Baekseok Nonghyup Economic Office
+235001180,도둔초등학교,Dodun Elementary School
+235001181,덕산신도브레뉴,Doksan Shinto Branhe
+235001182,리치마트,Richmart
+235001192,모랫말,Sand
+235001193,모랫말,Sand
+235001194,용바위골,Dragon
+235001195,용바위골,Dragon
+235001196,남면변전소,Namyeon substation
+235001203,율정2통경로당,Yuljeong 2 passage
+235001204,귀율동,Rhythm
+235001205,금호제이드웰21단지,Kumhoje Dedwell 21 Complex
+235001206,지에스제이드웰21단지,GS Jade Well 21 Complex
+235001211,금호제이드웰21단지,Kumhoje Dedwell 21 Complex
+235001212,귀율동,Rhythm
+235001213,율정2통경로당,Yuljeong 2 passage
+235001220,경동대학교,Kyungdong University
+235001221,검준공단,Gamjun Industrial Complex
+235001222,검준공단,Gamjun Industrial Complex
+235001223,조소앙선생묘입구,Josoang teacher's grave entrance
+235001225,은현스포츠센터,Eunhyun Sports Center
+235001226,은현스포츠센터,Eunhyun Sports Center
+235015720,가야5차아파트,Gaya 5th apartment
+235506570,이곡다리앞,In front of this song bridge
+235506620,이곡다리앞,In front of this song bridge
+235506840,양주2동성당,Yangju 2 Dong Catholic
+235506930,삼하리,Samhari
+235507060,어하마을,Eoha village
+235507220,양주2동성당,Yangju 2 Dong Catholic
+235508010,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235508020,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235508110,중말다리앞,In front of the bridge
+235508280,자연유아어린이집,Natural infant daycare center
+235508380,참나무집,Oak house
+235508820,유월의아침,June
+235509810,연곡3리,Yeongok 3 -ri
+236000367,길명1리.평화묘원입구,Gilmyeong 1 -ri. Peace Cemetery Entrance
+236000368,지현교,Jihyeon Bridge
+236000369,길명1리.꼭두바위,Gilmyeong 1 -ri.
+236000370,길명1리,Gilmyeong 1 -ri
+236000371,길명2리.길명주유소,Gilmyeong 2 -ri.
+236000372,화현1리.사당앞,Hwahyun 1 -ri.
+236000373,화현면사무소,Hwahyeon -myeon office
+236000374,화현1리,Hwahyun 1 -ri
+236000375,화현1리,Hwahyun 1 -ri
+236000376,화현면사무소앞,In front of Hwahyun -myeon office
+236000377,화현1리.사당앞,Hwahyun 1 -ri.
+236000378,길명2리.길명주유소,Gilmyeong 2 -ri.
+236000379,길명1리,Gilmyeong 1 -ri
+236000380,길명1리.꼭두바위,Gilmyeong 1 -ri.
+236000381,지현교,Jihyeon Bridge
+236000382,길명1리.평화묘원입구,Gilmyeong 1 -ri. Peace Cemetery Entrance
+236000383,길명1리.사기점,Gilmyeong 1 -ri.
+236000384,사기점,Fraudulent
+236000385,금주리,Geumju -ri
+236000386,금주3리.만세교,"This week, 3 -ri."
+236000691,은행나무,Ginkgo tree
+235001165,안골윗말,Angol upper words
+235001075,덕현고등학교,Deokhyeon High School
+236000954,영화아파트,Movie apartment
+235001164,안골윗말,Angol upper words
+235001085,TS3차푸른솔,Ts3 blue brush
+235000478,조광주유소,Chogwangusa
+236001207,극동.주공아파트,Far East. Jugong Apartment
+235000555,두라푸트,Durah food
+235523570,토교장사거리,Toyojang Street
+235000787,신리.막은골삼거리,Sin -ri.
+235000879,우진주유소,Woo Jin -ju Yoo So
+236001401,오가사거리,Ogasa Street
+236001402,오가사거리,Ogasa Street
+236001403,오가1리,Oga 1 -ri
+236001404,오가1리,Oga 1 -ri
+235000484,신리.막은골삼거리,Sin -ri.
+235000579,유명식당,Famous restaurant
+235522250,돌고개.신털뫼,Dolges.
+234001098,쌍동리마을회관,Ssangdong -ri Village Hall
+234001099,엄미리입구,Ummi entrance
+234001139,신현3리,Shinhyun 3 -ri
+234001140,신현3리,Shinhyun 3 -ri
+234001141,용마신현타운3차,Yongma Shinhyeon Town 3rd
+234001142,용마신현타운3차,Yongma Shinhyeon Town 3rd
+234001143,명문새가,Prestigious birds
+234001144,아트타운,Art Town
+234001148,동문등산로입구,Dongmun Trail Entrance
+234001149,지수네오전명가,Jisu Neo Jeonmyeongga
+234001150,지수네오전명가,Jisu Neo Jeonmyeongga
+234513020,3-3번종점,3-3 species
+235001168,백석우체국,Baekseok Post Office
+235001233,백호부대,White tiger unit
+235001234,백호부대,White tiger unit
+235001235,상아주유소,Ivory
+235001236,상아주유소,Ivory
+235505790,호산나의집,Hosanna's house
+235506030,방성리,Bangseong -ri
+235506440,호산나의집,Hosanna's house
+235509850,기내미삼거리,In -flight
+235510610,휴먼시아후문,Humansian back door
+235001119,삼숭1교차로,Sam So 1 Intersection
+236000284,포천시보건소,Pocheon Health Center
+236000702,무림리,Moorim -ri
+235000560,조양중학교,Choyang Middle School
+235000878,증말교차로,Intersection
+236000389,고일리.삼성당리,"Ko Il -ri, Samsung Dangri"
+236000390,고일2리,Koh 2 -ri
+236000391,주원3리,Juwon 3 -ri
+236000392,다보정사앞,In front
+236000393,주원2리,Juwon 2 -ri
+236000394,주원리,Ju principle
+236000395,창수초교,Changsu Elementary School
+236000396,창수면사무소,Changsu -myeon office
+236000397,창수면사무소,Changsu -myeon office
+236000398,창수초교,Changsu Elementary School
+236000399,주원1리,Juwon 1 -ri
+236000400,주원2리,Juwon 2 -ri
+236000401,다보정사앞,In front
+236000402,주원3리,Juwon 3 -ri
+236000403,주원5리.군자동,Juwon 5 -ri.
+236000404,주원4리.옥병,Juwon 4 -ri. Jade Byeong
+236000405,맑은물센터,Clear water center
+236000406,영평2리,Yeongpyeong 2 -ri
+236000407,영평1리,Yeongpyeong 1 -ri
+236000408,오가리보장초교,Ogari Guarantee Elementary School
+236000409,오가리보장초교,Ogari Guarantee Elementary School
+236000410,영평1리,Yeongpyeong 1 -ri
+236000411,영평2리,Yeongpyeong 2 -ri
+236000412,오가리,Ogari
+236000413,주원4리.옥병,Juwon 4 -ri. Jade Byeong
+236000414,주원5리.군자동,Juwon 5 -ri.
+236000415,새마을.고소성리,"Saemaul, Ko Sung -ri"
+236000416,고소성1리,Complaint 1 -ri
+236000417,추동2리,Chudong 2 -ri
+236000418,추동3리.노루목,Chudong 3 -ri.
+236000419,추동3리.노루목,Chudong 3 -ri.
+236000420,추동삼거리,Chudong Intersection
+236000421,고소성1리,Complaint 1 -ri
+236000422,새마을.고소성리,"Saemaul, Ko Sung -ri"
+236000423,화현2리,Hwahyun 2 -ri
+236000424,화현2리,Hwahyun 2 -ri
+236000426,운악산휴게소,Unak Mountain Rest Area
+235000102,동부산업,Eastern industry
+235000103,회암1통1반,Hoam Rock 1 Tel 1 class
+235000104,관사앞,In front of the articles
+235000105,약사사입구,Pharmacist
+235000106,공수골,Airborne
+235000107,덕계역.현대윤중아파트,Deokgye Station. Hyundai Yunjung Apartment
+235000118,세창아파트정문,Three -way apartment
+235000119,덕정사거리,Deokjeong Intersection
+235000120,철풍아파트,Iron -style apartment
+235000121,국군양주병원,Armed Forces Yangju Hospital
+235000122,용암리,Lava
+235000123,서정대학교,Lyric
+235000124,산곡동,Mountaingok -dong
+235000125,은현초등학교,Eunhyun Elementary School
+235000126,은현초교,Eunhyun Elementary School
+235000127,선암2리.국담교,Sunam 2 -ri.
+235000128,서정대학,Lyric university
+235000129,용암1리,Lava 1 -ri
+235000130,국군양주병원,Armed Forces Yangju Hospital
+235000131,철풍아파트,Iron -style apartment
+235000132,덕정사거리,Deokjeong Intersection
+235509840,가업2리,Family business 2 -ri
+235509860,기내미삼거리,In -flight
+235510090,광명보육원,Gwangmyeong Nursery
+235510100,광명보육원,Gwangmyeong Nursery
+235510130,기우리종점,Riuri terminal
+235510140,검은돌,Black stone
+235510190,가업2교,Family business school
+235510250,대성사입구,Daesungsa entrance
+235510260,26사단앞,26th Division
+235510390,오리마을,Duck village
+236001296,신배골,New ship
+236001415,어메이징파크.치유의숲,Amazing Park. Healing Forest
+235523870,골드민팬션,Gold Min
+235520240,서울전기,Seoul Electric
+235520250,서울전기,Seoul Electric
+235520280,골드민팬션,Gold Min
+235520290,민들레휴게소,Dandelion
+235520300,도하1리교차로,Doha 1 La
+235520310,민들레휴게소,Dandelion
+236000962,마홀앤가구전시판매장,Mahol and furniture exhibition store
+236000965,화대리.윗갈기길,Hwadae -ri.
+236001297,화대리.윗갈기길,Hwadae -ri.
+236001076,포천행복주택.용정산업단지입구,"Pocheon Happy Housing, Yongjeong Industrial Complex Entrance"
+236001104,포천행복주택.용정산업단지입구,"Pocheon Happy Housing, Yongjeong Industrial Complex Entrance"
+234000682,능평성당,Neungpyeong Cathedral
+235000475,농업기술센터,Agricultural Technology Center
+235000771,송학앞,In front of Songhak
+236001287,푸른언덕앞,In front of the blue hill
+236001288,푸른언덕앞,In front of the blue hill
+236000703,무림리고개,Moorimo dog
+235000828,코오롱패션,Kolon Fashion
+235001058,안돌고개,Andol
+235001022,안돌고개,Andol
+235000860,e편한세상11단지.푸르지오9단지,e comfortable World Complex 11. Prugio 9 Complex
+236000060,성동5리,Seongdong 5 -ri
+236000086,영북체육문화센터,Yeongbuk Sports Culture Center
+236000088,영북면사무소,Yeongbuk -myeon office
+236000096,운천5리부대앞,In front of Uncheon 5 -ri
+236000097,운천5리,Uncheon 5 -ri
+236000099,2교다리.연대본부,2 bridge. Solidarity Headquarters
+236000100,산정리3교다리,Sanjeongri 3 bridge
+236000103,산정리.우물목,"Mountain, well"
+236000104,평화교육연수원,Peace Education Training Institute
+235001145,메가씨티프라자,Mega Citi Plaza
+236000107,산정리.우물목,"Mountain, well"
+234001077,역동,Dynamics
+236000108,하동주차장,Hadong parking lot
+235000902,오산삼거리,Osan Samori Intersection
+236001099,경복대입구,Gyeongbok University
+236001041,동교3통마을회관,Donggyo 3 Tong Village Hall
+235001753,도시환경사업소,Urban environment
+235001752,도시환경사업소,Urban environment
+236000112,운천5리,Uncheon 5 -ri
+236000113,운천5리부대앞,In front of Uncheon 5 -ri
+236000109,산정리3교다리앞,3 bridge in Sanjeongri
+235000317,홍죽일반산업단지,Hongjuk General Industrial Complex
+235000315,고말재,Martial arts
+236001108,반월아트홀.여성회관,Banwol Art Hall. Women's Hall
+235000378,조양중학교,Choyang Middle School
+235001491,e편한세상19단지,e comfortable world complex 19
+235001655,e편한세상11단지.옥정중심상가,e comfortable world complex 11. Okjeong central shopping mall
+235000906,덕정주공7단지,Deokjeong Jugong 7 Complex
+236001094,양문2리.공단입구,Both gate 2 -ri.
+236001113,코스미아파트,Cosmi Apartment
+236001114,한신아파트,Hanshin Apartment
+236000699,만민촌,Man Minchon
+235000519,현진에버빌아파트,Hyunjin Everville Apartment
+236000256,포천시보건소,Pocheon Health Center
+236000752,문암삼거리,Munam Intersection
+236000859,산정호수.하동주차장,Sanjeong Lake and Hadong Parking Lot
+236000861,금주3리.금주상회,"This week, 3 -ri."
+236000863,양문2리공단,Both Gate 2 -ri Industrial Complex
+236000865,운천5리(기보대),Uncheon 5 -ri (Kibo University)
+236000866,영북중학교,Yeongbuk Middle School
+236000867,해방촌,Liberation village
+235000318,고말재,Martial arts
+236000869,금주3리.금주상회,"This week, 3 -ri."
+236000876,기보대앞.운천5리,In front of Kibo University. Uncheon 5 -ri
+236000880,영북중학교,Yeongbuk Middle School
+236000037,성동5리,Seongdong 5 -ri
+236001318,강병원,Kang Hospital
+235001209,삼숭교차로,Samseong Intersection
+236001119,한신아파트,Hanshin Apartment
+236001120,코스미아파트,Cosmi Apartment
+236001152,문암삼거리,Munam Intersection
+236001170,산정호수.상동주차장,"Sanjeong Lake, Sangdong Parking Lot"
+236001080,동교3통마을회관,Donggyo 3 Tong Village Hall
+234000874,오포우림아파트,Opo Four Rim Apartment
+235000777,브라보농원,Bravo Farm
+236000168,1기갑여단,1 Armored Brigade
+234001226,태전이편한세상2차정문,World 2nd Jeongmun
+235000778,브라보농원,Bravo Farm
+236001219,천주사,Catholic
+235000316,홍죽일반산업단지,Hongjuk General Industrial Complex
+235000775,안골,Angol
+234001055,엄미리,Miemi
+236000058,성동2리.부대앞,Seongdong 2 -ri.
+236001398,1기갑여단,1 Armored Brigade
+235001157,양주농협삼숭지소,Yangju Agricultural Cooperatives
+234001219,송정동.금강아파트,"Songjeong -dong, Geumgang Apartment"
+234001228,태전3교,Taejeon 3 Bridge
+235000001,메루지마을,Meruzi Village
+234001208,경안천습지생태공원,Gyeongan Cheon Wetland Ecological Park
+234001209,태전이편한세상1차,The world where Taejeon is comfortable
+234001206,태전동성원아파트,Taejeon -dong Moist Apartment
+235001328,기산리한우마을,Kisanri Hanwoo Village
+235001517,실버문화원,Silver Cultural Center
+235001516,부대앞,In front of the unit
+235001515,에루화숯가마,Eru Hwa Charcoal Kiln
+235001507,실버문화원,Silver Cultural Center
+235001506,서광아파트삼거리,Seokwang Apartment Intersection
+236000555,양문1리터미널,Both gate 1 liter
+236000754,양문1리터미널,Both gate 1 liter
+234001233,벽수골.의안대군묘,Wall Surgol.
+234000621,학동3리입구,Hak -dong 3 -ri inheart
+234001229,우방아이유쉘아파트,Alliance IU Shell Apartment
+234001230,우방아이유쉘아파트,Alliance IU Shell Apartment
+234001194,지마크연합사업단,G -Mark Union Project
+234001216,태전동현대아파트입구,Taejeon -dong Hyundai Apartment Entrance
+236001394,해룡마을,Haryong Village
+235001473,덕도초교,Deokdo Elementary School
+235514500,중앙폐차장,Central junkyard
+235517520,중앙폐차장,Central junkyard
+235001472,태진,Taejin
+234001211,태전힐스테이트6지구,Taejeon Hill State 6 District
+234001212,태전힐스테이트6지구,Taejeon Hill State 6 District
+234001217,재피골,Japper
+234001218,재피골,Japper
+235001471,태진,Taejin
+235001470,한양산업,Hanyang industry
+235000603,e편한세상18단지,e comfortable world 18 complex
+235000597,세영리첼14단지.대방노블랜드12 ,Seyoung Richel 14 Complex. Daebang Nobland 12
+235000595,세영리첼14단지.대방노블랜드12 ,Seyoung Richel 14 Complex. Daebang Nobland 12
+235000848,옥정상가주택.대방노블랜드12단 ,"Okjeong Shopping Mall Housing, Daebang Nobland 12 Dan"
+235000767,옥정중앙공원.율정마을13단지,"Okjeong Central Park, Juljeong Village Complex 13"
+235000744,남산교,Namsan Bridge
+235000745,e편한세상18단지,e comfortable world 18 complex
+235000747,남산교,Namsan Bridge
+235001275,두곡리입구,Dugokri entrance
+235001276,두곡리입구,Dugokri entrance
+235001277,대추마을,Jujube village
+235001278,대추마을,Jujube village
+235001279,백인걸선생묘,White tomb
+235001280,백인걸선생묘,White tomb
+235001281,한산리전원마을,Hansan -ri Village
+235001282,효촌저수지,Hyochon Reservoir
+235001283,모래말,Sand
+235001284,모래말,Sand
+235001285,신병교육대,Recruitment
+235001286,신병교육대,Recruitment
+235001287,모자농원,Maternal farm
+235001288,기산저수지,Kisan Reservoir
+235001269,영일자원,Yeongil Resource
+235001270,휴먼시아후문,Humansian back door
+235001271,샛고개,Hill
+235001272,샛고개,Hill
+235001303,어하마을,Eoha village
+235001621,광남주유소,Gwangnam gas station
+235001635,옛고을,Old high
+235001494,태진,Taejin
+235001618,신우섬유,Shinwoo Tiber
+235001632,한국전력공사,KEPCO
+235001631,방성리주공휴먼시아,Bangseong -ri Jugong Hughesia
+235001630,휴먼시아후문,Humansian back door
+235001629,케이원텍,K -One Tech
+235001619,영일자원,Yeongil Resource
+235001627,기산리종점,Kisan Lijong Branch
+235001620,광남주유소,Gwangnam gas station
+235001626,건설지하수,Construction site
+235001625,한국전력공사,KEPCO
+235001624,백석농협(마을),Baekseok Nonghyup (Village)
+235001623,가납사거리,Galvanity
+235001622,광적119안전센터,Fine 119 Safety Center
+235001636,옛고을,Old high
+235001638,현대빌라,Hyundai Villa
+235001659,덕도삼거리,Deokdo Intersection
+235001658,방성리,Bangseong -ri
+235001657,덕도삼거리,Deokdo Intersection
+235001656,두곡리회관,Dugokri Hall
+235001654,영원섬유,Eternity
+235001653,산성빌라,Acidic villa
+235001652,오리마을,Duck village
+235001651,현대빌라,Hyundai Villa
+235001650,남방리,Southern
+235001649,양주역,Yangju Station
+235001648,양주역,Yangju Station
+235001647,주내농협,Nonghyup in the week
+235001646,주내농협,Nonghyup in the week
+235001645,남방리,Southern
+235001644,양주관아지,Yangju Kwan Paji
+235001643,복지삼거리(마을),Welfare Intersection (Village)
+235001642,자동차공업사,Automotive company
+235001641,자동차공업사,Automotive company
+235001640,해송빌라,Haesong Villa
+235001639,해송빌라,Haesong Villa
+235001617,비룡마트.한울아파트,Biryong Mart. Hanul Apartment
+235001616,상수사거리,Water range
+235001615,1810부대앞,1810 units
+235001586,아랫소래,Lowering
+235001585,용암2리입구,Lava 2
+235001584,용암2리입구,Lava 2
+235001583,약수터입구,Yaksu entrance
+235001582,약수터입구,Yaksu entrance
+235001581,동화섬유,Fairytale fiber
+235001580,동화섬유,Fairytale fiber
+235001579,대동가스,Daedong gas
+235001578,용암3리회관앞,In front of lava 3 -ri pavilion
+235001577,용암3리회관앞,In front of lava 3 -ri pavilion
+235001576,대동가스,Daedong gas
+235001575,송라목장,Songna Ranch
+235001574,송라목장,Songna Ranch
+235001573,살구쟁이,Apricot
+235001572,살구쟁이,Apricot
+235001571,경기가스,Gyeonggi gas
+235001570,벽돌공장,Brick
+235001569,궤제회관,Ark
+235001568,벽돌공장,Brick
+235001567,장수식품,Longevity
+235001587,월계초소,Laurel
+235001588,약수터,Spring water
+235001589,약수터,Spring water
+235001614,1810부대앞,1810 units
+235001613,성황당굿당,Holy Hwangdang Gooddang
+235001612,건설지하수,Construction site
+235001611,케이원텍,K -One Tech
+235001610,거울앞,In front of the mirror
+235001609,정풍산업,Jeongpung Industrial
+235001608,쌍다리,Pair
+235001607,동화3차아파트,3rd Fairy Tale Apartment
+235001606,은봉초등학교,Eunbong Elementary School
+235001600,광적콘크리트,Light concrete
+235001599,광적콘크리트,Light concrete
+235001598,거울앞,In front of the mirror
+235001597,느티나무,Zelkova
+235001596,느티나무,Zelkova
+235001595,도하2리.살구골,Doha 2 -ri.
+235001594,도하2리.살구골,Doha 2 -ri.
+235001593,내리골입구,Lower goal entrance
+235001592,내리골입구,Lower goal entrance
+235001591,내리골,Fall bone
+235001590,내리골,Fall bone
+235001660,성창,Castle window
+235001661,두곡리입구,Dugokri entrance
+235001662,영원섬유,Eternity
+235001730,하패2리마을회관,Hapa 2 -ri Village Hall
+235001729,조소앙선생기념관입구,Josoang Memorial Hall
+235001728,신암저수지.감악산주차장,Sinam Reservoir. Gamaksan Parking Lot
+235001727,보수대앞,Conservative
+235001726,25사단.비룡아파트,"25 Division, Biryong Apartment"
+235001725,성창,Castle window
+235001724,가업2교,Family business school
+235001723,한라레미콘,Halla Micon
+235001722,모랫말입구,Sandwing entrance
+235001721,토교장사거리,Toyojang Street
+235001720,비룡마트.한울아파트,Biryong Mart. Hanul Apartment
+235001719,상패초등학교,Sangpa Elementary School
+235001718,상패초등학교,Sangpa Elementary School
+235001717,다리앞,In front of the legs
+235001716,다리앞,In front of the legs
+235001715,귀평동2층집,2nd floor house
+235001714,귀평동2층집,2nd floor house
+235001713,귀평동,Pyeong -dong
+235001712,귀평동,Pyeong -dong
+235001711,현대지관,Hyundai Branch
+235001710,현대지관,Hyundai Branch
+235001731,상수사거리,Water range
+235001732,대조식품,Control
+235512510,만송초등학교.덕현고교,Mansong Elementary School. Deokhyeon High School
+235001751,복지2리마을회관,Welfare 2 -ri Village Hall
+235001750,가야5차아파트,Gaya 5th apartment
+235001749,삼하리,Samhari
+235001748,원학동입구,Wonhak -dong entrance
+235001747,먹골마을.대장금가든,Mokgol Village. Daejanggeum Garden
+235001746,먹골마을.대장금가든,Mokgol Village. Daejanggeum Garden
+235001745,마전2리마을회관,Majeon 2 -ri Village Hall
+235001744,마전2리마을회관,Majeon 2 -ri Village Hall
+235001743,드림하우스,Dreamhouse
+235001742,드림하우스,Dreamhouse
+235001741,원학동입구,Wonhak -dong entrance
+235001740,무궁화유지,Maintain
+235001739,무궁화유지,Maintain
+235001738,25사단.비룡아파트,"25 Division, Biryong Apartment"
+235001737,산성빌라,Acidic villa
+235001736,효촌2리마을회관앞,In front of Hyochon 2 -ri Village Hall
+235001735,효촌2리마을회관앞,In front of Hyochon 2 -ri Village Hall
+235001734,신산5리입구,Sinsan 5 -ri Inhabit
+235001733,낙낙동저수지,Nak -dong Reservoir
+235001709,낙낙골,Nakgolgol
+235001708,낙낙골,Nakgolgol
+235001707,정절사입구,Fidelity
+235001683,신산5리입구,Sinsan 5 -ri Inhabit
+235001682,구암사거리,Guam range
+235001681,건강관리실,Health care room
+235001680,건강관리실,Health care room
+235001679,구암리정자,Guam -ri
+235001678,구암리정자,Guam -ri
+235001677,모랫말회관,Sand hall
+235001676,모랫말회관,Sand hall
+235001675,호수촌,Lake village
+235001289,기산저수지,Kisan Reservoir
+235001290,기산리종점,Kisan Lijong Branch
+235001291,우골,Ugly
+235001292,한국보육원앞,In front of the Korea Nursery Center
+235001293,천주교연수원후문,Catholic Training Institute
+235001294,참나무집,Oak house
+235001295,절골입구,Omnigio
+235001296,절골.미래데코앞,In front of the Future Deco
+235001297,일광공업사,Daylight
+235001298,유월의아침,June
+235001299,일광공업사,Daylight
+235001300,루이힐스골프장,Louis Hills Golf Course
+235001301,마전1통마을회관,Maejeon 1 Tong Village Hall
+235001302,양주화훼단지,Yangju Flower Complex
+235001274,상수리,Constellation
+235001273,상수리,Constellation
+235001245,가야5차아파트,Gaya 5th apartment
+235001246,호산나의집,Hosanna's house
+235001247,방성리,Bangseong -ri
+235001248,호산나의집,Hosanna's house
+235001249,이곡다리앞,In front of this song bridge
+235001250,양주2동성당,Yangju 2 Dong Catholic
+235001251,삼하리,Samhari
+235001252,어하마을,Eoha village
+235001253,양주2동성당,Yangju 2 Dong Catholic
+235001254,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235001255,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235001256,중말다리앞,In front of the bridge
+235001257,자연유아어린이집,Natural infant daycare center
+235001258,송곡농장,Songgok Farm
+235001259,가업2리,Family business 2 -ri
+235001260,광명보육원,Gwangmyeong Nursery
+235001261,기우리종점,Riuri terminal
+235001262,검은돌,Black stone
+235001263,가업2교,Family business school
+235001264,8사단사령부앞,In front of the 8th Division Command
+235001265,오리마을,Duck village
+235001266,한산리전원마을,Hansan -ri Village
+235001267,효촌저수지,Hyochon Reservoir
+235001268,장춘마을,Changchun village
+235001674,호수촌,Lake village
+235001673,모랫말슈퍼,Sand horse supermarket
+235001672,모랫말슈퍼,Sand horse supermarket
+235001671,부대앞,In front of the unit
+235001670,부대앞,In front of the unit
+235001669,상수공단,Constant
+235001668,상수공단,Constant
+235001667,대진요양원,Daejin Nursing Home
+235001666,대진요양원,Daejin Nursing Home
+235001665,보수대앞,Conservative
+235001664,e편한세상19단지후문,e The back door of the 19th Complex
+235001663,더파크포레계룡,The Park Foret Gyeryong
+235001684,더파크포레계룡,The Park Foret Gyeryong
+235001685,낙낙골,Nakgolgol
+235001706,정절사입구,Fidelity
+235001705,대조식품,Control
+235001704,봉암교,Bongam Bridge
+235001703,봉암교,Bongam Bridge
+235001702,황방1리마을회관,Hwangbang 1 -ri Village Hall
+235001701,황방1리마을회관,Hwangbang 1 -ri Village Hall
+235001700,능골,Rare
+235001699,능골,Rare
+235001698,감악골,Gamakgol
+235001697,감악골,Gamakgol
+235001696,황방2리마을회관,Hwangbang 2 -ri Village Hall
+235001695,황방2리마을회관,Hwangbang 2 -ri Village Hall
+235001694,원당저수지,Wondang Reservoir
+235001693,원당저수지,Wondang Reservoir
+235001692,원당리슈퍼,Wondang -ri Super
+235001691,원당리슈퍼,Wondang -ri Super
+235001690,공병부대,Engineer
+235001689,공병부대,Engineer
+235001688,느티나무집,Zelkova
+235001687,느티나무집,Zelkova
+235001686,한신리,Hanshin -ri
+235001566,궤미,Chem
+235001565,은현마트,Eunhyun Mart
+235001304,루이힐스골프장,Louis Hills Golf Course
+235001399,세진금속,Sejin Metal
+235001398,쏘가리낚시터,Soleari fishing ground
+235001397,종이나라,Paper
+235001396,승태목장,Seungtae Ranch
+235001395,승태목장,Seungtae Ranch
+235001394,삼현,Samhyun
+235001393,삼현,Samhyun
+235001392,딱따구리수련원,Tutter Guri Training Center
+235001391,딱따구리수련원,Tutter Guri Training Center
+235001390,우고리목장,Woogori ranch
+235001389,우고리목장,Woogori ranch
+235001388,우고리마을회관,Woogori Village Hall
+235001387,우고리마을회관,Woogori Village Hall
+235001386,한거름,Gap
+235001385,가업2리,Family business 2 -ri
+235001384,쏘가리낚시터,Soleari fishing ground
+235001383,문예회관,Literary hall
+235001382,보메기다리,Bomegi leg
+235001381,낙낙골,Nakgolgol
+235001380,하이콤이엔씨,Hi -Common
+235001379,하이콤이엔씨,Hi -Common
+235001378,덕도1리구마을회관,Deokdo 1 Rigu Village Hall
+235001377,덕도1리구마을회관,Deokdo 1 Rigu Village Hall
+235001376,훈슈퍼,Hun Super
+235001375,훈슈퍼,Hun Super
+235001374,향나무식당,Junkyard
+235001373,향나무식당,Junkyard
+235001372,영원섬유,Eternity
+235001371,영원섬유,Eternity
+235001370,경신상회,Lord
+235001400,문화예술회관입구,Culture and Arts Center Entrance
+235001401,선업교,Priesthood
+235001402,무궁화교,Mugunghwan
+235001432,입암리능고개,Ipham
+235001431,입암리능고개,Ipham
+235001430,남면초교,Namyeon Elementary School
+235001429,남면초교,Namyeon Elementary School
+235001428,양주화훼단지,Yangju Flower Complex
+235001427,한산2리,Hansan 2 -ri
+235001426,망향의동산,Garden of Manghyang
+235001425,주말낙원농장,Weekend Paradise Farm
+235001424,슈퍼,Supermarket
+235001423,한산1리회관,Hansan 1 -ri Hall
+235001422,한산1리회관,Hansan 1 -ri Hall
+235001421,한산교,Hansan Bridge
+235001420,한산교,Hansan Bridge
+235001419,새마을금고,Saemaul Undong
+235001418,L마트,L mart
+235001417,승방모퉁이,Plot
+235001416,승방모퉁이,Plot
+235001415,비석골,Tombstone
+235001414,비석골,Tombstone
+235001413,진재,Jinjae
+235001412,진재,Jinjae
+235001411,꾸러기어린이집,Nursery
+235001410,꾸러기어린이집,Nursery
+235001409,일성사,Ilseongsa Temple
+235001408,일성사,Ilseongsa Temple
+235001407,공동묘지,Cemetery
+235001406,공동묘지,Cemetery
+235001405,풍천장어,Pungcheon eel
+235001404,풍천장어,Pungcheon eel
+235001403,무궁화교,Mugunghwan
+235001369,경신상회,Lord
+235001368,경신하늘뜰공원,Gyeongshin Sky Garden Park
+235001334,기우리,Lifetime
+235001333,검은돌,Black stone
+235001332,할머니집앞,Grandmother's house
+235001331,형제실업,Brotherhood
+235001330,교회앞,In front of the church
+235001329,마전리,Majeon -ri
+235001327,대성사입구,Daesungsa entrance
+235001326,모레말,Day after tomorrow
+235001325,천주교연수원후문,Catholic Training Institute
+235001324,신우섬유,Shinwoo Tiber
+235001323,별장펜션앞,In front of the cottage pension
+235001322,세진금속,Sejin Metal
+235001321,둥지앞,In front of the nest
+235001320,모레말,Day after tomorrow
+235001319,효촌초등학교,Hyochon Elementary School
+235001318,형제실업,Brotherhood
+235001317,28보수대.부영판지,28 conservatives.
+235001316,성황당굿당,Holy Hwangdang Gooddang
+235001315,양주역,Yangju Station
+235001314,보메기다리,Bomegi leg
+235001313,8사단사령부앞,In front of the 8th Division Command
+235001312,방성리주공휴먼시아,Bangseong -ri Jugong Hughesia
+235001311,부대앞,In front of the unit
+235001310,양주골,Yangjugol
+235001309,월계자율방범대,Laurel Self -Defense Force
+235001308,선업교,Priesthood
+235001307,광적면행정복지센터.가래비시장,Pine Administrative Welfare Center.
+235001306,복지사거리.태영아파트(마을),Welfare Intersection. Taeyoung Apartment (Village)
+235001305,낙낙동저수지,Nak -dong Reservoir
+235001335,효촌초등학교앞,In front of Hyochon Elementary School
+235001336,신산리종점,Sinsan Lijong Branch
+235001337,장포고을마트,Jangpo Goeul Mart
+235001367,경신하늘뜰공원,Gyeongshin Sky Garden Park
+235001366,경신리초입,Gyeongsin -ri initial
+235001365,경신리초입,Gyeongsin -ri initial
+235001364,경인폐차장,Gyeongin junkyard
+235001363,경인폐차장,Gyeongin junkyard
+235001362,대성아스콘,Daesung Ascon
+235001361,대성아스콘,Daesung Ascon
+235001360,덕도2리마을회관앞,In front of Dukdo 2 -ri Village Hall
+235001359,덕도2리마을회관앞,In front of Dukdo 2 -ri Village Hall
+235001358,한국악기,Korean instrument
+235001357,한국악기,Korean instrument
+235001356,목장앞,In front of the ranch
+235001355,울어리,Crying
+235001354,울어리,Crying
+235001353,울어리,Crying
+235001352,목장앞,In front of the ranch
+235001351,울어리,Crying
+235001350,효계율다리,Hyoye Yul Bridge
+235001349,효계율다리,Hyoye Yul Bridge
+235001348,효촌리양주골,Hyochon Li Yanggol
+235001347,효촌리양주골,Hyochon Li Yanggol
+235001346,매곡리구멍가게,Maegok -gu bruise shop
+235001345,나사로청소년의집,Lazarus house of youth
+235001344,나사로청소년의집,Lazarus house of youth
+235001343,매곡리구멍가게,Maegok -gu bruise shop
+235001342,동화5.6차아파트,Fairy Tale 5.6th Apartment
+235001341,동화1차아파트,Fairy Tale 1st Apartment
+235001340,문예회관,Literary hall
+235001339,동화5.6차아파트,Fairy Tale 5.6th Apartment
+235001338,삼상리차고지,Three Phase -ri Tea Highlands
+235001433,입암리신도비앞,In front of Ipam Risin Dobi
+235001434,입암리신도비앞,In front of Ipam Risin Dobi
+235001530,삼원섬유,Samwon Textile
+235001529,도하리입구,Dohari entrance
+235001528,도하리입구,Dohari entrance
+235001527,은현마트,Eunhyun Mart
+235001526,동은상회,Dongeun Sanghoe
+235001525,동은상회,Dongeun Sanghoe
+235001524,미스터츄리,Mr. Churi
+235001523,미스터츄리,Mr. Churi
+235001522,경기가스,Gyeonggi gas
+235001521,경기가스,Gyeonggi gas
+235001520,삼상리차고지,Three Phase -ri Tea Highlands
+235001519,주내교회.주내파출소,"Church in the week, the main police box"
+235001518,주내교회.주내파출소,"Church in the week, the main police box"
+235001514,교회앞,In front of the church
+235001513,백석읍행정복지센터,Baekseok -eup Administrative Welfare Center
+235001512,백석읍행정복지센터,Baekseok -eup Administrative Welfare Center
+235001511,동화.세아아파트,Fairy Tale and SeAH Apartment
+235001510,우골,Ugly
+235001509,동화2.3차아파트,Fairy Tale 2.3 Apartment
+235001508,에루화숯가마,Eru Hwa Charcoal Kiln
+235001505,암뫼마을사거리,Amo Village Intersection
+235001504,암뫼마을사거리,Amo Village Intersection
+235001503,삼밭골교차로,Sambat bone crossroads
+235001502,삼밭골교차로,Sambat bone crossroads
+235001501,마전2통마을회관,Maejeon 2 Tongue Village Hall
+235001531,삼원섬유,Samwon Textile
+235001532,할머니가게,Grandmother
+235001533,할머니가게,Grandmother
+235001563,홍익빌라,Hongik Villa
+235001562,신진빌라,Shinjin Villa
+235001561,백석교회,Baekseok Church
+235001560,동훈빌라,Donghoon Villa
+235001559,동훈빌라,Donghoon Villa
+235001558,백석교회,Baekseok Church
+235001557,신진빌라,Shinjin Villa
+235001556,홍익빌라,Hongik Villa
+235001555,대모시입구,Daemo City entrance
+235001554,대모시입구,Daemo City entrance
+235001553,대신주유소,Instead gas station
+235001552,대신주유소,Instead gas station
+235001551,미래산업,Future industry
+235001550,미래산업,Future industry
+235001549,대모시초소,Daemo
+235001548,대모시초소,Daemo
+235001547,지영상회,Video conference
+235001546,지영상회,Video conference
+235001545,카스전자,Cas Electronics
+235001544,카스전자,Cas Electronics
+235001543,봉재석산,Bongjae Seoksan
+235001542,봉재석산,Bongjae Seoksan
+235001541,능원금속,Neungwon Metal
+235001540,능원금속,Neungwon Metal
+235001539,성내섬유,Castle fiber
+235001538,성내섬유,Castle fiber
+235001537,산밭들,Mountain fields
+235001536,산밭들,Mountain fields
+235001535,도하리마을회관,Dohari Village Hall
+235001534,도하리마을회관,Dohari Village Hall
+235001500,마전2통마을회관,Maejeon 2 Tongue Village Hall
+235001499,마전리,Majeon -ri
+235001464,못말낚시터,I can't say fishing
+235001463,못말낚시터,I can't say fishing
+235001462,협성섬유,Hyupseong Textile
+235001461,협성섬유,Hyupseong Textile
+235001460,서원컴텍,Seowon Combine
+235001459,서원컴텍,Seowon Combine
+235001458,건영슈퍼,Kunyoung Super
+235001457,건영슈퍼,Kunyoung Super
+235001456,경민상회,Gyeongmin Sanghoe
+235001455,경민상회,Gyeongmin Sanghoe
+235001454,상수초교,Constant
+235001453,상수초교,Constant
+235001452,상수마트,Constant mart
+235001451,상수마트,Constant mart
+235001450,소현상회,Sohyeon
+235001449,상수회관,Constant hall
+235001448,상수사거리앞,In front of the water range
+235001447,미곡종합처리장,Miggok General Processing Plant
+235001446,산촌가든,Mountain village
+235001445,보아스사랑의집,Boaz Love House
+235001444,입암2리마을회관,Ipam 2 -ri Village Hall
+235001443,입암2리마을회관,Ipam 2 -ri Village Hall
+235001442,상신섬유,Sangsin Fiber
+235001441,상신섬유,Sangsin Fiber
+235001440,세진전사앞,In front of Sejin Warrior
+235001439,세진전사앞,In front of Sejin Warrior
+235001438,거해산업,Haehae industry
+235001437,거해산업,Haehae industry
+235001436,입암1리마을회관,Ipam 1 -ri Village Hall
+235001435,입암1리마을회관,Ipam 1 -ri Village Hall
+235001465,덕도리,Deokdori
+235001466,덕도리,Deokdori
+235001467,덕도다리,Deokdo Bridge
+235001498,상수사거리앞,In front of the water range
+235001497,연대앞,In front of the regiment
+235001496,연대앞,In front of the regiment
+235001495,태진,Taejin
+235001493,덕도다리,Deokdo Bridge
+235001492,덕도다리,Deokdo Bridge
+235001490,일영솔밭,Ilyoungsol field
+235001489,방앗간앞,In front
+235001488,산촌가든,Mountain village
+235001487,보아스사랑의집,Boaz Love House
+235001486,미곡종합처리장,Miggok General Processing Plant
+235001485,상수회관,Constant hall
+235001484,소현상회,Sohyeon
+235001483,광적119안전센터,Fine 119 Safety Center
+235001482,장수슈퍼,Longevity Super
+235001481,장수슈퍼,Longevity Super
+235001480,돌모루,Dolmoru
+235001479,돌모루,Dolmoru
+235001478,돌모루다리,Dolmoro
+235001477,돌모루다리,Dolmoro
+235001476,마씨네,Maine
+235001475,마씨네,Maine
+235001474,덕도초교,Deokdo Elementary School
+235001469,한양산업,Hanyang industry
+235001468,덕도다리,Deokdo Bridge
+235001564,가납사거리,Galvanity
+235000733,게너미삼거리,Zenumi Intersection
+236000960,신북체육문화센터,Shinbuk Sports Culture Center
+236000961,신북체육문화센터,Shinbuk Sports Culture Center
+235000948,주공6단지.주원초교앞,Jugong Complex 6. In front of Juwon Elementary School
+234001151,양봉원,Best
+234001152,성금,Donation
+234001155,송정교북단,Songjeonggyo northern end
+234001156,송정교북단,Songjeonggyo northern end
+235001142,안고령1교앞,In front of Annie Ryeong 1
+235001143,안고령1교앞,In front of Annie Ryeong 1
+236001326,삼율리.장수동,Samyuri and Jangsu -dong
+235000467,게너미삼거리,Zenumi Intersection
+236000668,38고개,38 Pass
+236000659,하심곡사거리,Hasimgok Intersection
+236000660,동고개,Co -operation
+236000661,동고개,Co -operation
+236000662,신평교차로.경복대입구,Sinpyeong Intersection.
+236000663,신평교차로.경복대입구,Sinpyeong Intersection.
+236000664,추동1리,Chudong 1 -ri
+236000665,상추동입구,Letchu -dong entrance
+236000666,추동3리.골프장입구,Chudong 3 -ri.
+236000667,추동3리.골프장입구,Chudong 3 -ri.
+236000669,38고개,38 Pass
+236000672,군자동,Military
+236000673,군자동,Military
+236000674,상추동,Lettuce
+236000675,상추동,Lettuce
+236000677,영송리.영송삼거리,"Yeongsong -ri, Yeongsong Intersection"
+236000678,영송리,Young Song -ri
+236000679,신장삼거리,Kidney intersection
+236000680,만세교검문소,Long Sejong Checkpoint
+236000707,선단4통.장승거리,"4th round, Jangseung Street"
+236000708,선단4통.장승거리,"4th round, Jangseung Street"
+236000709,상록할인마트,Evergreen Discount Mart
+236000597,소학1리,Sohak 1 -ri
+236000606,고장촌.내2리,Foweland village. My 2 -ri
+236000607,진목3리.죽엽산,Jinmok 3 -ri.
+236000608,전말입구.진목2리,The entrance to the end of the end. Jinmok 2 -ri
+236000609,진목1리.오림포,Jinmok 1 -ri. Olimpo
+236000610,진목1리.나눔의집,Jinmok 1 -ri. Sharing House
+236000611,진목4리,Jinmok 4 -ri
+236000612,고모3리,Aunt 3 -ri
+236000626,동교사거리.새터사거리,Donggyo Intersection
+236000627,동교사거리.새터사거리,Donggyo Intersection
+236000628,동교리,Donggyo -ri
+236000629,동교리,Donggyo -ri
+236000632,약수터,Spring water
+236000633,약수터,Spring water
+236000634,주유소앞,In front of the gas station
+236000635,주유소앞,In front of the gas station
+236000636,하심곡사거리,Hasimgok Intersection
+236000637,하심곡사거리,Hasimgok Intersection
+236000638,장승삼거리,Jangseung Intersection
+236000639,장승삼거리,Jangseung Intersection
+236000640,범대미,Pan -rice
+236000641,범대미,Pan -rice
+236000642,가양삼거리,Gayang Intersection
+236000643,가양삼거리,Gayang Intersection
+236000644,제일농장앞,First farm
+236000645,제일농장앞,First farm
+236000646,다보정사,Dajungsa Temple
+236000647,소죽골입구,Cow
+236000648,영평3리,Youngpyeong 3 -ri
+236000649,영평3리,Youngpyeong 3 -ri
+236000650,오가사거리,Ogasa Street
+236000651,오가사거리,Ogasa Street
+236000652,매치골,Match goal
+236000653,매치골,Match goal
+236000654,창수삼거리,Changsu Intersection
+236000655,창수삼거리,Changsu Intersection
+236000656,오가1리,Oga 1 -ri
+236000657,오가리,Ogari
+234001013,신현4리마을회관,Shinhyun 4 -ri Village Hall
+234001034,태성빌딩,Taesung Building
+234001052,듀크빌,Dukeville
+234001100,e편한세상후문,E
+234001130,태성빌딩,Taesung Building
+234001101,e편한세상후문,E
+234001188,듀크빌,Dukeville
+234001232,마을회관,Town hall
+235520600,은현복지회관.은현우체국,Eunhyeon Welfare Center. Eunhyeon Post Office
+235001201,승마장입구,Riding
+235016265,주공4단지,Jugong Complex 4
+235016266,삼숭교,Sam So -kyo
+236000887,삼성쉐르빌,Samsung Cherville
+235016262,도시환경사업소,Urban environment
+235016263,도시환경사업소,Urban environment
+236000706,축석고개,Cord
+236001185,중1리,Middle 1 -ri
+235000319,메루지마을,Meruzi Village
+234001223,센트럴푸르지아파트정문,Central Prugi Apartment Main Gate
+235000743,중앙폐차장,Central junkyard
+234001222,센트럴푸르지오.힐링포레스트공 ,Central Prugio. Healing Forest Ball
+236000045,삼성쉐르빌,Samsung Cherville
+234001224,센트럴푸르지아파트정문,Central Prugi Apartment Main Gate
+236001414,운천터미널,Uncheon Terminal
+236001411,운천터미널,Uncheon Terminal
+236001410,포천공영버스,Pocheon Public Bus
+236001409,포천공영버스,Pocheon Public Bus
+234001202,태전이편한세상2차후문,The second time after the world is comfortable with Taejeon
+235000575,안납골교차로,Inside the distance
+235000573,용암2리마을회관,Lava 2 -ri Village Hall
+235000572,용암2리마을회관,Lava 2 -ri Village Hall
+235000571,수녀원앞,Convent
+235000570,수녀원앞,Convent
+235000574,안납골교차로,Inside the distance
+234001135,광남중학교.광남고등학교.청소년,"Gwangnam Middle School, Gwangnam High School, Youth"
+235000842,퍼피과수원농원가든,Purpi orchard Farm
+235001604,형재건설,Sample
+235001605,형재건설,Sample
+235000394,청담마을입구,Cheongdam Village entrance
+235000592,덕계역,Deokgye Station
+235001080,경동대학교,Kyungdong University
+235001230,대륜발전소.리젠시빌란트6단지,"Dae -Ryun Power Plant, Regency Billand Complex 6"
+235000561,양주문예회관,Yangju Literary Hall
+236000057,서두머리.야미2리,"Nomer, Yami 2 -ri"
+236000500,마산3리,Masan 3 -ri
+236000603,내1리,My 1 -ri
+236001329,내촌차고지,Naechon garage
+234000944,태전효성해링턴플레이스,Taejeon Hyosung Harrington Place
+234000945,오포농협,Opo Nonghyup
+235001215,삼숭교차로,Samseong Intersection
+235000999,절골,Osteotomy
+236000070,성동1리.광명휴게소,Seongdong 1 -ri. Gwangmyeong Rest Area
+236000038,성동2리.부대앞,Seongdong 2 -ri.
+234001179,광주터미널,Gwangju Terminal
+234001178,광주터미널,Gwangju Terminal
+235000091,덕정중학교,Deokjeong Middle School
+235000100,덕정중학교,Deokjeong Middle School
+236000924,관인버스터미널,Kwanin Bus Terminal
+236000690,은행나무앞,In front of the ginkgo tree
+235000472,조광주유소,Chogwangusa
+236000135,자일2리,Xyl 2 -ri
+236000269,하성북2리,Haseongbuk 2 -ri
+235001217,말머리고개,Horseshoe
+234001172,경기광주역,Gyeonggi Gwangju Station
+234001173,경기광주역,Gyeonggi Gwangju Station
+235000076,새빛뜰공원,Saebit Garden Park
+235000097,서재말교차로,Society intersection
+235000541,e편한세상19단지,e comfortable world complex 19
+235000542,옥정사거리.e편한세상19단지,Okjeong Intersection.e Comfortable World 19 Complex
+235000598,새빛뜰공원,Saebit Garden Park
+234000359,삼리.킴스빌리지.현진에버빌아파,"Samri, Kims Village, Hyunjin Everville"
+234000363,쌍동리경기주유소.광주하남예비 ,"Ssangdong -ri Gyeonggi Gas Station, Gwangju Hanam Preliminary"
+234000364,초월역.롯데아파트,Transcendence Station. Lotte Apartment
+234000368,도평리.우림.신일.대주아파트,"Dopyeong -ri, Woorim, Shinil, Daeju Apartment"
+235000223,양주향교.양주별산대놀이전수회 ,"Yangju Hyanggyo, Yangju Byeolsan University"
+235000236,양주향교.양주별산대놀이전수회 ,"Yangju Hyanggyo, Yangju Byeolsan University"
+234000417,문형4리.수렁개,Moon Hyung 4 -ri.
+234000420,문형1리봉골입구.한국고용노동교,Moon Hyung 1 Ribonggol Entrance.
+234000427,한국고용노동교육원.봉골입구.우,Korea Employment Labor Education Center. Bonggol Entrance. Woo
+234000477,능평리회전교차로,Neungpyeong -ri rotation intersection
+235001162,앞말,Front
+236000688,직동1리.새말,Jikdong 1 -ri.
+236000133,초과2리,Over 2 -ri
+235001241,남면농협상수지점,Nam -myeon Agricultural Cooperatives
+234001147,태전2통,Taejeon 2
+234001146,태전2통,Taejeon 2
+235523130,덕계역,Deokgye Station
+235001237,내촌마을,Naechon Village
+235001238,내촌마을,Naechon Village
+235001628,홍죽삼거리,Hongjuk Intersection
+234001225,광주시청.경기광주우체국,"Gwangju City Hall, Gyeonggi Gwangju Post Office"
+235001062,양주교통본사,Yangju Transportation History
+235000491,조휘동,Johwi -dong
+235000408,커밍,Cumming
+235000241,커밍,Cumming
+235000577,옥정마을16단지,Okjeong Village 16 Complex
+235000578,옥정마을16단지,Okjeong Village 16 Complex
+235000576,e편한세상15단지,e comfortable world complex 15
+235000589,e편한세상15단지,e comfortable world complex 15
+234001177,금강펜테리움아파트,Geumgang Pentium Apartment
+235001244,서재말입구,Library
+235000953,푸르지오9단지아파트,Prugio 9 Complex Apartment
+235000825,코오롱패션,Kolon Fashion
+235000826,카페베네,Caffe Bene
+234001022,밀목사거리.광주시청앞,Pastor Street. In front of Gwangju City Hall
+236000137,자일4리.육호마을,Xyle 4 -ri.
+236000140,자일3리,Xyl 3 -ri
+236000695,하나울,Hanaul
+235000854,주공7단지.중흥s클래스,"Jugong Complex 7, Jungheung S Class"
+235001151,서울실버케어스,Seoul Silver Care
+235000554,가납초교,Gaspolgyo
+235016257,가야5차아파트,Gaya 5th apartment
+235016258,복지2리마을회관,Welfare 2 -ri Village Hall
+235000626,사기막고개,Fraudulent
+235000627,사기막고개,Fraudulent
+235000628,감골입구,Gamgol entrance
+235000629,감골입구,Gamgol entrance
+235000630,신암아파트,Shinam Apartment
+235000631,25사단,25th Division
+235000632,신암삼거리,Sinam Intersection
+235000633,신암리,Sinam -ri
+235000634,비룡성당.신산공원,"Biryong Cathedral, Shinsan Park"
+235000635,비룡성당,Dragon Cathedral
+235000636,비룡성당,Dragon Cathedral
+235000637,남면행정복지센터.남면농협,Nam -myeon Administrative Welfare Center.
+235000638,남면초등학교,Namyeon Elementary School
+235000639,토교장,Torch
+235000640,토교장,Torch
+235000643,사단의무대앞,Satan's stage
+235000644,사단의무대앞,Satan's stage
+235000650,은현삼거리,Eunhyeon Sam Street
+235000651,은현삼거리,Eunhyeon Sam Street
+235000652,부검마을,Autopsy village
+235522210,케이원텍,K -One Tech
+235522220,휴먼시아후문,Humansian back door
+235522230,방성리주공휴먼시아,Bangseong -ri Jugong Hughesia
+235522240,한국전력공사,KEPCO
+235522270,홍죽삼거리,Hongjuk Intersection
+235522290,옛고을,Old high
+235522300,옛고을,Old high
+235522340,동화사거리,Fairytale range
+235522360,현대빌라,Hyundai Villa
+235522370,해송빌라,Haesong Villa
+235522380,해송빌라,Haesong Villa
+235522390,자동차공업사,Automotive company
+235522400,자동차공업사,Automotive company
+235522410,복지삼거리(마을),Welfare Intersection (Village)
+235522420,양주관아지,Yangju Kwan Paji
+235522430,남방리,Southern
+235522440,주내농협,Nonghyup in the week
+235522450,주내농협,Nonghyup in the week
+235522460,양주역,Yangju Station
+235522470,양주역,Yangju Station
+235522480,남방리,Southern
+235522490,현대빌라,Hyundai Villa
+235522500,오리마을,Duck village
+235522510,산성빌라,Acidic villa
+235522520,영원섬유,Eternity
+235522530,명성화성,Reputation
+235522550,두곡리회관,Dugokri Hall
+235522580,덕도삼거리,Deokdo Intersection
+235522600,경진주유소,Gyeongjin gas station
+235522650,방성리,Bangseong -ri
+235522660,덕도삼거리,Deokdo Intersection
+235522670,성창,Castle window
+235522680,두곡리입구,Dugokri entrance
+235522710,영원섬유,Eternity
+235522730,역말,Ridge
+235522740,터줏대감,Tumbling
+235522750,터줏대감,Tumbling
+235522760,민물장어.보수대앞,Freshwater eel and conservatives
+235522770,대진요양원,Daejin Nursing Home
+235522780,대진요양원,Daejin Nursing Home
+235522790,상수공단,Constant
+235522800,상수공단,Constant
+235522810,부대앞,In front of the unit
+235522820,부대앞,In front of the unit
+235522830,모랫말슈퍼,Sand horse supermarket
+235522840,모랫말슈퍼,Sand horse supermarket
+235522850,호수촌,Lake village
+235522860,호수촌,Lake village
+235522890,모랫말회관,Sand hall
+235522900,모랫말회관,Sand hall
+235522910,구암리정자,Guam -ri
+235522920,구암리정자,Guam -ri
+235522940,덕계역,Deokgye Station
+235522950,건강관리실,Health care room
+235522960,건강관리실,Health care room
+235522970,신산리.토계장사거리,"Sinsan -ri, soaring street street"
+235522980,군인아파트,Soldier
+235523000,공원앞,In front of the park
+234000750,이투스학원,Itus Academy
+234000751,선동교회앞,In front of the Incident Church
+234000752,선동교회앞,In front of the Incident Church
+234000753,선동초등학교,Sundong Elementary School
+234000754,선동초등학교,Sundong Elementary School
+234000755,산이리한국유통,Mountain Distribution
+234000756,산이리한국유통,Mountain Distribution
+234000759,장심리입구,Jangsim -ri entrance
+234000760,장심리입구,Jangsim -ri entrance
+234000761,동심리,Dongsimri
+234000762,양우내안애아파트후문,Yangwoo Naanae apartment back door
+234000763,전원마을,Rural village
+234000764,전원마을,Rural village
+234000765,개성마을,Kaesong Village
+234000766,개성마을,Kaesong Village
+234000767,장심리종점,Jangsimsim
+234000769,만선초교앞,In front of Manseon Elementary School
+234000770,만선초교앞,In front of Manseon Elementary School
+234000772,안성골,Anseonggol
+234000773,골프장입구,Golf
+234000774,골프장입구,Golf
+234000780,중열미종점,Heavy heat
+234000784,중열미입구,Middle -class entrance
+234000785,추곡리종점,Chugok Lijong Branch
+234000786,추곡리종점,Chugok Lijong Branch
+234000787,진우낚시터,Jinwoo fishing
+234000788,방도2리회관,Bangdo 2 -ri Hall
+234000789,부항1리서낭당,Cuke 1 Li Li Nangdang
+234000791,부항1리,Buhang 1 -ri
+234000799,동진판지앞,In front of Dongjin Panji
+234000807,도척성당,Dodok Cathedral
+234000808,도척성당,Dodok Cathedral
+234000809,도궁초교입구,Togung Elementary School entrance
+234000810,도궁초교입구,Togung Elementary School entrance
+234000811,도웅상회앞,In front of Doung Sanghoe
+234000812,도웅상회앞,In front of Doung Sanghoe
+234000815,사기소두성물류,Logistics
+234000816,사기소두성물류,Logistics
+234000817,유정교,Yoo Jeong -kyo
+234000818,유정교,Yoo Jeong -kyo
+234000819,유정낚시터,Oil well
+234000820,유정낚시터,Oil well
+234000821,백련암,White lotus
+234000822,백련암,White lotus
+234000823,송정대주아파트,Songjeong Daeju Apartment
+234000825,참좋은교회앞,In front of a good church
+234000826,신우냉장,Shinwoo refrigerator
+234000827,신우냉장,Shinwoo refrigerator
+234000828,소티마을,Soti Village
+234000829,소티마을,Soti Village
+234000833,도웅리마을회관,Doung -ri Village Hall
+234000834,탄벌동우림아파트,Tanbuldong Woorim Apartment
+234000835,탄벌동우림아파트,Tanbuldong Woorim Apartment
+234000836,우리홈마트,Our home mart
+234000837,우리홈마트,Our home mart
+234000838,SK주유소,SK gas station
+234000839,중앙저수지,Central reservoir
+234000840,중앙저수지,Central reservoir
+235000653,은현면행정복지센터,Eunhyun -myeon Administrative Welfare Center
+235000654,은현면행정복지센터,Eunhyun -myeon Administrative Welfare Center
+235000656,하패2리마을회관,Hapa 2 -ri Village Hall
+235000657,뒤뜰고개,Backyard
+235000658,뒤뜰고개,Backyard
+235000659,옥정체육공원,Okjeong Sports Park
+235000661,낙낙골,Nakgolgol
+235000664,고의원앞,In front of the councilor
+235000666,봉암주유소,Bongam gas station
+235000667,봉암주유소,Bongam gas station
+235000670,서원마을,Seowon Village
+235000671,서원마을,Seowon Village
+235000686,은행나무앞,In front of the ginkgo tree
+235000687,은행나무앞,In front of the ginkgo tree
+235000689,우리상회,Our Sanghoe
+235000690,상동슈퍼,Sangdong Super
+235000691,상동슈퍼,Sangdong Super
+235000692,다리앞,In front of the legs
+235000693,다리앞,In front of the legs
+235000696,한승아파트입구,Hanseung apartment entrance
+235000697,한승아파트입구,Hanseung apartment entrance
+235000716,대뜰,Courtyard
+235000719,향군농장,Hyanggun farm
+235000720,향군농장,Hyanggun farm
+235000721,연곡초등학교,Yeonggok Elementary School
+235000726,정토마을삼거리,Jeongto Village Intersection
+235000728,느티나무,Zelkova
+235000729,홍죽2리마을회관,Hongjuk 2 -ri Village Hall
+235523010,신리,Sin -ri
+235523040,낙낙골,Nakgolgol
+235523050,한신리,Hanshin -ri
+235523070,느티나무집,Zelkova
+235523080,느티나무집,Zelkova
+235523090,공병부대,Engineer
+235523100,공병부대,Engineer
+235523110,원당리슈퍼,Wondang -ri Super
+235523120,원당리슈퍼,Wondang -ri Super
+235523140,원당저수지,Wondang Reservoir
+235523150,원당저수지,Wondang Reservoir
+235523160,황방2리마을회관,Hwangbang 2 -ri Village Hall
+235523170,황방2리마을회관,Hwangbang 2 -ri Village Hall
+235523180,감악골,Gamakgol
+235523190,감악골,Gamakgol
+235523200,능골,Rare
+235523210,능골,Rare
+235523220,황방1리마을회관,Hwangbang 1 -ri Village Hall
+235523230,황방1리마을회관,Hwangbang 1 -ri Village Hall
+235523280,봉암교,Bongam Bridge
+235523290,봉암교,Bongam Bridge
+235523300,대조식품,Control
+235523320,정절사입구,Fidelity
+235523330,정절사입구,Fidelity
+235523370,낙낙골,Nakgolgol
+235523380,낙낙골,Nakgolgol
+235523390,현대지관,Hyundai Branch
+235523400,현대지관,Hyundai Branch
+235523430,귀평동,Pyeong -dong
+235523440,귀평동,Pyeong -dong
+235523450,귀평동2층집,2nd floor house
+235523460,귀평동2층집,2nd floor house
+235523470,다리앞,In front of the legs
+235523480,다리앞,In front of the legs
+235523490,상패초등학교,Sangpa Elementary School
+235523500,상패초등학교,Sangpa Elementary School
+235523530,농협(사용금지),Nonghyup (Prohibition of use)
+235523540,우체국,post office
+235523560,비룡마트,Dragon Mart
+235523580,모랫말입구,Sandwing entrance
+235523590,한라레미콘,Halla Micon
+235523600,가업2교,Family business school
+235523620,성창,Castle window
+235523630,25사단,25th Division
+235523640,민물장어.보수대앞,Freshwater eel and conservatives
+235523660,가막산.종점,Ganmaksan.
+235523720,양지슈퍼(사용금지),Yangji Super (Prohibition of Use)
+235523730,양지슈퍼,Yangji Super
+235523760,하패2리마을회관,Hapa 2 -ri Village Hall
+235523770,상수사거리,Water range
+235523800,경진주유소,Gyeongjin gas station
+235523820,대조식품,Control
+235523840,낙낙동저수지,Nak -dong Reservoir
+235523860,군인아파트,Soldier
+235523900,효촌2리마을회관앞,In front of Hyochon 2 -ri Village Hall
+235523910,효촌2리마을회관앞,In front of Hyochon 2 -ri Village Hall
+235523920,산성빌라,Acidic villa
+235524190,25사단,25th Division
+235000742,중앙폐차장,Central junkyard
+234001220,쌍령동.김촌말.센트럴푸르지오아,"Ssangryeong -dong, Kimchon -horse, Central Prugio"
+234001221,광주센트럴푸르지오아파트입구,Gwangju Central Prugio Apartment Entrance
+235000984,인성하이텍,Insung Hitech
+235000985,인성하이텍,Insung Hitech
+235000986,회암사입구,Hoalam Inlet
+235000987,주공6단지,Jugong 6 complex
+235000989,회천초등학교.회천중학교,"Hoecheon Elementary School, Hoecheon Middle School"
+235000997,고덕구장,Godeok Stadium
+235001000,꿈나무도서관.백석고교,Dream Tree Library. Baekseok High School
+235001011,한미자동차학원,Hanmi Motor Academy
+235001012,청록식당,Tenkok restaurant
+235001013,청록식당,Tenkok restaurant
+235001014,봉양4통마을회관,Bongyang 4 Tong Village Hall
+235001015,더파크포레태영,The Park Foretaeyoung
+235001016,칠봉산참숯가마,Chilbong Mountain Charcoal
+235001017,회암공단,Hoam Industrial Complex
+235001018,매곡리박물관,Maegok -ri Museum
+235001019,서정대학교본관,Seojeong University Main Building
+235001025,천보빌라,Cheonbo Villa
+235001033,한양수자인3단지아파트,Hanyang Suza 3 Complex Apartment
+235001034,한양수자인3단지아파트,Hanyang Suza 3 Complex Apartment
+235001035,나리공원,Nari Park
+235001036,나리공원,Nari Park
+235001037,광사초교.양주청소년문화의집,"Gwangsa Elementary School, Yangju Youth Culture House"
+235001038,광사초교.양주청소년문화의집,"Gwangsa Elementary School, Yangju Youth Culture House"
+236000182,포천시보건소,Pocheon Health Center
+236000183,한신아파트,Hanshin Apartment
+236000184,포천여중,Pocheon Middle School
+236000185,포천남중앞,In front of Pocheon Namjung
+236000186,의정부약국,Uijeongbu Pharmacy
+236000187,청성오거리,Cheongseong Ohori Street
+236000188,군내면사무소,Gunnae -myeon office
+236000189,군내우체국,Gun -myo Post Office
+236000190,풍류산입구.풍훈마을,"Pungryu Mountain Entrance, Punghun Village"
+236000191,직두삼거리,Bean
+236000192,직두1리.모모슈퍼,Jigu 1 -ri. Momo Super
+236000193,직두2리.우성사료,Two -ri 2 -ri. Woosung feed
+236000194,직두2리.수원동,Jigu 2 -ri. Suwon -dong
+236000195,직두2리마을회관앞,In front of Jiku 2 -ri Village Hall
+236000196,명산리,Myeongsan -ri
+236000197,화엄사입구,Hwaeomsa entrance
+236000198,좌의2리,Left 2 -ri
+236000199,좌의2리,Left 2 -ri
+236000200,명산리,Myeongsan -ri
+236000201,명산리,Myeongsan -ri
+236000202,청성초교후문,Cheongseong Elementary School
+236000203,청성초교,Cheongseong Elementary School
+236000204,오뚜기냉동식품,Ottogi frozen food
+236000205,용정3리.이화앞,Yongjeong 3 -ri. In front of Ewha
+236000206,용정3리.동화건설앞,Yongjeong 3 -ri. In front of Donghwa Construction
+236000207,오뚜기냉동식품,Ottogi frozen food
+236000208,청성초교,Cheongseong Elementary School
+236000209,청성초교후문,Cheongseong Elementary School
+236000210,직두2리마을회관앞,In front of Jiku 2 -ri Village Hall
+236000211,직두2리.수원동,Jigu 2 -ri. Suwon -dong
+236000212,직두2리.우성사료,Two -ri 2 -ri. Woosung feed
+236000213,직두1리.모모슈퍼,Jigu 1 -ri. Momo Super
+236000214,직두삼거리,Bean
+236000215,풍류산입구.풍훈마을,"Pungryu Mountain Entrance, Punghun Village"
+236000216,군내우체국,Gun -myo Post Office
+236000217,군내면사무소,Gunnae -myeon office
+236000218,청성오거리,Cheongseong Ohori Street
+236000219,의정부약국,Uijeongbu Pharmacy
+235510460,한산리전원마을,Hansan -ri Village
+235510510,효촌저수지,Hyochon Reservoir
+235510550,일영솔밭,Ilyoungsol field
+235510560,장춘마을,Changchun village
+235510600,영일자원,Yeongil Resource
+235510640,샛고개,Hill
+235510650,샛고개,Hill
+235510660,상수리,Constellation
+235510670,상수리,Constellation
+235510680,두곡리입구,Dugokri entrance
+235510690,두곡리입구,Dugokri entrance
+235510700,대추마을,Jujube village
+235510710,대추마을,Jujube village
+235510750,백인걸선생묘,White tomb
+235510760,백인걸선생묘,White tomb
+235510770,한산리전원마을,Hansan -ri Village
+235510780,효촌저수지,Hyochon Reservoir
+235510810,모래말,Sand
+235510820,모래말,Sand
+235510830,신병교육대,Recruitment
+235510840,신병교육대,Recruitment
+235510880,할머니집앞,Grandmother's house
+235510900,중말,Middle words
+235510940,모자농원,Maternal farm
+235510950,모자농원,Maternal farm
+235510990,기산저수지,Kisan Reservoir
+235511000,기산저수지,Kisan Reservoir
+235511030,기산리종점,Kisan Lijong Branch
+235511050,우골,Ugly
+235511080,한국보육원앞,In front of the Korea Nursery Center
+234001163,능안마을,Neungan Village
+234001049,문형리농협,Moon Hyung -ri Nonghyup
+234001050,문형리농협,Moon Hyung -ri Nonghyup
+236000288,맑은물센터,Clear water center
+234001184,오포행정복지센터,Oppo -jang Welfare Center
+234001185,가래울,Plum
+234001186,오포행정복지센터,Oppo -jang Welfare Center
+234001187,가래울,Plum
+235001170,서울전기,Seoul Electric
+235015723,호산나의집,Hosanna's house
+235015724,이곡다리앞,In front of this song bridge
+235015726,양주2동성당,Yangju 2 Dong Catholic
+235015727,삼하리,Samhari
+235015728,어하마을,Eoha village
+235015729,양주2동성당,Yangju 2 Dong Catholic
+235015730,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235015731,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235015732,중말다리앞,In front of the bridge
+235015733,자연유아어린이집,Natural infant daycare center
+235015735,유월의아침,June
+235015737,가업2리,Family business 2 -ri
+235015739,광명보육원,Gwangmyeong Nursery
+235015740,기우리종점,Riuri terminal
+235015741,검은돌,Black stone
+235015742,가업2교,Family business school
+235015744,8사단사령부앞,In front of the 8th Division Command
+235015745,오리마을,Duck village
+235015746,한산리전원마을,Hansan -ri Village
+235015747,효촌저수지,Hyochon Reservoir
+235015749,장춘마을,Changchun village
+235015750,영일자원,Yeongil Resource
+235015751,휴먼시아후문,Humansian back door
+235015752,샛고개,Hill
+235015753,샛고개,Hill
+235015754,상수리,Constellation
+235015755,상수리,Constellation
+235015756,두곡리입구,Dugokri entrance
+235015757,두곡리입구,Dugokri entrance
+235015758,대추마을,Jujube village
+235015759,대추마을,Jujube village
+235015760,백인걸선생묘,White tomb
+235015761,백인걸선생묘,White tomb
+235015762,한산리전원마을,Hansan -ri Village
+235015763,효촌저수지,Hyochon Reservoir
+235015764,모래말,Sand
+235015765,모래말,Sand
+235015766,신병교육대,Recruitment
+235015767,신병교육대,Recruitment
+235015770,모자농원,Maternal farm
+235015772,기산저수지,Kisan Reservoir
+235015773,기산저수지,Kisan Reservoir
+235015774,기산리종점,Kisan Lijong Branch
+235015775,우골,Ugly
+235015776,한국보육원앞,In front of the Korea Nursery Center
+235015778,천주교연수원,Catholic Training Institute
+235015779,참나무집,Oak house
+235015781,절골입구,Omnigio
+235015782,절골.미래데코앞,In front of the Future Deco
+235015783,일광공업사,Daylight
+235015785,유월의아침,June
+235015786,일광공업사,Daylight
+235015787,루이힐스골프장,Louis Hills Golf Course
+235015788,마전1통마을회관,Maejeon 1 Tong Village Hall
+235015789,양주화훼단지,Yangju Flower Complex
+235015790,어하마을,Eoha village
+235015791,루이힐스골프장,Louis Hills Golf Course
+235015792,낙낙동저수지,Nak -dong Reservoir
+235015794,복지사거리.태영아파트(마을),Welfare Intersection. Taeyoung Apartment (Village)
+235015795,광적면행정복지센터.가래비시장,Pine Administrative Welfare Center.
+235015796,선업교,Priesthood
+235015797,월계자율방범대,Laurel Self -Defense Force
+235015798,양주골,Yangjugol
+235015799,부대앞,In front of the unit
+235015800,방성리주공휴먼시아,Bangseong -ri Jugong Hughesia
+235015801,8사단사령부앞,In front of the 8th Division Command
+235015802,보메기다리,Bomegi leg
+235015804,성황당굿당,Holy Hwangdang Gooddang
+235015805,28보수대.부영판지,28 conservatives.
+235015806,형제실업,Brotherhood
+235015807,효촌초등학교,Hyochon Elementary School
+235015808,모레말,Day after tomorrow
+235015809,둥지앞,In front of the nest
+235015810,세진금속,Sejin Metal
+235015811,별장펜션앞,In front of the cottage pension
+235015812,신우섬유,Shinwoo Tiber
+235015813,천주교연수원,Catholic Training Institute
+235015814,모레말,Day after tomorrow
+235015815,대성사입구,Daesungsa entrance
+235015816,기산리한우마을,Kisanri Hanwoo Village
+235015817,마전리,Majeon -ri
+235015819,교회앞,In front of the church
+235015822,형제실업,Brotherhood
+235015823,할머니집앞,Grandmother's house
+235015824,검은돌,Black stone
+235015825,기우리,Lifetime
+235015826,효촌초등학교앞,In front of Hyochon Elementary School
+235015827,신산리종점,Sinsan Lijong Branch
+235015829,장포고을마트,Jangpo Goeul Mart
+235015830,삼상리차고지,Three Phase -ri Tea Highlands
+235015832,동화5.6차아파트,Fairy Tale 5.6th Apartment
+235015833,문예회관,Literary hall
+235015834,동화1차아파트,Fairy Tale 1st Apartment
+235015835,동화5.6차아파트,Fairy Tale 5.6th Apartment
+235015836,매곡리구멍가게,Maegok -gu bruise shop
+235015837,나사로청소년의집,Lazarus house of youth
+235015838,나사로청소년의집,Lazarus house of youth
+235015839,매곡리구멍가게,Maegok -gu bruise shop
+235015840,효촌리양주골,Hyochon Li Yanggol
+235015841,효촌리양주골,Hyochon Li Yanggol
+235015842,효계율다리,Hyoye Yul Bridge
+235015843,효계율다리,Hyoye Yul Bridge
+235015844,울어리,Crying
+235015845,목장앞,In front of the ranch
+235015846,울어리,Crying
+235015847,울어리,Crying
+235015848,울어리,Crying
+235015849,목장앞,In front of the ranch
+235015850,한국악기,Korean instrument
+235015851,한국악기,Korean instrument
+235015852,덕도2리마을회관앞,In front of Dukdo 2 -ri Village Hall
+235015853,덕도2리마을회관앞,In front of Dukdo 2 -ri Village Hall
+235015854,대성아스콘,Daesung Ascon
+235015855,대성아스콘,Daesung Ascon
+235015856,경인폐차장,Gyeongin junkyard
+235015857,경인폐차장,Gyeongin junkyard
+235015858,경신리초입,Gyeongsin -ri initial
+235015859,경신리초입,Gyeongsin -ri initial
+235015860,경신하늘뜰공원,Gyeongshin Sky Garden Park
+235015861,경신하늘뜰공원,Gyeongshin Sky Garden Park
+235015862,경신상회,Lord
+235015863,경신상회,Lord
+235015864,영원섬유,Eternity
+235015865,영원섬유,Eternity
+235015866,향나무식당,Junkyard
+235015867,향나무식당,Junkyard
+235015868,훈슈퍼,Hun Super
+235015869,훈슈퍼,Hun Super
+235015870,덕도1리구마을회관,Deokdo 1 Rigu Village Hall
+235015871,덕도1리구마을회관,Deokdo 1 Rigu Village Hall
+235015872,하이콤이엔씨,Hi -Common
+235015873,하이콤이엔씨,Hi -Common
+235015874,낙낙골,Nakgolgol
+235015875,보메기다리,Bomegi leg
+235015876,문예회관,Literary hall
+235015877,쏘가리낚시터,Soleari fishing ground
+235015878,가업2리,Family business 2 -ri
+235015879,한거름,Gap
+235015880,우고리마을회관,Woogori Village Hall
+235015881,우고리마을회관,Woogori Village Hall
+235015882,우고리목장,Woogori ranch
+235015883,우고리목장,Woogori ranch
+235015892,세진금속,Sejin Metal
+235015893,문화예술회관입구,Culture and Arts Center Entrance
+235015894,선업교,Priesthood
+235015895,무궁화교,Mugunghwan
+235015896,무궁화교,Mugunghwan
+235015897,풍천장어,Pungcheon eel
+235015898,풍천장어,Pungcheon eel
+235015899,공동묘지,Cemetery
+235015900,공동묘지,Cemetery
+235015901,일성사,Ilseongsa Temple
+235015902,일성사,Ilseongsa Temple
+235015903,꾸러기어린이집,Nursery
+235015904,꾸러기어린이집,Nursery
+235015905,진재,Jinjae
+235015906,진재,Jinjae
+235015907,비석골,Tombstone
+235015908,비석골,Tombstone
+235015909,승방모퉁이,Plot
+235015910,승방모퉁이,Plot
+235015911,L마트,L mart
+235015912,새마을금고,Saemaul Undong
+235015913,한산교,Hansan Bridge
+235015914,한산교,Hansan Bridge
+235015915,한산1리회관,Hansan 1 -ri Hall
+235015916,한산1리회관,Hansan 1 -ri Hall
+235015917,슈퍼,Supermarket
+235015918,주말낙원농장,Weekend Paradise Farm
+235015919,망향의동산,Garden of Manghyang
+235015920,한산2리,Hansan 2 -ri
+235015921,양주화훼단지,Yangju Flower Complex
+235015922,남면초교,Namyeon Elementary School
+235015884,딱따구리수련원,Tutter Guri Training Center
+235015885,딱따구리수련원,Tutter Guri Training Center
+235015886,삼현,Samhyun
+235015887,삼현,Samhyun
+235015888,승태목장,Seungtae Ranch
+235015889,승태목장,Seungtae Ranch
+235015890,종이나라,Paper
+235015891,쏘가리낚시터,Soleari fishing ground
+235015923,남면초교,Namyeon Elementary School
+235015924,입암리능고개,Ipham
+235015925,입암리능고개,Ipham
+235015926,입암리신도비앞,In front of Ipam Risin Dobi
+235015927,입암리신도비앞,In front of Ipam Risin Dobi
+235015928,입암1리마을회관,Ipam 1 -ri Village Hall
+235015929,입암1리마을회관,Ipam 1 -ri Village Hall
+235015930,거해산업,Haehae industry
+235015931,거해산업,Haehae industry
+235015932,세진전사앞,In front of Sejin Warrior
+235015933,세진전사앞,In front of Sejin Warrior
+235015934,상신섬유,Sangsin Fiber
+235015935,상신섬유,Sangsin Fiber
+235015936,입암2리마을회관,Ipam 2 -ri Village Hall
+235015937,입암2리마을회관,Ipam 2 -ri Village Hall
+235015938,보아스사랑의집,Boaz Love House
+235015939,산촌가든,Mountain village
+235015940,미곡종합처리장,Miggok General Processing Plant
+235015941,상수사거리앞,In front of the water range
+235015942,상수회관,Constant hall
+235015943,소현상회,Sohyeon
+235015944,상수마트,Constant mart
+235015945,상수마트,Constant mart
+235015946,상수초교,Constant
+235015947,상수초교,Constant
+235015948,경민상회,Gyeongmin Sanghoe
+235015949,경민상회,Gyeongmin Sanghoe
+235015950,건영슈퍼,Kunyoung Super
+235015951,건영슈퍼,Kunyoung Super
+235015952,서원컴텍,Seowon Combine
+235015953,서원컴텍,Seowon Combine
+235015954,협성섬유,Hyupseong Textile
+235015955,협성섬유,Hyupseong Textile
+235015956,못말낚시터,I can't say fishing
+235015957,못말낚시터,I can't say fishing
+235015958,덕도리,Deokdori
+235015959,덕도리,Deokdori
+235015960,덕도다리,Deokdo Bridge
+235015961,덕도다리,Deokdo Bridge
+235015962,한양산업,Hanyang industry
+235015963,한양산업,Hanyang industry
+235015964,태진,Taejin
+235015965,태진,Taejin
+235015966,덕도초교,Deokdo Elementary School
+235015967,덕도초교,Deokdo Elementary School
+235015968,마씨네,Maine
+235015969,마씨네,Maine
+235015970,돌모루다리,Dolmoro
+235015971,돌모루다리,Dolmoro
+235015972,돌모루,Dolmoru
+235015973,돌모루,Dolmoru
+235015974,장수슈퍼,Longevity Super
+235015975,장수슈퍼,Longevity Super
+235015976,광적119안전센터,Fine 119 Safety Center
+235015977,소현상회,Sohyeon
+235015978,상수회관,Constant hall
+235015979,미곡종합처리장,Miggok General Processing Plant
+235015980,보아스사랑의집,Boaz Love House
+235015981,산촌가든,Mountain village
+235015982,방앗간앞,In front
+235015983,일영솔밭,Ilyoungsol field
+235015985,덕도다리,Deokdo Bridge
+235015986,덕도다리,Deokdo Bridge
+235015987,태진,Taejin
+235015988,태진,Taejin
+235015989,연대앞,In front of the regiment
+235015990,연대앞,In front of the regiment
+235015992,상수사거리앞,In front of the water range
+235015993,마전리,Majeon -ri
+235015994,마전2통마을회관,Maejeon 2 Tongue Village Hall
+235015995,마전2통마을회관,Maejeon 2 Tongue Village Hall
+235015996,뜨락가든앞,In front
+235015997,뜨락가든앞,In front
+235015998,암뫼마을사거리,Amo Village Intersection
+235015999,암뫼마을사거리,Amo Village Intersection
+235016001,실버문화원,Silver Cultural Center
+235016002,에루화숯가마,Eru Hwa Charcoal Kiln
+235016003,동화2.3차아파트,Fairy Tale 2.3 Apartment
+235016004,우골,Ugly
+235016005,동화.세아아파트,Fairy Tale and SeAH Apartment
+235016006,백석읍행정복지센터,Baekseok -eup Administrative Welfare Center
+235016007,백석읍행정복지센터,Baekseok -eup Administrative Welfare Center
+235016008,교회앞,In front of the church
+235016009,에루화숯가마,Eru Hwa Charcoal Kiln
+235016010,부대앞,In front of the unit
+235016011,실버문화원,Silver Cultural Center
+235016012,주내교회.주내파출소,"Church in the week, the main police box"
+235016013,주내교회.주내파출소,"Church in the week, the main police box"
+235016014,삼상리차고지,Three Phase -ri Tea Highlands
+235016015,경기가스,Gyeonggi gas
+235016192,공병부대,Engineer
+235016174,부대앞,In front of the unit
+235016135,홍죽삼거리,Hongjuk Intersection
+235016136,옛고을,Old high
+235016137,옛고을,Old high
+235016138,동화사거리,Fairytale range
+235016139,현대빌라,Hyundai Villa
+235016140,해송빌라,Haesong Villa
+235016141,해송빌라,Haesong Villa
+235016142,자동차공업사,Automotive company
+235016143,자동차공업사,Automotive company
+235016144,복지삼거리(마을),Welfare Intersection (Village)
+235016145,양주관아지,Yangju Kwan Paji
+235016146,남방리,Southern
+235016147,주내농협,Nonghyup in the week
+235016148,주내농협,Nonghyup in the week
+235016149,양주역,Yangju Station
+235016150,양주역,Yangju Station
+235016151,남방리,Southern
+235016152,현대빌라,Hyundai Villa
+235016153,오리마을,Duck village
+235016154,산성빌라,Acidic villa
+235016155,영원섬유,Eternity
+235016157,두곡리회관,Dugokri Hall
+235016158,덕도삼거리,Deokdo Intersection
+235016160,방성리,Bangseong -ri
+235016161,덕도삼거리,Deokdo Intersection
+235016162,성창,Castle window
+235016163,두곡리입구,Dugokri entrance
+235016164,영원섬유,Eternity
+235016166,터줏대감,Tumbling
+235016167,터줏대감,Tumbling
+235016168,보수대앞,Conservative
+235016169,대진요양원,Daejin Nursing Home
+235016170,대진요양원,Daejin Nursing Home
+235016171,상수공단,Constant
+235016172,상수공단,Constant
+235016173,부대앞,In front of the unit
+235016175,모랫말슈퍼,Sand horse supermarket
+235016176,모랫말슈퍼,Sand horse supermarket
+235016177,호수촌,Lake village
+235016178,호수촌,Lake village
+235016179,모랫말회관,Sand hall
+235016180,모랫말회관,Sand hall
+235016181,구암리정자,Guam -ri
+235016182,구암리정자,Guam -ri
+235016183,건강관리실,Health care room
+235016184,건강관리실,Health care room
+235016185,구암사거리,Guam range
+235016186,신산5리입구,Sinsan 5 -ri Inhabit
+235016187,공원앞,In front of the park
+235016188,낙낙골,Nakgolgol
+235016189,한신리,Hanshin -ri
+235016190,느티나무집,Zelkova
+235016191,느티나무집,Zelkova
+235016193,공병부대,Engineer
+235016194,원당리슈퍼,Wondang -ri Super
+235016195,원당리슈퍼,Wondang -ri Super
+235016196,원당저수지,Wondang Reservoir
+235016197,원당저수지,Wondang Reservoir
+235016198,황방2리마을회관,Hwangbang 2 -ri Village Hall
+235016199,황방2리마을회관,Hwangbang 2 -ri Village Hall
+235016200,감악골,Gamakgol
+235016201,감악골,Gamakgol
+235016202,능골,Rare
+235016203,능골,Rare
+235016204,황방1리마을회관,Hwangbang 1 -ri Village Hall
+235016205,황방1리마을회관,Hwangbang 1 -ri Village Hall
+235016206,봉암교,Bongam Bridge
+235016207,봉암교,Bongam Bridge
+235016208,대조식품,Control
+235016209,정절사입구,Fidelity
+235016210,정절사입구,Fidelity
+235016211,낙낙골,Nakgolgol
+235016212,낙낙골,Nakgolgol
+235016213,현대지관,Hyundai Branch
+235016214,현대지관,Hyundai Branch
+235016215,귀평동,Pyeong -dong
+235016216,귀평동,Pyeong -dong
+235016217,귀평동2층집,2nd floor house
+235016218,귀평동2층집,2nd floor house
+235016219,다리앞,In front of the legs
+235016220,다리앞,In front of the legs
+235016221,상패초등학교,Sangpa Elementary School
+235016222,상패초등학교,Sangpa Elementary School
+235016224,비룡마트.한울아파트,Biryong Mart. Hanul Apartment
+235016225,토교장사거리,Toyojang Street
+235016226,모랫말입구,Sandwing entrance
+235016227,한라레미콘,Halla Micon
+235016228,가업2교,Family business school
+235016229,성창,Castle window
+235016230,25사단.비룡아파트,"25 Division, Biryong Apartment"
+235016231,보수대앞,Conservative
+235016232,신암저수지.감악산주차장,Sinam Reservoir. Gamaksan Parking Lot
+235016234,조소앙선생기념관입구,Josoang Memorial Hall
+235016235,하패2리마을회관,Hapa 2 -ri Village Hall
+235016236,상수사거리,Water range
+235016238,대조식품,Control
+235016239,낙낙동저수지,Nak -dong Reservoir
+235016240,신산5리입구,Sinsan 5 -ri Inhabit
+235016241,효촌2리마을회관앞,In front of Hyochon 2 -ri Village Hall
+235016242,효촌2리마을회관앞,In front of Hyochon 2 -ri Village Hall
+235016243,산성빌라,Acidic villa
+235016244,25사단.비룡아파트,"25 Division, Biryong Apartment"
+235016245,무궁화유지,Maintain
+235016246,무궁화유지,Maintain
+235016247,원학동입구,Wonhak -dong entrance
+235016248,드림하우스,Dreamhouse
+235016249,드림하우스,Dreamhouse
+235016251,마전2리마을회관,Majeon 2 -ri Village Hall
+235016252,마전2리마을회관,Majeon 2 -ri Village Hall
+235016253,먹골마을.대장금가든,Mokgol Village. Daejanggeum Garden
+235016254,먹골마을.대장금가든,Mokgol Village. Daejanggeum Garden
+235016255,원학동입구,Wonhak -dong entrance
+235016256,삼하리,Samhari
+236001390,선단5통마을회관앞,In front of the 5th Tong Village Hall
+236001391,선단5통마을회관앞,In front of the 5th Tong Village Hall
+235001188,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+235001189,원학동.골프장입구,Wonhak -dong and Golf Area entrance
+236001392,가채리야구장,Gajari Baseball Stadium
+236001393,가채리야구장,Gajari Baseball Stadium
+236001416,유보섬유,Reserve
+235506970,덕정중학교,Deokjeong Middle School
+235507000,덕정중학교,Deokjeong Middle School
+235511250,일광공업사,Daylight
+235511680,예비군훈련장입구,Reserve Army Training Center
+235511780,유월의아침,June
+235512050,일광공업사,Daylight
+235512270,루이힐스골프장,Louis Hills Golf Course
+235512430,마전1통마을회관,Maejeon 1 Tong Village Hall
+235512440,양주화훼단지,Yangju Flower Complex
+235512480,백석우체국,Baekseok Post Office
+235512490,백석우체국,Baekseok Post Office
+235512580,어하마을,Eoha village
+235512590,루이힐스골프장,Louis Hills Golf Course
+235512710,낙낙동저수지,Nak -dong Reservoir
+236000433,금주5리.백로주,"This week, 5 -ri."
+236000434,금주5리.백로주,"This week, 5 -ri."
+236000437,만세교검문소,Long Sejong Checkpoint
+236000441,소학2리,Sohak 2 -ri
+236000442,소학3리,Sohak 3 -ri
+236000443,소학3리,Sohak 3 -ri
+236000444,소학2리,Sohak 2 -ri
+236000447,시우동미곡처리장,Siu -dong Migok Processing Plant
+236000448,방축3리군자정,Bangchuk 3 Li -gun midnight
+236000449,성불암.방축2리,"Seongbulam, Bangchuk 2 -ri"
+236000450,방축1리.화산서원,Bangchuk 1 -ri. Volcano Seowon
+236000451,마산1리,Masan 1 -ri
+236000453,마전리.은하수관광,Majeon -ri. Milky Way Tour
+236000454,황새목.낚시터,Suksaemok. Fishing
+236000455,황새목.낚시터,Suksaemok. Fishing
+236000456,마전리.은하수관광,Majeon -ri. Milky Way Tour
+236000457,가산사거리,Gasan range
+236000458,마산3리,Masan 3 -ri
+236000459,방축1리.화산서원,Bangchuk 1 -ri. Volcano Seowon
+236000460,성불암.방축2리,"Seongbulam, Bangchuk 2 -ri"
+236000461,방축3리군자정,Bangchuk 3 Li -gun midnight
+236000462,시우동미곡처리장,Siu -dong Migok Processing Plant
+236000471,상운아파트,Sangwoon Apartment
+236000473,금현2리,Geumhyeon 2 -ri
+236000475,금현3리.대대울,Geumhyun 3 -ri.
+236000477,금현2리,Geumhyeon 2 -ri
+236000479,정교초등학교,Orthodox Elementary School
+236000480,정교리,Jeonggyo -ri
+236000481,정교1교,Orthodox school
+236000482,궁말.금현2리,Palace. Geumhyun 2 -ri
+236000483,금현3리.대대울,Geumhyun 3 -ri.
+236000484,금현5리,Geumhyun 5 -ri
+236000487,우금1리.궁말,Woogeum 1 -ri.
+236000488,우금1리.마치미,Woogeum 1 -ri. Machimi
+236000489,신팔2리,Shinpal 2 -ri
+236000490,신팔2리.청담마을,Shinpal 2 -ri. Cheongdam Village
+234000373,이석리호수집앞,In front of Lake Lee Seok -ri
+234000375,회덕동대주아파트앞,In front of Hoedok -dong Daeju Apartment
+234000376,회덕동벽산아파트,Hoedeok Dongbyeoksan Apartment
+234000377,회덕벽산아파트,Hoedeok Byucksan Apartment
+234000378,회덕동대주아파트앞,In front of Hoedok -dong Daeju Apartment
+234000379,태전동현대아파트입구,Taejeon -dong Hyundai Apartment Entrance
+234000380,JLP주유소,JLP gas station
+235000167,한거름,Gap
+235000168,한거름,Gap
+235000169,지섬.종이나라,Jisom. Paper Country
+235000178,남방동입구,Southern
+235000179,남방동삼거리,Southern
+235000180,복지그린빌라앞,Welfare Green Villa in front of
+235000181,복지그린빌라앞,Welfare Green Villa in front of
+235000182,세아1차아파트,SeAH 1 apartment
+235000183,양주소방서,Yangjeo Fire Station
+235000184,양주소방서,Yangjeo Fire Station
+235000185,세아1차아파트,SeAH 1 apartment
+235000186,오산삼거리,Osan Samori Intersection
+235000188,대성사입구,Daesungsa entrance
+235000189,산성말,Acid
+235000190,소놀이굿전수회관,Sonolgood Goods Hall
+235000191,방아다리,Bang
+235000192,복지리,Welfare
+235000193,백석농협,Baekseok Nonghyup
+235000194,백석읍행정복지센터.백석초교,Baekseok -eup Administrative Welfare Center. Baekseok Elementary School
+235000195,방앗간.작은오미,Mill. Little Omi
+235000196,넘말.작은오미,"Over the word, small Omi"
+235000197,넘말.작은오미,"Over the word, small Omi"
+235000198,방앗간.작은오미,Mill. Little Omi
+235000199,백석읍행정복지센터.백석초교,Baekseok -eup Administrative Welfare Center. Baekseok Elementary School
+235000214,만송동1통,1 Mansong -dong
+235000215,오리골,Duck
+235000216,오리골,Duck
+235000217,만송동1통,1 Mansong -dong
+235000218,중말,Middle words
+235513050,장흥고가밑,Jangheunggo under
+235513270,복지사거리.태영아파트(마을),Welfare Intersection. Taeyoung Apartment (Village)
+235513670,광적면사무소.가래비시장,"Fine -placed office, sputum cost market"
+235513680,선업교,Priesthood
+235513710,월계자율방범대,Laurel Self -Defense Force
+235513720,양주골,Yangjugol
+235514040,부대앞,In front of the unit
+235514090,방성리주공휴먼시아,Bangseong -ri Jugong Hughesia
+235514100,26사단앞,26th Division
+235514270,보메기다리,Bomegi leg
+235514470,성황당굿당,Holy Hwangdang Gooddang
+235514510,28보수대.부영판지,28 conservatives.
+235514540,형제실업,Brotherhood
+235514690,효촌초등학교,Hyochon Elementary School
+235515080,모레말,Day after tomorrow
+235515160,둥지앞,In front of the nest
+235515570,세진금속,Sejin Metal
+235515640,별장펜션앞,In front of the cottage pension
+235515650,신우섬유,Shinwoo Tiber
+235515700,천주교연수원,Catholic Training Institute
+235515780,모레말,Day after tomorrow
+235515810,대성사입구,Daesungsa entrance
+235515960,기산리한우마을,Kisanri Hanwoo Village
+235516010,마전리,Majeon -ri
+235516020,내촌차고지(경유),Naechon garage (via)
+235516100,조양농원,Choyang Farm
+235516120,교회앞,In front of the church
+235516130,연곡3리,Yeongok 3 -ri
+235516140,상수검문소,Constant checkpoint
+235516160,형제실업,Brotherhood
+235516190,할머니집앞,Grandmother's house
+235516220,검은돌,Black stone
+235516230,기우리,Lifetime
+235516340,효촌초등학교앞,In front of Hyochon Elementary School
+235516390,신산리종점,Sinsan Lijong Branch
+235516410,장포고을마트,Jangpo Goeul Mart
+235516420,장포고을마트,Jangpo Goeul Mart
+235516450,삼상리차고지,Three Phase -ri Tea Highlands
+235516540,신흥유원지입구,Emergency site entrance
+235516550,동화5.6차아파트,Fairy Tale 5.6th Apartment
+235516580,문예회관,Literary hall
+235516590,동화1차아파트,Fairy Tale 1st Apartment
+235516600,동화5.6차아파트,Fairy Tale 5.6th Apartment
+235516610,매곡리구멍가게,Maegok -gu bruise shop
+235516620,나사로청소년의집,Lazarus house of youth
+235516630,나사로청소년의집,Lazarus house of youth
+235516640,매곡리구멍가게,Maegok -gu bruise shop
+235516650,효촌리양주골,Hyochon Li Yanggol
+235516660,효촌리양주골,Hyochon Li Yanggol
+235516690,효계율다리,Hyoye Yul Bridge
+235516700,효계율다리,Hyoye Yul Bridge
+235516710,울어리,Crying
+235516720,목장앞,In front of the ranch
+235516730,울어리,Crying
+235516740,울어리,Crying
+235516770,울어리,Crying
+235516780,목장앞,In front of the ranch
+236000491,신팔2리.솔번지,Shinpal 2 -ri.
+236000492,신팔1리서파,Sinpal 1 Liser
+236000493,신팔1리서파,Sinpal 1 Liser
+236000494,신팔2리.솔번지,Shinpal 2 -ri.
+236000495,청담마을,Cheongdam Village
+236000497,우금1리.마치미,Woogeum 1 -ri. Machimi
+236000498,우현농장,Woohyun Farm
+236000499,고인돌.금현5리,"Dolmen, Geumhyun 5 -ri"
+236000501,포천세무서,Pocheon Tax Office
+236000502,송우4리.신촌마을,Songwoo 4 -ri. Sinchon Village
+236000503,동교4통,Donggyo 4
+236000504,동교리종점,Donggyo Lijong Branch
+236000505,포천세무서,Pocheon Tax Office
+236000506,이가팔리대들보주유소,Igapali Daebosu Yu So
+236000527,유동1리.버들골,Flow 1 -ri.
+236000528,화현5리.승진아파트,Hwahyun 5 -ri. Promotion Apartment
+236000529,화현3리,Hwahyun 3 -ri
+236000530,유동2리,Flow 2 -ri
+236000531,화현4리.선촌입구,Hwahyun 4 -ri.
+236000532,유동1리.버들골,Flow 1 -ri.
+236000533,화현5리.승진아파트,Hwahyun 5 -ri. Promotion Apartment
+236000534,선촌입구,Sunchon entrance
+236000535,화현3리,Hwahyun 3 -ri
+236000536,화대2리.제일온천,Hwadae 2 -ri. Cheil Hot Spring
+236000537,일동면사무소.농협,"Ildong -myeon office, Nonghyup"
+236000538,운담사거리,Undam Intersection
+236000539,용암천,Lava
+236000540,용암천,Lava
+236000541,운담사거리,Undam Intersection
+236000542,화대2리.제일온천,Hwadae 2 -ri. Cheil Hot Spring
+236000543,일동면사무소.농협,"Ildong -myeon office, Nonghyup"
+236000544,일동중.고등학교,Ildongjung. High school
+236000545,일동중.고등학교,Ildongjung. High school
+236000546,일동시장입구,Ildong Market Entrance
+236000547,일동초교.일동도서관,Ildong Elementary School. Ildong Library
+236000548,기산1리.배리,Kisan 1 -ri. Barry
+236000549,기산5리.말미,Kisan 5 -ri.
+234000407,옥도골,Okdogol
+234000421,신영프로방스.현대물류센타,"Shinyoung Provence, Hyundai Logistics Center"
+234000422,추자리.오포초등학교,Chujari. Oppo Elementary School
+234000423,대보산업,Daebo Industrial
+234000424,대보산업,Daebo Industrial
+234000425,추자리.오포초등학교,Chujari. Oppo Elementary School
+234000426,신영프로방스.현대물류센타,"Shinyoung Provence, Hyundai Logistics Center"
+234000440,불당리.벌교집앞,In front of Bulldangri.
+234000441,검복리마을회관앞,In front of the Gumbokri Village Hall
+234000442,검복리.남벽수입구,Sword Bok -ri.
+235516790,한국악기,Korean instrument
+235516800,한국악기,Korean instrument
+235516810,덕도2리마을회관앞,In front of Dukdo 2 -ri Village Hall
+235516820,덕도2리마을회관앞,In front of Dukdo 2 -ri Village Hall
+235516830,대성아스콘,Daesung Ascon
+235516840,대성아스콘,Daesung Ascon
+235516850,경인폐차장,Gyeongin junkyard
+235516860,경인폐차장,Gyeongin junkyard
+235516870,경신리초입,Gyeongsin -ri initial
+235516880,경신리초입,Gyeongsin -ri initial
+235516890,경신슈퍼,Gyeongshin Super
+235516900,경신슈퍼,Gyeongshin Super
+235516910,경신상회,Lord
+235516920,경신상회,Lord
+235516930,영원섬유,Eternity
+235516940,영원섬유,Eternity
+235516950,향나무식당,Junkyard
+235516960,향나무식당,Junkyard
+235516970,훈슈퍼,Hun Super
+235516980,훈슈퍼,Hun Super
+235516990,덕도1리구마을회관,Deokdo 1 Rigu Village Hall
+235517000,덕도1리구마을회관,Deokdo 1 Rigu Village Hall
+235517010,하이콤이엔씨,Hi -Common
+235517020,하이콤이엔씨,Hi -Common
+235517050,낙낙골,Nakgolgol
+235517060,보메기다리,Bomegi leg
+235517070,문예회관,Literary hall
+235517080,쏘가리낚시터,Soleari fishing ground
+235517090,가업2리,Family business 2 -ri
+235517100,한거름,Gap
+235517110,우고리마을회관,Woogori Village Hall
+235517120,우고리마을회관,Woogori Village Hall
+235517130,우고리목장,Woogori ranch
+235517140,우고리목장,Woogori ranch
+235517480,꾸러기어린이집,Nursery
+235517490,꾸러기어린이집,Nursery
+235517500,진재,Jinjae
+235517510,진재,Jinjae
+235517540,비석골,Tombstone
+234000447,직동,Direct dong
+234000448,테라스오포아파트.산하빌라,Terrace Opo Apartment.
+234000449,현대모닝사이드2차아파트,Hyundai Morning Side 2nd Apartment
+234000450,강남cc,Gangnam CC
+234000459,경기도남한산성세계유산센터,"World Heritage Center in Hansanseong, Gyeonggi -do"
+234000460,남한산성(종점),Namhansanseong (end point)
+234000461,금호리첸시아,Kumho Rician
+234000468,벼락바위,Thunderbolt
+234000469,벼락바위,Thunderbolt
+234000472,곤지암터미널,Konjiam Terminal
+234000475,에벤에셀.이마트물류센타,Ebenezel. E -Mart Logistics Center
+234000476,에벤에셀.이마트물류센타,Ebenezel. E -Mart Logistics Center
+234000482,오거스타골프클럽,Ogger Star Golf Club
+234000483,오거스타골프클럽,Ogger Star Golf Club
+234000484,신일기업,Shinil Corporation
+234000485,신일기업,Shinil Corporation
+234000486,동심8차빌라,Concentric 8th Villa
+235517170,딱따구리수련원,Tutter Guri Training Center
+235517180,딱따구리수련원,Tutter Guri Training Center
+235517190,삼현,Samhyun
+235517200,삼현,Samhyun
+235517210,승태목장,Seungtae Ranch
+235517220,승태목장,Seungtae Ranch
+235517240,종이나라,Paper
+235517250,쏘가리낚시터,Soleari fishing ground
+235517260,세진금속,Sejin Metal
+235517270,문화예술회관입구,Culture and Arts Center Entrance
+235517390,선업교,Priesthood
+235517400,무궁화교,Mugunghwan
+235517410,무궁화교,Mugunghwan
+235517420,풍천장어,Pungcheon eel
+235517430,풍천장어,Pungcheon eel
+235517440,공동묘지,Cemetery
+235517450,공동묘지,Cemetery
+235517460,일성사,Ilseongsa Temple
+235517470,일성사,Ilseongsa Temple
+234000487,동심8차빌라,Concentric 8th Villa
+234000488,테라스오포3단지,Terrace Oppo Complex 3
+234000489,테라스오포3단지,Terrace Oppo Complex 3
+234000490,한양슈퍼,Hanyang Super
+234000491,한양슈퍼,Hanyang Super
+234000492,테라스오포아파트.산하빌라,Terrace Opo Apartment.
+234000493,오포문형양우내안애아파트,Opomun Hyangyang Woo Nae Ae Apartment
+234000494,엄미리삼거리,Mi -ri Intersection
+234000495,신한의료고무,Shinhan Medical Rubber
+234000496,신한의료고무,Shinhan Medical Rubber
+234000497,일진게이트,Iljingate
+234000498,일진게이트,Iljingate
+234000499,신현베스트타운,Shinhyun Best Town
+234000500,신현베스트타운,Shinhyun Best Town
+235000302,홍죽2리마을회관,Hongjuk 2 -ri Village Hall
+235000303,안골입구,Angol entrance
+235000328,기산리석곡,Kisan -ri Seokgok
+235517550,비석골,Tombstone
+235517560,승방모퉁이,Plot
+235517570,승방모퉁이,Plot
+235517580,L마트,L mart
+235517590,새마을금고,Saemaul Undong
+235517610,한산교,Hansan Bridge
+235517620,한산교,Hansan Bridge
+235517630,한산1리회관,Hansan 1 -ri Hall
+235517640,한산1리회관,Hansan 1 -ri Hall
+235517650,슈퍼,Supermarket
+235517670,주말낙원농장,Weekend Paradise Farm
+235517690,망향의동산,Garden of Manghyang
+235517710,한산2리,Hansan 2 -ri
+235517720,양주화훼단지,Yangju Flower Complex
+235517730,남면초교,Namyeon Elementary School
+235517740,남면초교,Namyeon Elementary School
+235517750,천탑산업.입암리능고개,Cheon Tower Industry.
+235517760,천탑산업.입암리능고개,Cheon Tower Industry.
+235517770,입암리비석앞,In front of Ipam Libystone
+235517780,입암리비석앞,In front of Ipam Libystone
+235517790,입암1리회관,Ipam 1 -ri Hall
+235517800,입암1리회관,Ipam 1 -ri Hall
+235517810,거해산업,Haehae industry
+235517820,거해산업,Haehae industry
+235517830,손두부,Hand tofu
+235517840,손두부,Hand tofu
+235517850,상신섬유,Sangsin Fiber
+235517860,상신섬유,Sangsin Fiber
+235517870,장안섬유,Jangan fiber
+235517880,장안섬유,Jangan fiber
+235517900,보아스,Boaz
+235517910,산촌가든,Mountain village
+235517920,대청마루,Daecheong Maru
+235517930,상수사거리앞,In front of the water range
+235517940,상수회관,Constant hall
+235517950,소현상회,Sohyeon
+235517960,상수마트,Constant mart
+235517970,상수마트,Constant mart
+235517980,상수초교,Constant
+235518010,상수초교,Constant
+235518020,경민상회,Gyeongmin Sanghoe
+235518030,경민상회,Gyeongmin Sanghoe
+235518040,건영슈퍼,Kunyoung Super
+235518050,건영슈퍼,Kunyoung Super
+235518060,서원컴텍,Seowon Combine
+235518070,서원컴텍,Seowon Combine
+235518080,협성섬유,Hyupseong Textile
+235518090,협성섬유,Hyupseong Textile
+235518100,못말낚시터,I can't say fishing
+235518110,못말낚시터,I can't say fishing
+235518120,덕도리,Deokdori
+235518130,덕도리,Deokdori
+235518140,덕도다리,Deokdo Bridge
+235518150,덕도다리,Deokdo Bridge
+235518160,한양산업,Hanyang industry
+235518170,한양산업,Hanyang industry
+235518180,태진,Taejin
+235518190,태진,Taejin
+234000505,아일기계,Amiller
+234000506,아일기계,Amiller
+234000507,엄미리삼거리,Mi -ri Intersection
+234000508,엄미2리마을회관,Ummi 2 -ri Village Hall
+234000512,한라참치,Halla tuna
+234000515,두일캡,Two -day cap
+234000516,두일캡,Two -day cap
+234000517,황제쉬르빌,Emperor
+234000518,황제쉬르빌,Emperor
+234000525,신현리.대호빌리지,Shin Hyun -ri. Daeho Village
+234000526,지엔지,Zenji
+234000527,지엔지,Zenji
+234000528,현대모닝사이드2차아파트,Hyundai Morning Side 2nd Apartment
+234000529,삼거리,Three -way
+234000530,삼거리,Three -way
+234000531,청솔마을,Cheongsol Village
+234000532,청솔빌라,Cheongsol Villa
+234000533,마을회관,Town hall
+234000534,마을회관,Town hall
+234000535,느티나무,Zelkova
+234000536,느티나무,Zelkova
+234000537,신현물류,Shinhyun Logistics
+234000538,신현물류,Shinhyun Logistics
+234000539,엄미2리마을회관,Ummi 2 -ri Village Hall
+234000540,엄미리입구,Ummi entrance
+234000541,클래식하우스,Classic house
+234000542,클래식하우스,Classic house
+235000507,급양대,Plague
+235001242,어룡고개,Dragon
+234000543,형제가든,Brother Garden
+234000544,형제가든,Brother Garden
+235016096,거울앞,In front of the mirror
+234000545,강남빌라,Gangnam Villa
+234000546,강남빌라,Gangnam Villa
+234000547,무들교입구,Muddles entrance
+234000548,무들교입구,Muddles entrance
+234000549,한양마트,Hanyang Mart
+234000550,한양마트,Hanyang Mart
+234000551,우신가구,Wooshin furniture
+234000552,우신가구,Wooshin furniture
+234000553,고개사슴농장입구,Gaegae Heart Farm Entrance
+234000554,고개사슴농장입구,Gaegae Heart Farm Entrance
+234000555,거산전원마을입구,Geosan Country Village Entrance
+234000556,거산전원마을입구,Geosan Country Village Entrance
+234000557,무갑리사거리,Nubilor Street
+234000558,무갑리사거리,Nubilor Street
+234000559,천현농장,Cheonhyeon Farm
+234000560,천현농장,Cheonhyeon Farm
+234000561,양지마을.무갑사입구,Yangji Village.
+234000562,양지마을.무갑사입구,Yangji Village.
+235000363,세아2차아파트,SeAH 2nd Apartment
+235000365,선경빌라.불무리,Sunkyung Villa.
+235000366,선경빌라.불무리,Sunkyung Villa.
+235000368,세아2차아파트,SeAH 2nd Apartment
+235000372,대뜰,Courtyard
+235000373,단촌삼거리,Dancchon Intersection
+235000374,단촌삼거리,Dancchon Intersection
+235000377,가래비사거리,Sputum
+235000380,가래비사거리,Sputum
+235000383,삼희아파트,Samhee apartment
+235000385,축산위생연구소,Livestock
+235000386,경동대입구.명진빌라,Gyeongdong University Institute. Myeongjin Villa
+235000389,경동대입구.명진빌라,Gyeongdong University Institute. Myeongjin Villa
+235000398,삼숭2통,Sam So 2
+235000403,삼숭2통,Sam So 2
+235000412,한미자동차학원,Hanmi Motor Academy
+235000415,자이아파트입구사거리,Zay Apartment Entrance Intersection
+235000942,회암사지박물관,Hoamamji Museum
+235000416,MBC문화동산,MBC Culture Garden
+235000417,회만동마을회관,Hoe Mandong Village Hall
+235000418,만송동중촌교,Mansong -dong Jungchon Bridge
+235000419,만송동중촌교,Mansong -dong Jungchon Bridge
+235000420,회만동,Hoe Mandong
+235518200,덕도초교,Deokdo Elementary School
+235518210,덕도초교,Deokdo Elementary School
+235518220,마씨네,Maine
+235518230,마씨네,Maine
+235518240,돌모루다리,Dolmoro
+235518250,돌모루다리,Dolmoro
+235518260,돌모루,Dolmoru
+235518270,돌모루,Dolmoru
+235518280,유명식당,Famous restaurant
+235518290,유명식당,Famous restaurant
+235518300,장수슈퍼,Longevity Super
+235518310,장수슈퍼,Longevity Super
+235518340,광적소방소,Fire at the fire station
+235518350,소현상회,Sohyeon
+235518360,상수회관,Constant hall
+235518370,대청마루,Daecheong Maru
+235518380,보아스,Boaz
+235518390,산촌가든,Mountain village
+235518400,신리,Sin -ri
+235518410,방앗간앞,In front
+235518430,일영솔밭,Ilyoungsol field
+235518530,상수검문소,Constant checkpoint
+235518540,덕도다리,Deokdo Bridge
+235518550,덕도다리,Deokdo Bridge
+235518560,태진,Taejin
+235518570,태진,Taejin
+235518580,연대앞,In front of the regiment
+235518590,연대앞,In front of the regiment
+235518610,한승아파트(사용금지),Hanseung apartment (prohibited use)
+235518630,상수사거리앞,In front of the water range
+235518640,마전리,Majeon -ri
+235518660,마전2통마을회관,Maejeon 2 Tongue Village Hall
+235519310,경기가스,Gyeonggi gas
+235519320,미스터츄리,Mr. Churi
+235519330,미스터츄리,Mr. Churi
+235519360,능골,Rare
+235519370,능골,Rare
+235016074,대동가스,Daedong gas
+235016075,용암3리회관앞,In front of lava 3 -ri pavilion
+235016076,용암3리회관앞,In front of lava 3 -ri pavilion
+235016077,대동가스,Daedong gas
+235016078,동화섬유,Fairytale fiber
+235016079,동화섬유,Fairytale fiber
+235016080,약수터입구,Yaksu entrance
+235016081,약수터입구,Yaksu entrance
+235016082,용암2리입구,Lava 2
+235016083,용암2리입구,Lava 2
+235016084,아랫소래,Lowering
+235016085,월계초소,Laurel
+235016086,약수터,Spring water
+235016087,약수터,Spring water
+235016088,내리골,Fall bone
+235016089,내리골,Fall bone
+235016090,내리골입구,Lower goal entrance
+235016091,내리골입구,Lower goal entrance
+235016092,도하2리.살구골,Doha 2 -ri.
+235016093,도하2리.살구골,Doha 2 -ri.
+235016094,느티나무,Zelkova
+235016095,느티나무,Zelkova
+234000575,쌍곰,Twin bears
+234000576,쌍곰,Twin bears
+234000577,진미식당,Delicacy
+234000578,진미식당,Delicacy
+234000579,팩플러스.모터클럽자동차공업사,Pack Plus. Motor Club Automobile Industry
+234000580,팩플러스.모터클럽자동차공업사,Pack Plus. Motor Club Automobile Industry
+234000581,동물농장,Animal farm
+234000582,동물농장,Animal farm
+234000583,옥도골,Okdogol
+234000584,그린직업전문학교,Green Vocational College
+234000585,그린직업전문학교,Green Vocational College
+234000586,시곡농장,Sigok Farm
+234000587,테크노티,Technoi
+234000588,테크노티,Technoi
+234000590,경화여고,Curing
+234000591,경화여고,Curing
+234000592,쌍용2차,Ssangyong 2nd
+234000593,쌍용2차,Ssangyong 2nd
+234000594,우림.e편한양벌아파트,Woorim. E
+234000595,우림.e편한양벌아파트,Woorim. E
+234000596,대주아파트,Daeju apartment
+234000597,대주아파트,Daeju apartment
+234000598,대주할인마트,Daeju Discount Mart
+234000606,수청1리,Suwon 1 -ri
+234000607,귀여3리,Cute 3 -ri

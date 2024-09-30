@@ -29,6 +29,7 @@ To use the Hangeul Romanization Converter, you need to have Python installed on 
 
 2.	Install the required dependencies (if any):
    pip install -r requirements.txt
+   pip install pandas googletrans==4.0.0-rc1
 
 ## License
 

@@ -1,4 +1,5 @@
 import re
+from googletrans import Translator
 
 """
 ------------------------------------------------------------------------------
@@ -35,6 +36,7 @@ class HangeulRomaja:
     TYPE_DEFAULT = 0
     TYPE_NAME = 1
     TYPE_ADDRESS = 2
+    TYPE_GOOGLE = 3    
     CAPITALIZE_NONE = 4
     CAPITALIZE_FIRST = 8
     CAPITALIZE_WORDS = 16
@@ -51,6 +53,12 @@ class HangeulRomaja:
             return ''
         
         print ('Original Text = ', text)
+
+        if conversion_type == HangeulRomaja.TYPE_GOOGLE:
+            translator = Translator()
+            result = translator.translate(text, src='ko', dest='en').text
+            print ('Result Text = ', result)
+            return result
 
         if conversion_type == HangeulRomaja.TYPE_NAME:
             if len(text) > 2:
@@ -76,7 +84,7 @@ class HangeulRomaja:
             text = re.sub(r'([문산])로 ([0-9]+)-ga', r'\1노 \2-ga', text)
             text = text.strip()
             options |= HangeulRomaja.CAPITALIZE_WORDS
-
+        
         chars = list(text)
 
         parts = []
